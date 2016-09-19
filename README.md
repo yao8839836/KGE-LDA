@@ -2,6 +2,8 @@
 
 The implementation of Knowledge Graph Embedding LDA.
 
+# Main entries
+
 The main entries for KGE-LDA(a), KGE-LDA(b), Corr-LDA, CI-LDA (Link-LDA), CTM and LDA on the three datasets 20NG, NIPS and Ohsumed are in KGE-LDA/src/result20ng/, KGE-LDA/src/resultnips/ and KGE-LDA/src/resultohsumed/.
 The main entries are ResultXXXXXX.java
 
@@ -9,6 +11,8 @@ The main entries for GK-LDA on the three datasets 20NG, NIPS and Ohsumed are in 
 
 
 The main entries for LF-LDA on the three datasets 20NG, NIPS and Ohsumed are in LFTM/src/test/. The main entries are ResultLFLDAXXX.java
+
+# Reproduce results
 
 To reproduce the results in the paper:
 
