@@ -2,6 +2,8 @@
 
 The implementation of Knowledge Graph Embedding LDA.
 
+Require Java 7+ and Eclipse.
+
 # Main entries
 
 The main entries for KGE-LDA(a), KGE-LDA(b), Corr-LDA, CI-LDA (Link-LDA), CTM and LDA on the three datasets 20NG, NIPS and Ohsumed are in KGE-LDA/src/result20ng/, KGE-LDA/src/resultnips/ and KGE-LDA/src/resultohsumed/.
@@ -30,3 +32,5 @@ The 4,776,093 Wikipedia articles are in , I extracted them from http://deepdive.
 (2) The tokenized documents are in /KGE-LDA/file/20ng/, /KGE-LDA/file/nips/ and /KGE-LDA/file/ohsumed/.
 
 (3) The linked entities in WordNet(via NLTK) are in /KGE-LDA/file/20ng_wordnet/, /KGE-LDA/file/nips_wordnet/ and /KGE-LDA/file/ohsumed_wordnet/. their ids are in /KGE-LDA/file/xxx_wordnet_id/.
+
+(4) To tokenize your own documents, you also need to download the model file of Stanford CoreNLP and add it to the class path.
