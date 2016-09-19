@@ -1,0 +1,82 @@
+GK-LDA (General Knowledge based LDA)
+
+GK-LDA is an open-source Java package implementing the algorithm proposed in the paper (Chen et al., CIKM 2013), created by Zhiyuan (Brett) Chen. For more details, please refer to this paper.
+
+If you use this package, please cite the paper: Zhiyuan Chen, Arjun Mukherjee, Bing Liu, Meichun Hsu, Malu Castellanos, and Riddhiman Ghosh. Discovering Coherent Topics Using General Knowledge. In Proceedings of CIKM 2013, pages 209-218.
+
+If you have any question or bug report, please send it to Zhiyuan (Brett) Chen (czyuanacm@gmail.com).
+
+Table of Contents
+1. Quick Start
+2. Commandline Arguments
+3. Input and Output
+4. Contact Information
+
+1. Quick Start
+
+First, Clone the repo: git clone https://github.com/czyuan/GKLDA.git.
+
+Then, 2 quick start options are available:
+
+Import the directory into Eclipse (recommended).
+
+If you get the exception Java.Lang.OutOfMemoryError, please increase the Java heap memory for Eclipse: http://www.mkyong.com/eclipse/eclipse-java-lang-outofmemoryerror-java-heap-space/.
+
+Use Maven
+
+a. Then, change the current working directory to Src.
+
+cd GKLDA/Src
+
+b. Build the package.
+
+mvn clean package
+
+c. Increase the Java heap memory for Maven.
+
+export MAVEN_OPTS=-Xmx1024m
+
+d. Run the program.
+
+mvn exec:java -Dexec.mainClass="launch.MainEntry"
+
+2. Commandline Arguments
+
+The commandline arguments are stored in the file "global/CmdOption.java". If no argument is provided, the program uses the default arguments. There are several arguments that are subject to change:
+
+-i: the path of input domains directory.
+-know: the file path of input knowledge file.
+-o: the path of output model directory.
+-nthreads: the number of threads used in the program. The program runs in parallel supporting multithreading.
+-nTopics: the number of topics used in Topic Model for each domain.
+
+3. Input and Output
+
+Input
+
+The input directory should contain domain files. For each domain, there should be 2 files (can be opened by text editors):
+
+domain.docs: each line (representing a document) contains a list of word ids.
+domain.vocab: mapping from word id (starting from 0) to word, separated by ":".
+The input directory should also contain a knowledge file, in which each line represents a must-set (i.e., a set of words that should appear together under the same topic).
+
+Output
+
+The output directory contains topic model results for each learning iteration. LearningIteration 0 is always LDA, i.e., without any knowledge. LearningIteration 1 is GK-LDA with the input knowledge. LDA is run first in order to construct word correlation metric used in GK-LDA.
+
+Under each learning iteration folder and sub-folder "DomainModels", there are a list of domain folders where each domain folder contains topic model results for each domain. Under each domain folder, there are 6 files (can be opened by text editors):
+
+domain.docs: each line (representing a document) contains a list of word ids.
+domain.param: parameter settings.
+domain.tassign: topic assignment for each word in each document.
+domain.twdist: topic-word distribution
+domain.twords: top words under each topic. The columns are separated by '\t' where each column corresponds to each topic.
+domain.vocab: mapping from word id (starting from 0) to word.
+
+4. Contact Information
+
+Author: Zhiyuan (Brett) Chen
+Affiliation: University of Illinois at Chicago
+Research Area: Text Mining, Machine Learning, Statistical Natural Language Processing, and Data Mining
+Email: czyuanacm@gmail.com
+Homepage: http://www.cs.uic.edu/~zchen/

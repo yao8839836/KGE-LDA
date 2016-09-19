@@ -1,0 +1,70 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>GKLDA</groupId>
+  <artifactId>GKLDA</artifactId>
+  <version>0.1</version>
+  <description>Discovering coherent topics using general knowledge</description>
+  <url>https://github.com/czyuan/GKLDA</url>
+  
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  
+  <developers>
+    <developer>
+      <id>czyuan</id>
+      <name>Zhiyuan (Brett) Chen</name>
+      <email>czyuanacm@gmail.com</email>
+    </developer>
+  </developers>
+  
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+    <resources>
+      <resource>
+        <directory>src</directory>
+        <excludes>
+          <exclude>**/*.java</exclude>
+        </excludes>
+      </resource>
+    </resources>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.1</version>
+        <configuration>
+		  <source/>
+		  <target/>
+          <argLine>-Xmx4000M</argLine>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+  
+  <repositories>
+    <repository>
+      <id>com.springsource.repository.bundles.release</id>
+      <name>SpringSource Enterprise Bundle Repository - SpringSource Bundle Releases</name>
+      <url>http://repository.springsource.com/maven/bundles/release</url>
+	</repository>
+	<repository>
+      <id>com.springsource.repository.bundles.external</id>
+      <name>SpringSource Enterprise Bundle Repository - External Bundle Releases</name>
+      <url>http://repository.springsource.com/maven/bundles/external</url>
+	</repository>
+  </repositories>
+  
+  <dependencies>
+  	<dependency>
+  		<groupId>args4j</groupId>
+  		<artifactId>args4j</artifactId>
+  		<version>2.0.29</version>
+  	</dependency>
+  </dependencies>
+  
+</project>

@@ -1,0 +1,11 @@
+-model	LFLDA
+-corpus	data/20ng.corpus
+-vectors	data/20ng_vectors_50d.txt
+-ntopics	40
+-alpha	1.25
+-beta	0.01
+-lambda	0.6
+-initers	1000
+-niters	200
+-twords	10
+-name	20ng

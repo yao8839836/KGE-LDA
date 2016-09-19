@@ -1,0 +1,1369 @@
+Synset('border_on.v.01')	approached approaches approach
+Synset('lead.v.04')	head led
+Synset('period.n.03')	period periods
+Synset('channel.n.04')	channels channel
+Synset('fast.v.01')	fasted fast fasting
+Synset('priority.n.02')	priorities priority
+Synset('tend.v.01')	tend tended lean
+Synset('report.v.05')	reports covering covered reported report reporting
+Synset('testify.v.02')	proved shown evidence showed show proven evidenced
+Synset('kindle.v.02')	kindled kindling
+Synset('offer.v.06')	offer offers offered
+Synset('element.n.05')	elements element
+Synset('total_darkness.n.01')	black blacks
+Synset('rede.v.02')	counseling advised counseled
+Synset('clinician.n.01')	clinician clinicians
+Synset('genesis.n.01')	generation generations
+Synset('conjunction.n.05')	conjunction alignment
+Synset('lend_oneself.v.01')	applying applied
+Synset('steroid_hormone.n.01')	steroids steroid
+Synset('rate.n.01')	rate rates
+Synset('pe.n.01')	pe pes
+Synset('evolve.v.02')	evolving evolved
+Synset('stress.n.01')	stress stresses emphasis
+Synset('scratch.n.10')	scars scar
+Synset('length.n.01')	lengths length
+Synset('september.n.01')	september sep
+Synset('solution.n.05')	solution solutions
+Synset('surgeon.n.01')	surgeons surgeon
+Synset('balloon.n.01')	balloon balloons
+Synset('rate.n.02')	rate rates
+Synset('february.n.01')	feb february
+Synset('scan.v.01')	scans scan
+Synset('think.v.01')	considered conceived believed
+Synset('trouble.n.04')	difficulty difficulties
+Synset('make.v.19')	making made
+Synset('oblige.v.02')	binds bind bound binding
+Synset('progenitor.n.01')	progenitors progenitor
+Synset('continue.v.10')	continue continues continued continuing
+Synset('tan.n.01')	burn burns
+Synset('visualize.v.01')	projected image images imaged figures imaging
+Synset('effect.v.02')	effects effect
+Synset('diet.n.02')	diet diets
+Synset('tend.v.02')	tend tended
+Synset('treatment.n.01')	treatment interventions intervention treatments
+Synset('restraint.n.02')	controls restraints control restraint
+Synset('quality.n.02')	caliber quality
+Synset('site.n.01')	site sites
+Synset('record.n.07')	records record
+Synset('pump.n.01')	pumps pump
+Synset('liver.n.01')	liver livers
+Synset('originate.v.03')	originating originate originated
+Synset('period.n.04')	period periods
+Synset('undertake.v.03')	undertook undertaken
+Synset('angle.n.01')	angles angle
+Synset('illustrate.v.03')	illustrates illustrated illustrate
+Synset('death.n.02')	death deaths
+Synset('muscle.n.04')	muscles muscle
+Synset('attack.v.01')	attacks attack
+Synset('precipitate.v.03')	fell fall precipitated
+Synset('analysis.n.01')	analyses analysis
+Synset('invention.n.01')	design conception designs
+Synset('parent.n.01')	parent parents
+Synset('drain.v.03')	draining drain
+Synset('setting.n.02')	settings background setting
+Synset('remain.v.03')	remain remained remains remaining
+Synset('specify.v.02')	limited define determining fixed defining defined
+Synset('suffice.v.01')	serves served serving
+Synset('surface.v.01')	rising surface surfaces rose rise
+Synset('influence.n.03')	influences influence
+Synset('touch.v.05')	contacted meet contact meeting met contacts
+Synset('position.n.01')	positions place
+Synset('indian.n.02')	indians indian
+Synset('colony.n.03')	colony colonies
+Synset('suggest.v.03')	suggests suggested suggest
+Synset('supplement.v.02')	supplements supplemented supplement
+Synset('shock.v.06')	shock shocks
+Synset('treatment.n.02')	treatment handling treatments
+Synset('label.v.05')	labeling labeled labelling labelled
+Synset('pelvis.n.01')	hips pelvis hip
+Synset('block.v.06')	blocked blocks blocking
+Synset('screen.v.04')	screening screen screened
+Synset('yield.n.03')	yields yield
+Synset('high.a.02')	high highest higher
+Synset('relief.n.02')	ease relief
+Synset('distribution.n.02')	dispersion distribution
+Synset('stipulate.v.01')	condition conditioning conditioned
+Synset('rehearse.v.01')	practice practicing practices
+Synset('plan.v.01')	planning planes planned plan
+Synset('store.v.02')	stores stored
+Synset('extremity.n.05')	extremities extremity
+Synset('hand.n.08')	hands hand
+Synset('control.v.01')	controlled control
+Synset('medulla_oblongata.n.01')	medulla bulb
+Synset('well_up.v.01')	swollen swelling
+Synset('resident.n.01')	residents resident
+Synset('steer.v.01')	head directed guiding direct guided guide point maneuver maneuvers
+Synset('glycoprotein.n.01')	glycoprotein glycoproteins
+Synset('strive.v.02')	reach reached
+Synset('setting.n.01')	settings setting
+Synset('play.v.12')	play plays playing played
+Synset('trope.n.01')	image images
+Synset('area.n.05')	area areas
+Synset('specify.v.03')	delineate delineated define defining defined defines
+Synset('session.n.01')	sessions session
+Synset('pulse.n.02')	beat pulse pulses beats
+Synset('exert.v.01')	exert exercise exerted
+Synset('overture.n.03')	approaches approach
+Synset('complex.n.03')	complex complexes
+Synset('groove.n.01')	channels channel
+Synset('call.v.28')	call called
+Synset('treat.v.01')	treated treating
+Synset('tinge.v.01')	colour color
+Synset('process.n.02')	processes operations operation
+Synset('overlap.v.02')	overlap overlapping
+Synset('finding.n.02')	findings finding
+Synset('summons.n.03')	process processes
+Synset('marker.n.03')	marker markers
+Synset('suture.n.01')	sutures suture
+Synset('hybrid.n.03')	hybrid cross
+Synset('venue.n.01')	loci locus
+Synset('strong.a.01')	strong stronger strongest
+Synset('call.v.02')	call called
+Synset('status.n.01')	positions position status
+Synset('blot.v.01')	blot blotting
+Synset('dimension.n.01')	dimension dimensions
+Synset('parallel.v.01')	parallel paralleled
+Synset('work.v.01')	worked work working
+Synset('plan.v.02')	planned plan
+Synset('turn.v.08')	release released
+Synset('service.n.11')	service services
+Synset('decisiveness.n.01')	decision decisions
+Synset('spend.v.01')	spent passed
+Synset('injury.n.02')	injuries injury
+Synset('twin.n.01')	twins twin
+Synset('fire.v.02')	discharged discharge
+Synset('extremity.n.04')	extremities extremity
+Synset('drug.n.01')	drugs drug
+Synset('undertake.v.01')	undertook undertaken attempted attempt attempts
+Synset('spot.v.04')	blot blotting
+Synset('witness.v.02')	witnessed found find findings finding
+Synset('black.n.07')	black blacks
+Synset('rout.v.02')	routes root
+Synset('remove.v.02')	removed remove
+Synset('represent.v.09')	represents represented interpreted represent
+Synset('regulation.n.06')	regulation regulating
+Synset('finding.n.03')	findings finding
+Synset('improvement.n.01')	advances improvement improvements
+Synset('reflect.v.07')	reflect reflected reflecting reflects
+Synset('blast.n.04')	blasts blast
+Synset('mousse.v.01')	gels gel
+Synset('speculate.v.04')	speculated speculate
+Synset('wrinkle.n.01')	line lines
+Synset('arm.n.01')	arms arm
+Synset('termination.n.05')	termination conclusion conclusions
+Synset('substitution.n.02')	substitution substitutions exchange
+Synset('origin.n.02')	descent extraction
+Synset('monkey.n.01')	monkeys monkey
+Synset('plane.v.03')	plane planes
+Synset('restore.v.01')	reconstructed restore restored restoring
+Synset('report.v.01')	reports accounted describing reported report accounts describe accounting reporting account describes
+Synset('interferon.n.01')	interferons interferon
+Synset('hand.n.06')	deal hand
+Synset('amount.n.02')	amount amounts
+Synset('paralysis.n.01')	palsy paralysis
+Synset('replace.v.01')	replace replaced
+Synset('enable.v.01')	enable enabled enables
+Synset('liver.n.02')	liver livers
+Synset('succession.n.03')	sequence sequences
+Synset('stop_consonant.n.01')	stop occlusive
+Synset('perform.v.01')	performing perform performed
+Synset('aneurysm.n.01')	aneurysm aneurysms
+Synset('typeset.v.01')	set setting
+Synset('react.v.02')	opposed reacting react reacted
+Synset('survey.n.01')	study studies
+Synset('temperature.n.02')	temperatures temperature
+Synset('indicator.n.04')	indicator indicators
+Synset('month.n.02')	months month
+Synset('injury.n.05')	injuries injury
+Synset('mechanism.n.05')	mechanism mechanisms
+Synset('study.v.06')	study studying studied studies
+Synset('vasoconstrictor.n.01')	pressor vasoconstrictor
+Synset('abortion.n.01')	abortion abortions
+Synset('infiltrate.v.01')	infiltrate infiltrates
+Synset('marker.n.01')	marker markers
+Synset('rise.n.02')	ascending rise rises
+Synset('neurotransmitter.n.01')	neurotransmitters neurotransmitter
+Synset('neck.n.01')	cervix neck
+Synset('surrogate.n.01')	alternate replacements replacement
+Synset('emerge.v.04')	emerged emerging
+Synset('intensify.v.02')	compounds compound
+Synset('protein.n.01')	proteins protein
+Synset('vasodilator.n.01')	vasodilator vasodilators
+Synset('improvement.n.02')	improvement improvements
+Synset('scale.n.06')	scales scale
+Synset('predictor.n.03')	predictors predictor
+Synset('year.n.03')	year years
+Synset('sequence.v.01')	sequence sequences
+Synset('assess.v.04')	assessed assesses assess assessing
+Synset('leave.v.02')	left leave
+Synset('large.a.01')	larger largest big
+Synset('involve.v.06')	involved involves involve involving
+Synset('requirement.n.01')	requirements requirement demand demands
+Synset('react.v.03')	reacting react reacted
+Synset('sheath.n.02')	sheath case
+Synset('probe.n.01')	investigations investigation probes probe
+Synset('assess.v.02')	assessed assess assessing
+Synset('ringer.n.02')	clones clone ringer
+Synset('stain.v.01')	stained stain
+Synset('lode.n.01')	load loads
+Synset('injury.n.04')	injuries injury
+Synset('temperature.n.01')	temperatures temperature
+Synset('personnel_casualty.n.01')	loss losses
+Synset('save.v.02')	preserved save preserve preserving
+Synset('set.n.01')	set sets
+Synset('density.n.01')	density densities
+Synset('demand.n.04')	demand demands
+Synset('mediator.n.01')	mediators mediator
+Synset('study.v.05')	study studying studied studies
+Synset('parasite.n.01')	parasite parasites
+Synset('scar.v.01')	marked scars scarring scar mark
+Synset('antigen.n.01')	antigen antigens
+Synset('participation.n.02')	participation involvement
+Synset('turn_down.v.05')	lower lowered lowers
+Synset('anesthesia.n.01')	anaesthesia anesthesia
+Synset('delay.v.02')	delay delayed
+Synset('suppress.v.01')	inhibiting inhibited inhibit inhibits suppressed suppress
+Synset('movement.n.11')	movements movement
+Synset('occupation.n.01')	line lines occupations job
+Synset('master_of_ceremonies.n.01')	hosts host
+Synset('phospholipid.n.01')	phospholipids phospholipid
+Synset('prototype.n.01')	images prototype
+Synset('death.n.06')	death deaths
+Synset('department.n.02')	departments department
+Synset('explosion.n.02')	bursts burst
+Synset('release.v.09')	releasing release free released
+Synset('meet.v.09')	meet meeting met
+Synset('rest.v.08')	rest resting
+Synset('agent.n.01')	agent agents
+Synset('limb.n.01')	limb limbs
+Synset('property.n.05')	property properties
+Synset('death.n.03')	death deaths
+Synset('worsen.v.01')	declining declined
+Synset('encapsulate.v.02')	capsule encapsulated
+Synset('shunt.n.02')	shunts bypass shunt bypasses
+Synset('respiratory_tract.n.01')	airway airways
+Synset('decision.n.03')	decision decisions
+Synset('ratio.n.01')	ratios ratio
+Synset('convert.v.11')	converted converting
+Synset('give.v.01')	give gave giving
+Synset('strain.v.03')	strain strains extended
+Synset('sport.v.01')	features sports feature
+Synset('rabbit.n.01')	rabbits rabbit
+Synset('glomerulus.n.01')	glomeruli glomerulus
+Synset('stature.n.02')	stature height
+Synset('initiate.v.03')	initiate initiated initiating
+Synset('roll_up.v.02')	accumulate collected collecting accumulated
+Synset('scan.v.03')	scans scanned scan
+Synset('prompt.v.02')	prompted inspired prompt
+Synset('mixture.n.01')	mixture mixtures
+Synset('benefit.n.01')	benefits benefit
+Synset('leaflet.n.02')	leaflets leaflet
+Synset('fracture.v.06')	fractured fractures fracture
+Synset('sunburn.v.01')	burn burned
+Synset('polymorphism.n.03')	polymorphism polymorphisms
+Synset('concentration.n.03')	concentrations concentration
+Synset('hospital.n.02')	hospitals hospital
+Synset('lower_berth.n.01')	lower lowers
+Synset('topic.n.02')	subject subjects matter issues
+Synset('unwrap.v.02')	discovered reveal disclosed breaks revealing reveals revealed exposed
+Synset('molar.n.01')	molars molar
+Synset('breath.n.01')	breath breaths
+Synset('extend.v.09')	expanded expand
+Synset('show.n.01')	shows show
+Synset('time_interval.n.01')	intervals interval
+Synset('consequence.n.02')	consequence consequences
+Synset('quantify.v.02')	quantifying measured quantify measuring quantified measures measure
+Synset('member.n.01')	members member
+Synset('belief.n.01')	belief beliefs
+Synset('vesicle.n.01')	cysts cyst vesicles
+Synset('shape.v.03')	form shape formed
+Synset('lead.v.03')	leads leading led
+Synset('chain.n.03')	chain chains
+Synset('lp.n.01')	lp lps
+Synset('overstate.v.01')	exaggerated amplified
+Synset('cardiac_arrhythmia.n.01')	arrhythmias arrhythmia
+Synset('surround.v.01')	surrounding border
+Synset('attack.v.03')	attacks attack
+Synset('assumption.n.07')	assumption assumptions
+Synset('molecule.n.01')	molecules molecule
+Synset('understudy.v.01')	alternating alternate
+Synset('proportion.n.01')	proportion proportions
+Synset('disorder.n.03')	disorders disorder
+Synset('scan.v.05')	scans scanned scan
+Synset('transfer.v.01')	transferred transfer
+Synset('act.v.08')	act acts acting
+Synset('muscleman.n.01')	muscles muscle
+Synset('manage.v.02')	caring deal dealing managed handling managing manage care
+Synset('intestine.n.01')	intestine gut bowel
+Synset('study.v.03')	study studied considered studies
+Synset('average.v.02')	average averaged
+Synset('observation.n.01')	observation observations
+Synset('volume.n.06')	intensity volume volumes intensities
+Synset('smear.n.02')	smears smear
+Synset('demand.n.02')	demand demands
+Synset('develop.v.19')	developing develop developed develops
+Synset('sequence.v.02')	sequence sequences sequenced sequencing
+Synset('stultification.n.02')	constipation impairment impairments
+Synset('restraint.n.01')	restraints restraint
+Synset('record.v.01')	records recordings record recording entered
+Synset('mutation.n.02')	mutation mutations
+Synset('poor.a.04')	poorer poor
+Synset('gene.n.01')	genes gene factor factors
+Synset('system.n.06')	system systems
+Synset('fast.v.02')	fasted fasting
+Synset('control.v.06')	controlled controls control controlling
+Synset('raise.v.15')	proved proven
+Synset('risk.v.01')	risks risk
+Synset('antibody.n.01')	antibody antibodies
+Synset('find.v.05')	found find findings felt feel finding
+Synset('pregnancy.n.01')	pregnancies pregnancy gestation
+Synset('proportion.v.02')	proportion proportions
+Synset('suicide.n.01')	suicides suicide
+Synset('still.v.03')	ease relieving relieve relieved
+Synset('pronounce.v.02')	pronounced labeling labeled labelled
+Synset('culture.n.07')	culture cultures
+Synset('man.n.03')	men man
+Synset('rabbit.n.03')	rabbits rabbit
+Synset('control.n.05')	controls control
+Synset('shrink.v.03')	reduce reduced reduces
+Synset('construct.v.03')	constructed construct
+Synset('presentation.n.07')	presentation presentations
+Synset('granulocyte.n.01')	granulocyte granulocytes
+Synset('line.n.18')	line lines
+Synset('equation.n.01')	equations equation
+Synset('inhibit.v.02')	inhibited inhibit
+Synset('design.v.07')	design designed
+Synset('characterize.v.02')	characterized characterize
+Synset('joint.v.03')	joint joints
+Synset('bind.n.01')	binds bind
+Synset('county.n.01')	county counties
+Synset('study.v.02')	study studying studied studies
+Synset('leg.n.01')	legs leg
+Synset('resource.n.02')	resource resources
+Synset('receive.v.02')	obtain receive receiving found findings received obtained obtaining
+Synset('organ.n.02')	organ organs
+Synset('confirm.v.04')	confirms confirmed
+Synset('impute.v.01')	attributed assigned ascribed
+Synset('typify.v.02')	represents represented represent
+Synset('communication.n.01')	communicating communication
+Synset('valve.n.01')	valves valve
+Synset('microgram.n.01')	micrograms microgram
+Synset('perspective.n.02')	perspectives perspective
+Synset('reckon.v.06')	counts count
+Synset('pitch.n.02')	delivery deliveries
+Synset('usher.v.01')	shows shown showed show showing
+Synset('learning.n.01')	learning acquisition
+Synset('cyst.n.01')	cysts cyst
+Synset('shape.n.01')	configuration contour
+Synset('overlay.v.01')	covering covered
+Synset('woman.n.02')	woman women
+Synset('dislocation.n.02')	dislocation breakdown
+Synset('match.v.07')	matched matching
+Synset('significant.a.01')	important significant
+Synset('set.n.05')	band bands
+Synset('insufficient.a.01')	insufficient deficient
+Synset('reserve.v.04')	reserved held reserve
+Synset('bridge.v.03')	bridge bridging
+Synset('stabilize.v.01')	stabilized stabilizing
+Synset('wax.v.02')	rising rose
+Synset('wave.n.08')	waves wave
+Synset('mechanism.n.02')	mechanics mechanism
+Synset('abnormality.n.01')	abnormalities abnormality
+Synset('guidance.n.01')	counseling directions guidance direction
+Synset('pile.n.03')	bundles bundle
+Synset('fall.v.03')	fell falling falls fall
+Synset('disfigurement.n.01')	deformity deformities
+Synset('document.v.02')	documenting document
+Synset('score.v.06')	score scores scored
+Synset('leak.v.04')	leaks leak
+Synset('opportunity.n.01')	chance opportunity opportunities
+Synset('resemble.v.01')	resembled resembling
+Synset('volunteer.v.03')	volunteer volunteers
+Synset('submit.v.02')	stated states
+Synset('free.v.06')	discharged discharges discharge
+Synset('projection.n.06')	projections projection
+Synset('shed_blood.v.02')	bleeding hemorrhage
+Synset('respect.v.02')	respect observed
+Synset('carcinoma.n.01')	carcinoma carcinomas
+Synset('present.v.12')	presented present
+Synset('organ.n.01')	organ organs
+Synset('ion.n.01')	ion ions
+Synset('nurse.v.03')	nurse nurses
+Synset('remodel.v.01')	reconstructed remodeling
+Synset('interest.v.01')	interest interesting
+Synset('county.n.02')	county counties
+Synset('stone.n.02')	stones stone
+Synset('valve.n.02')	valves valve
+Synset('legal_action.n.01')	action actions
+Synset('rat.n.01')	rat rats
+Synset('strategy.n.02')	strategies strategy
+Synset('deaden.v.06')	blunted blunt
+Synset('time_period.n.01')	period periods
+Synset('genotype.n.02')	genotypes genotype
+Synset('shape.n.02')	form shape forms
+Synset('ring.v.06')	rings ring banding band bands
+Synset('woman.n.01')	woman women
+Synset('number.n.01')	number figures numbers
+Synset('sign.n.06')	signs sign
+Synset('survival.n.01')	survival endurance
+Synset('luck.n.02')	hazards chance hazard
+Synset('patch.v.02')	patch patches
+Synset('size.n.01')	sizes size
+Synset('represent.v.12')	represents represent
+Synset('attachment.n.05')	adhesions adherence adhesion
+Synset('jam.v.04')	blocked blocking
+Synset('receptor.n.01')	receptor receptors
+Synset('difference.n.01')	differences difference
+Synset('phase.n.02')	phase form forms phases
+Synset('nucleus.n.04')	nuclei nucleus
+Synset('movement.n.03')	motion movements movement
+Synset('disorder.v.02')	disorders disorder
+Synset('give.v.18')	give committed
+Synset('provide.v.07')	providing provide provided
+Synset('syndicate.n.01')	families family
+Synset('convert.v.02')	converted converting
+Synset('stop.v.05')	stopped stop
+Synset('yield.v.10')	born yield paid yielded
+Synset('option.n.02')	options alternative alternatives choices choice option
+Synset('time.v.04')	times timed
+Synset('run.v.06')	courses fed feeding
+Synset('formula.n.04')	formulas formula
+Synset('train.v.08')	trained training
+Synset('switch_over.v.01')	exchange switch
+Synset('contrast.v.01')	contrast contrasted
+Synset('document.v.01')	documenting documented document
+Synset('equation.n.03')	equations equation
+Synset('definition.n.01')	definition definitions
+Synset('rest.v.01')	rest resting
+Synset('complaint.n.02')	complaint complaints
+Synset('pigment.v.02')	pigment pigmented
+Synset('receive.v.13')	receive receiving received
+Synset('memorize.v.01')	learned learning
+Synset('wish.v.02')	caring care
+Synset('grade.v.04')	grading grade graded grades
+Synset('skill.n.01')	skills attainment acquisition
+Synset('comparison.n.01')	comparison comparisons comparing
+Synset('visit.n.01')	visits visit
+Synset('materialization.n.02')	manifestations manifestation
+Synset('expectation.n.03')	expectation expectations
+Synset('leg.n.03')	legs leg
+Synset('carrier.n.10')	carrier carriers
+Synset('trial.n.04')	trials trial
+Synset('nurse.n.01')	nurse nurses
+Synset('populate.v.01')	living lived live
+Synset('volunteer.n.01')	voluntary volunteers
+Synset('dominance.n.02')	controls control
+Synset('press_out.v.03')	extract expressing extracts express expresses expressed extracted
+Synset('continue.v.07')	continue continued
+Synset('wave.n.06')	waves wave
+Synset('womanhood.n.02')	woman women
+Synset('find.v.15')	found findings finding
+Synset('culture.n.04')	culture cultures
+Synset('european_union.n.01')	eus europe ec
+Synset('parturition.n.01')	birth births
+Synset('male.n.01')	males male
+Synset('senesce.v.01')	mature aged ages aging age
+Synset('tool.n.01')	tools tool
+Synset('disturbance.n.05')	disturbance disturbances
+Synset('train.v.09')	trained training
+Synset('corticosteroid.n.01')	corticosteroids corticosteroid
+Synset('complaint.n.03')	complaint complaints
+Synset('burn.v.15')	burn burns
+Synset('score.v.04')	score scoring scores scored
+Synset('design.v.06')	designs designed
+Synset('ester.n.01')	esters ester
+Synset('roast.n.01')	joint joints
+Synset('obstruct.v.03')	blocked blocks blocking block obstructed
+Synset('residential_district.n.01')	community communities
+Synset('reach.v.04')	contacted reach reached contact reaching contacts
+Synset('index.n.04')	indices indexes index
+Synset('operate.v.03')	controlled controls control operated operating controlling
+Synset('semblance.n.01')	colour color
+Synset('satisfy.v.01')	satisfied fulfilled
+Synset('supply.v.01')	providing provide supplied provided supply
+Synset('chamber.n.02')	chamber chambers
+Synset('immunoglobulin.n.01')	immunoglobulin immunoglobulins ig
+Synset('unit.n.05')	unit units
+Synset('death.n.08')	death deaths
+Synset('mimic.v.01')	mimic mimicked
+Synset('significance.n.02')	significance implications
+Synset('produce.v.02')	created creating create
+Synset('specialize.v.01')	specialized narrow narrowing
+Synset('transfer.v.06')	change changing changed
+Synset('epinephrine.n.01')	adrenaline epinephrine
+Synset('tube.v.04')	tube tubes
+Synset('fail.v.08')	fail failing failed fails
+Synset('recognize.v.09')	recognized recognizing recognizes recognize
+Synset('factor.v.02')	factor factors
+Synset('body.n.02')	bodies body
+Synset('method.n.01')	method methods
+Synset('call.v.22')	call called
+Synset('detail.v.02')	detailed details detail
+Synset('question.v.01')	question questions
+Synset('splice.v.01')	splice splicing
+Synset('group.v.02')	grouped groups group
+Synset('wound.n.02')	wound wounds injuries injury
+Synset('variation.n.08')	variations variation
+Synset('profit.v.01')	benefits gained benefit
+Synset('impairment.n.04')	impairment impairments
+Synset('scale.v.08')	scales scale
+Synset('correlate.v.02')	correlate correlating correlates correlated
+Synset('institution.n.01')	institutions establishment
+Synset('subject.n.06')	cases subject subjects case
+Synset('schedule.v.02')	schedule scheduled schedules
+Synset('pouch.n.03')	pouch pocket
+Synset('impression.n.02')	effects effect
+Synset('intervention.n.02')	interventions interference intervention
+Synset('restraint.n.06')	restraints restraint
+Synset('practitioner.n.01')	practitioners practitioner
+Synset('playing_period.n.01')	play plays
+Synset('institution.n.02')	institutions institution
+Synset('donor.n.02')	donor donors
+Synset('step.n.03')	step steps
+Synset('visit.v.04')	visits visit
+Synset('phenomenon.n.01')	phenomenon phenomena
+Synset('pump.v.07')	pumps pump pumping
+Synset('ring.v.03')	rings ring
+Synset('identify.v.06')	identifies identified identify
+Synset('share.n.01')	percentage portion part parts percentages share portions
+Synset('pool.n.09')	pool pools
+Synset('tube.v.01')	tube tubes
+Synset('electrocardiogram.n.01')	electrocardiogram ecgs ecg
+Synset('inclusion_body.n.01')	inclusion inclusions
+Synset('stone.n.05')	stones stone
+Synset('lend.v.01')	contributing contributes contributed
+Synset('estimate.n.04')	estimate estimates
+Synset('move.v.02')	displaced moving
+Synset('train.v.01')	prepared developing training develop developed develops
+Synset('treat.v.03')	treated treat treating
+Synset('successor.n.01')	replacements replacement
+Synset('contentedness.n.01')	contents content
+Synset('focus.v.02')	focused focus focuses
+Synset('elevation.n.05')	elevation elevations
+Synset('score.v.02')	marked score scoring scores scored mark
+Synset('focus.v.04')	focus focusing
+Synset('convert.v.05')	converted converting
+Synset('detail.v.01')	detailed details detail
+Synset('narrow.v.01')	contracted narrow
+Synset('sign.n.01')	signs mark
+Synset('group.v.01')	grouped groups group
+Synset('culture.n.02')	culture cultures
+Synset('avoid.v.01')	avoided avoid avoiding
+Synset('monocyte.n.01')	monocytes monocyte
+Synset('correlation_coefficient.n.01')	correlation correlations
+Synset('speculate.v.02')	speculated speculate
+Synset('address.v.10')	address addressed
+Synset('option.n.01')	options option
+Synset('sustain.v.04')	keeping maintain sustained maintained sustain maintaining
+Synset('dissemination.n.02')	diffusion dissemination
+Synset('practice.n.04')	practice practices
+Synset('tag.v.01')	marked labeling labeled labelling tag
+Synset('tarnish.v.01')	stains stained staining stain
+Synset('relation_back.n.01')	relations relation
+Synset('correlate.v.01')	correlate correlating correlates correlated
+Synset('survey.v.05')	surveys survey surveyed
+Synset('mistake.n.01')	error errors
+Synset('rescue.v.01')	delivered rescue
+Synset('stay.v.06')	delay delays
+Synset('branch.n.02')	branches branch
+Synset('shock.n.07')	shock shocks
+Synset('cough.v.01')	coughing coughs cough
+Synset('overt.a.01')	overt open
+Synset('type.n.06')	types type
+Synset('issue.n.01')	issue issues
+Synset('label.v.01')	labeling labelling
+Synset('begin.v.10')	beginning began begun begin
+Synset('design.v.03')	design designed
+Synset('view.n.03')	surveys survey views
+Synset('convert.v.06')	converted converting
+Synset('stone.n.06')	stones stone
+Synset('assay.n.04')	assay assays
+Synset('compound.v.05')	compounds combined compound
+Synset('clarify.v.02')	clarify clarified
+Synset('promise.v.02')	promise promising
+Synset('train.v.02')	prepared training
+Synset('musical_instrument.n.01')	instruments instrument
+Synset('submit.v.01')	subjected submitted subject subjects
+Synset('stove.n.01')	ranges range
+Synset('extradite.v.01')	delivering deliver delivered
+Synset('zone.v.01')	zone district districts zones
+Synset('reproduce.v.02')	reproduced multiply
+Synset('internalization.n.01')	incorporation internalization
+Synset('spouse.n.01')	spouses partner partners
+Synset('culture.n.01')	culture cultures
+Synset('phosphorus.n.01')	ps phosphorus
+Synset('body.n.04')	bodies body
+Synset('plaque.n.01')	plaque plaques
+Synset('restriction.n.01')	limitation restriction limitations
+Synset('vary.v.04')	varying vary varies varied
+Synset('gust.n.01')	blasts blast
+Synset('reach.v.07')	made reach reached
+Synset('electrode.n.01')	electrode electrodes
+Synset('unit.n.02')	unit units
+Synset('probe.v.02')	probes probe
+Synset('index.n.01')	indices indexes index
+Synset('visit.v.07')	visits visit
+Synset('pawl.n.01')	dogs dog
+Synset('influence.n.04')	influences influence
+Synset('technology.n.01')	technologies technology engineering
+Synset('sting.v.02')	prick bite
+Synset('vertebra.n.01')	vertebra vertebrae
+Synset('son.n.01')	boys boy
+Synset('flap.v.06')	flaps flap
+Synset('speciate.v.01')	specialized differentiate differentiated differentiating
+Synset('structure.v.01')	structures structure
+Synset('quantity.n.03')	quantity quantities
+Synset('wire.n.01')	wires wire
+Synset('formulation.n.03')	expression formulation
+Synset('drop_curtain.n.01')	drop drops
+Synset('compromise.v.02')	compromised compromising
+Synset('represent.v.04')	represents representing represented represent
+Synset('scan.n.02')	scans scan
+Synset('survive.v.01')	survive lives surviving lived survived lasting lasted live
+Synset('simulate.v.03')	sham assuming simulated assumed
+Synset('fertilize.v.01')	fed feeding
+Synset('size.n.02')	sizes size
+Synset('generation.n.02')	generation generations
+Synset('label.v.04')	labeling labeled
+Synset('target.v.01')	directed targeting aim targeted aimed targets placing
+Synset('transportation.n.02')	transfer transport
+Synset('sex.v.02')	sexes sex
+Synset('undertaking.n.01')	task project tasks labor
+Synset('substance.n.01')	substances substance
+Synset('challenge.n.02')	challenges challenge
+Synset('young.a.01')	young younger youngest immature
+Synset('vary.v.03')	varying vary varies varied
+Synset('wound.n.01')	wound wounds lesions lesion
+Synset('carry.v.05')	carried carries carry carrying
+Synset('twilight.n.01')	falls fall
+Synset('type.n.03')	types type
+Synset('support.v.02')	support supported
+Synset('lotion.n.02')	application applications
+Synset('inhibit.v.03')	inhibiting inhibited inhibit inhibits
+Synset('production_line.n.01')	line lines
+Synset('have.v.02')	features feature
+Synset('phenotype.n.01')	phenotype phenotypes
+Synset('scale.n.10')	scales scale
+Synset('player.n.01')	players participants
+Synset('formula.n.01')	expression formulas formula
+Synset('presentation.n.06')	presentation introduction
+Synset('steering.n.02')	directions guidance direction
+Synset('rearrangement.n.01')	rearrangements rearrangement
+Synset('diagnosis.n.01')	diagnosing diagnosis diagnoses
+Synset('curdling.n.01')	clotting coagulation
+Synset('restore.v.05')	restored restoring
+Synset('facility.n.04')	facilities facility
+Synset('lipoprotein.n.01')	lipoprotein lipoproteins
+Synset('product.n.05')	product products
+Synset('topographic_point.n.01')	spots place
+Synset('survive.v.02')	survive surviving survived
+Synset('cost.n.01')	costs cost
+Synset('syndrome.n.02')	syndrome syndromes
+Synset('influence.n.05')	influences influence
+Synset('network.n.05')	networks network
+Synset('compromise.v.01')	compromised compromise
+Synset('reduction.n.02')	reductions reducing reduction
+Synset('organization.n.06')	organization organizations
+Synset('titanium.n.01')	ti titanium
+Synset('tamper.v.01')	monkeys monkey
+Synset('combine.v.05')	combining combined
+Synset('suggest.v.05')	evoked suggests suggested suggest suggesting
+Synset('outbreak.n.01')	outbreak outbreaks
+Synset('review.v.05')	review reviewing reviewed
+Synset('probability.n.01')	chance chances probability probabilities
+Synset('degree.n.06')	degree degrees
+Synset('interaction.n.02')	interaction interactions
+Synset('exercise.n.05')	exercises exercise
+Synset('explode.v.02')	burst bursting
+Synset('terminal.n.02')	terminal pole
+Synset('feed.v.06')	fed feeding eating
+Synset('whole.n.02')	unit units
+Synset('play_along.v.02')	accompanied accompanying
+Synset('strain.n.07')	strain strains
+Synset('increase.v.01')	increases increased increasing increase
+Synset('underscore.v.01')	emphasizes emphasized emphasize
+Synset('review.n.04')	reviews review
+Synset('spare.v.03')	sparing spared
+Synset('suspect.v.01')	suspected suspect
+Synset('one-half.n.01')	half one-half
+Synset('investigate.v.02')	investigate investigated
+Synset('iodine.n.01')	iss iodine
+Synset('trace.v.01')	trace traced follow
+Synset('procedure.n.04')	procedures procedure
+Synset('appear.v.06')	appeared appears
+Synset('x_ray.n.01')	x-ray x-rays
+Synset('twin.v.04')	twins twin
+Synset('shock.n.04')	shock shocks
+Synset('female.n.01')	females female
+Synset('rotational_latency.n.01')	latencies latency
+Synset('drink_in.v.01')	drinking drink
+Synset('infection.n.03')	infection infections
+Synset('enhance.v.02')	enhancing enhanced enhances enhance
+Synset('surface.n.01')	surface surfaces
+Synset('service.v.01')	serves served serve serving
+Synset('prevent.v.02')	prevent preventing keeping prevents prevented
+Synset('interview.n.01')	interview interviews
+Synset('application.n.02')	application applications
+Synset('encode.v.01')	encodes encoded
+Synset('steroid.n.01')	steroids steroid
+Synset('revision.n.01')	alterations alteration revision
+Synset('standard.n.04')	standard standards
+Synset('stay.v.01')	rest resting remain remained remains remaining stay
+Synset('child.n.03')	children child
+Synset('secretion.n.01')	secretion secretions
+Synset('hold.v.14')	bearing born
+Synset('variation.n.03')	variations variation
+Synset('world.n.02')	world domain domains
+Synset('serve.v.07')	served serve
+Synset('predate.v.01')	precede precedes preceding preceded
+Synset('change.v.05')	change changing
+Synset('express.v.07')	expressing express
+Synset('unit_of_measurement.n.01')	unit units
+Synset('ear.n.01')	ears ear
+Synset('infusion.n.03')	infusions infusion
+Synset('temporary_hookup.n.01')	patch patches
+Synset('trace.v.02')	delineate describing describe lines drawn describes
+Synset('ligament.n.01')	ligament ligaments
+Synset('switch.v.04')	shift shifted
+Synset('diameter.n.01')	diameter diameters
+Synset('worry.v.02')	caring care
+Synset('probe.v.01')	examine examining examined probes examines
+Synset('biopsy.n.01')	biopsies biopsy
+Synset('expose.v.03')	exhibited displayed display exhibits displays
+Synset('disease.n.01')	disease diseases
+Synset('sensitivity.n.03')	sensitivity sensitivities
+Synset('vertex.n.02')	peak apex
+Synset('testis.n.01')	egg testes testis
+Synset('sulfonylurea.n.01')	sulfonylurea sulfonylureas
+Synset('turn.n.03')	play plays turn
+Synset('dissection.n.03')	dissection dissections
+Synset('show.v.10')	shows shown showed show showing
+Synset('mood.n.03')	mode modalities modality modes mood
+Synset('tuberculosis.n.01')	tuberculosis tb
+Synset('sphere.n.01')	area field domain domains areas fields
+Synset('resistance.n.01')	resistances resistance
+Synset('protect.v.01')	protecting protects protect
+Synset('phosphate.n.01')	phosphates phosphate
+Synset('survey.v.01')	surveys survey surveyed
+Synset('tear.v.05')	tears tear
+Synset('organization.n.04')	organization organizations
+Synset('watch.v.03')	viewed views
+Synset('stain.n.02')	stains stain
+Synset('suffer.v.06')	suffer suffered suffering
+Synset('dilation.n.02')	dilation dilatation
+Synset('exposure.n.01')	exposures exposure
+Synset('recommendation.n.01')	recommendation recommendations
+Synset('episode.n.01')	episode episodes
+Synset('nucleotide.n.01')	nucleotide nucleotides base
+Synset('professional.n.02')	professionals pro professional
+Synset('verify.v.01')	verified verify
+Synset('cyclooxygenase.n.01')	cyclooxygenase cox
+Synset('diet.v.02')	diet diets
+Synset('return.v.01')	returned return
+Synset('cycle.v.02')	cycling cycle
+Synset('energizing.n.01')	activating activation
+Synset('parentage.n.02')	birth births
+Synset('position.v.01')	positioning positioned positions position
+Synset('switch.v.03')	changing changed
+Synset('biological.a.01')	biologic biological
+Synset('transplant.v.03')	grafted graft grafting grafts transplant transplanted transplants
+Synset('name.v.02')	identifies identifying named identified identify
+Synset('ligament.n.02')	ligament ligaments
+Synset('node.n.03')	node nodes
+Synset('persona.n.02')	image images
+Synset('model.v.06')	models model
+Synset('want.v.02')	needed requiring require required requires
+Synset('amputation.n.01')	amputation amputations
+Synset('read.v.05')	read readings reading
+Synset('situation.n.02')	position situation situations
+Synset('explore.v.02')	explore explored
+Synset('resistance.n.11')	resistances resistance
+Synset('readiness.n.01')	preparations preparation
+Synset('stage.v.01')	stage presented representing presenting presents
+Synset('infection.n.01')	infection infections
+Synset('retain.v.02')	retained continue retain continues continued continuing
+Synset('chromosome.n.01')	chromosome chromosomes
+Synset('surface.n.03')	surface surfaces
+Synset('trickle.v.01')	filter filtered filters
+Synset('transcript.n.02')	transcript transcripts
+Synset('challenge.v.03')	challenged challenges challenge
+Synset('etiology.n.01')	aetiology etiologies etiology
+Synset('variation.n.01')	fluctuations variations variation
+Synset('salute.v.06')	presented presenting present
+Synset('degree.n.04')	degree degrees
+Synset('translate.v.01')	rendered interpreted
+Synset('dissection.n.02')	dissection dissections
+Synset('omission.n.03')	deletions deletion
+Synset('process.v.03')	processed process processes processing
+Synset('situation.n.03')	situation situations
+Synset('degree.n.05')	degree degrees
+Synset('american.n.01')	americans american
+Synset('feed.v.07')	fed feeding
+Synset('control.n.11')	controls control
+Synset('effect.n.03')	effects effect
+Synset('nail.v.01')	nail nails
+Synset('express.v.05')	expressing express expresses expressed
+Synset('challenge.v.02')	challenged challenge challenging
+Synset('space.n.08')	spaces space
+Synset('substitute.v.01')	replace replaced substitute
+Synset('sensitivity.n.05')	sensitivity sensitivities
+Synset('mild.a.01')	mild milder
+Synset('historic_period.n.01')	ages age
+Synset('explore.v.04')	explore explored
+Synset('layer.v.01')	layers layer
+Synset('infusion.n.01')	extract extracts
+Synset('promotion.n.03')	advancement promotion
+Synset('lithium.n.01')	lithium li
+Synset('vogue.n.01')	trend trends
+Synset('retain.v.03')	retained held retain
+Synset('help.v.08')	helping helped helps
+Synset('surface.n.04')	surface surfaces
+Synset('run.v.23')	leading led lead
+Synset('amputation.n.02')	amputation amputations
+Synset('fraction.n.03')	fractions fraction
+Synset('segment.n.02')	segment segments
+Synset('purpose.n.01')	aim purpose purposes design designs
+Synset('association.n.03')	associations association
+Synset('right.v.01')	compensated correct correcting compensate corrected
+Synset('state.n.02')	state states
+Synset('mend.v.02')	healing healed heal
+Synset('collection.n.01')	accumulation aggregation collection
+Synset('etiology.n.02')	aetiology etiologies etiology
+Synset('mean.v.01')	means intended
+Synset('calcium.n.01')	calcium ca
+Synset('nation.n.02')	country countries
+Synset('cell.n.02')	cells cell
+Synset('secretion.n.02')	secretion secretions
+Synset('charge.v.19')	charges charge charged
+Synset('stress.v.01')	stress emphasizes emphasized emphasize
+Synset('integrate.v.01')	incorporated incorporating integrated
+Synset('translate.v.02')	transformed transforming
+Synset('rise.v.02')	rose rise rises
+Synset('proceed.v.02')	continued continuing
+Synset('investigation.n.02')	investigations investigation
+Synset('discharge.v.04')	discharged discharges discharge
+Synset('leukemia.n.01')	leukemia leukemias leukaemia
+Synset('ramify.v.02')	branches branch branched
+Synset('channel.v.02')	channels channel
+Synset('space.n.01')	spaces space
+Synset('start.v.11')	started starting
+Synset('threshold.n.02')	thresholds threshold
+Synset('reach.v.01')	gained gain
+Synset('occur.v.03')	occurring occurred occur occurs
+Synset('carrier_wave.n.01')	carrier carriers
+Synset('selenium.n.01')	se selenium
+Synset('difficulty.n.03')	difficulty difficulties
+Synset('symmetry.n.02')	proportion proportions
+Synset('recruit.v.03')	raising raises raised raise recruited
+Synset('natural_elevation.n.01')	elevation elevations
+Synset('transplant.v.01')	transferred transfer transplant transplanted transplants
+Synset('lead_up.v.01')	initiate initiated initiating
+Synset('stop.v.03')	blocked blocks
+Synset('master.v.04')	controlled controls control controlling
+Synset('source.n.03')	germ source
+Synset('manifestation.n.02')	manifestations manifestation
+Synset('creation.n.03')	conception creation
+Synset('produce.v.03')	producing produces produce produced
+Synset('widen.v.04')	extend extends extending extended
+Synset('attention.n.01')	attending attention
+Synset('postulate.v.02')	postulated postulate
+Synset('provoke.v.02')	evoked provoked
+Synset('cycle.v.05')	cycles cycle
+Synset('pulse.v.02')	pulse pulses pulsed pulsing
+Synset('collection.n.04')	aggregation collection collecting
+Synset('fall.v.24')	fell falling falls
+Synset('yoke.v.02')	link linked
+Synset('support.n.10')	supports support
+Synset('push.v.01')	forced forces force
+Synset('infect.v.03')	infected infect
+Synset('loop.n.02')	loop loops
+Synset('volcanic_eruption.n.01')	eruptions eruption
+Synset('adult.n.02')	adults adult
+Synset('eye.n.05')	eye eyes
+Synset('aspirate.v.02')	aspirate aspirates aspirated
+Synset('issue.v.04')	emerged emerging
+Synset('reach.v.02')	reached attained
+Synset('undergo.v.01')	undergone underwent undergoes undergoing undergo
+Synset('mass.n.01')	mass masses
+Synset('threshold.n.01')	thresholds threshold
+Synset('space.n.02')	spaces space
+Synset('substance.n.07')	substances substance
+Synset('antioxidant.n.01')	antioxidant antioxidants
+Synset('american.n.03')	americans american
+Synset('malignancy.n.01')	malignancy malignancies
+Synset('tissue.n.01')	tissues tissue
+Synset('help.v.06')	helping helped helps
+Synset('serviceman.n.01')	men man
+Synset('stage.v.02')	staged staging
+Synset('diagnose.v.02')	diagnosing diagnose diagnoses diagnosed
+Synset('supplant.v.01')	replace replaced
+Synset('triglyceride.n.01')	triglyceride triglycerides
+Synset('empty.v.02')	discharged discharges empty
+Synset('coefficient.n.01')	coefficient coefficients
+Synset('respect.n.03')	regard respect respects
+Synset('insulin.n.01')	insulins insulin
+Synset('produce.v.04')	producing produce produced
+Synset('expansion.n.03')	enlargement expansion
+Synset('bloc.n.01')	bloc axis
+Synset('cell.n.04')	cells cell
+Synset('recognize.v.02')	recognized realized
+Synset('engine_block.n.01')	blocks block
+Synset('close.v.09')	closed close
+Synset('qualify.v.06')	characterized characterizes characterize
+Synset('tonic.n.04')	tonic restorative
+Synset('grow.v.03')	grown grew
+Synset('warhead.n.01')	load loads
+Synset('spanish_american.n.01')	hispanics hispanic
+Synset('nucleus.n.01')	nuclei nucleus
+Synset('effect.n.06')	effects effect
+Synset('hypoglycemia.n.01')	hypoglycaemia hypoglycemia
+Synset('knowledge_domain.n.01')	domain domains
+Synset('startle.v.02')	started starting
+Synset('restrain.v.03')	confined held
+Synset('promote.v.01')	promote promoting encouraging encouraged encourage advanced advances advancing promotes
+Synset('aspirate.v.03')	aspirate aspirates aspirated
+Synset('crystal.n.02')	crystals crystal
+Synset('x-ray.v.02')	x-ray x-rays
+Synset('suspect.v.03')	suspected suspect
+Synset('glucocorticoid.n.01')	glucocorticoid glucocorticoids
+Synset('wall.v.01')	surrounding walls wall
+Synset('catecholamine.n.01')	catecholamines catecholamine
+Synset('hamster.n.01')	hamsters hamster
+Synset('reference.n.06')	reference extension
+Synset('virginia.n.01')	vas virginia
+Synset('ability.n.01')	abilities ability
+Synset('muscle.v.01')	muscles muscle
+Synset('yield.v.01')	give afforded yields yield gave yielded giving
+Synset('help.v.03')	facilitate facilitates facilitated facilitating
+Synset('trip.v.04')	triggered activate activating activates triggering activated
+Synset('infrastructure.n.02')	bases base
+Synset('shock.n.02')	shock impact
+Synset('prey.v.01')	fed feeding
+Synset('wave.n.01')	waves wave
+Synset('world.n.08')	men man humans
+Synset('operation.n.01')	operations operation
+Synset('doctor_of_the_church.n.01')	doctor doctors
+Synset('schedule.n.02')	schedule schedules
+Synset('radiotherapy.n.01')	radiation radiotherapy irradiation
+Synset('try.v.01')	assayed assay assays sought attempt seek seeking
+Synset('ovary.n.02')	ovary ovaries
+Synset('asthmatic.n.01')	asthmatics asthmatic
+Synset('therapy.n.01')	therapies therapy
+Synset('bound.v.02')	border bound
+Synset('ventricle.n.01')	ventricle ventricles
+Synset('leg.n.07')	legs leg
+Synset('unfold.v.04')	open spread
+Synset('base.n.10')	bases base
+Synset('section.n.08')	section sections
+Synset('enzyme.n.01')	enzyme enzymes
+Synset('isolate.v.04')	isolate isolated isolates
+Synset('reference.n.07')	reference consultation consultations
+Synset('interpolate.v.02')	alter altered
+Synset('satiate.v.01')	filling filled fill
+Synset('support.v.09')	supporting support supported
+Synset('seduce.v.01')	score scoring scores made scored
+Synset('count.v.04')	counts count
+Synset('feature.n.06')	features feature
+Synset('crystal.n.01')	crystals crystal
+Synset('rule.v.04')	found find findings rule finding
+Synset('stage_set.n.01')	set sets
+Synset('extract.v.08')	extract extracts extracted
+Synset('serve.v.05')	helping helped helps serve serving
+Synset('flap.n.04')	flaps flap
+Synset('sarcoma.n.01')	sarcoma sarcomas
+Synset('wangle.v.01')	managed managing manage
+Synset('association.n.08')	associations association
+Synset('wave.n.02')	waves wave
+Synset('stimulate.v.04')	bracing stimulates stimulating stimulated brace stimulate braces
+Synset('state_of_matter.n.01')	state states
+Synset('feel.v.01')	experiencing feel experience experiences experienced
+Synset('trait.n.01')	traits trait
+Synset('twin.v.01')	paralleled parallels
+Synset('fatty.a.01')	fatty fat
+Synset('increase.v.02')	increases increased increasing increase
+Synset('mouse.n.01')	mouse mice
+Synset('obtain.v.01')	obtain obtained obtaining
+Synset('metier.n.02')	medium media
+Synset('collapse.v.05')	bursts burst
+Synset('support.n.11')	funding supports support
+Synset('sophisticate.v.03')	doctor doctors
+Synset('antagonist.n.03')	antagonists antagonist
+Synset('conjugate.v.01')	conjugate conjugated
+Synset('produce.v.06')	producing produces produce produced
+Synset('seizure.n.04')	seizure seizures
+Synset('sibling.n.01')	siblings sibling
+Synset('agonist.n.02')	agonists agonist
+Synset('nurse.v.01')	nurse nursing nurses
+Synset('understand.v.01')	understand understanding understood
+Synset('score.n.10')	score scores
+Synset('unfold.v.03')	extend stretch extends stretching extending extended
+Synset('wonder.v.02')	question questions
+Synset('provide.v.03')	providing provide provided
+Synset('expansion.n.01')	enlargement expansion
+Synset('recognize.v.04')	recognized recognizing recognizes recognize
+Synset('fall.v.01')	fell falling falls fall
+Synset('sensing.n.02')	perceptions perception
+Synset('total.v.01')	number total amount amounts numbers
+Synset('population.n.01')	populations population
+Synset('infect.v.04')	infected infect
+Synset('serum.n.01')	sera serum
+Synset('joining.n.01')	connection connections
+Synset('deal.v.09')	deal dealing
+Synset('subjugate.v.02')	subjected subject subjects
+Synset('relate.v.05')	relate related relating relates
+Synset('upgrade.n.04')	rise rises
+Synset('help.v.01')	assisted assist aids aid
+Synset('caterpillar.n.02')	cats cat
+Synset('consist.v.03')	consisting consisted consists
+Synset('wall.n.01')	walls wall
+Synset('promoter.n.01')	promoter booster
+Synset('rat.v.02')	rat ratings rates rats
+Synset('create.v.03')	created creating
+Synset('size.v.02')	sizes size
+Synset('test.n.02')	tests test
+Synset('reconstruction.n.02')	reconstructions reconstruction
+Synset('view.v.02')	view considered views
+Synset('dispute.n.01')	differences difference
+Synset('mass.n.04')	mass masses
+Synset('stage.n.04')	stage stages
+Synset('pair.v.04')	pair paired pairs
+Synset('beatnik.n.01')	beat beats
+Synset('web.v.01')	web net
+Synset('support.n.01')	supports support
+Synset('picture.n.01')	image images
+Synset('transport.v.02')	carried carries carry carrying
+Synset('result.v.03')	resulted results resulting
+Synset('vulnerability.n.01')	exposures exposure vulnerability
+Synset('deviation.n.03')	deviations deviation
+Synset('side.n.04')	side sides
+Synset('secrete.v.01')	releasing release secrete secreted released
+Synset('partner.n.03')	partner partners
+Synset('tilt.n.04')	lean tilt list
+Synset('ischemia.n.01')	ischaemia ischemia
+Synset('water.n.01')	h2o water
+Synset('canal.n.03')	canals canal
+Synset('transform.v.06')	transformed transforming
+Synset('live.v.02')	lives lived live
+Synset('pair.n.01')	brace braces pair
+Synset('ward.n.03')	ward wards
+Synset('headache.n.02')	headache headaches
+Synset('stick_out.v.01')	projected project
+Synset('failure.n.02')	failures failure
+Synset('filament.n.04')	filaments filament
+Synset('deletion.n.04')	deletions deletion
+Synset('understate.v.01')	minimize minimized
+Synset('zone.n.02')	zone zones
+Synset('rat.v.01')	rated ratings rates rats
+Synset('direction.n.02')	directions direction
+Synset('strip.v.08')	stripping strips
+Synset('structure.n.04')	structures structure
+Synset('operation.n.04')	operations operation
+Synset('kidney.n.01')	kidney kidneys
+Synset('substantial.a.03')	material substantial
+Synset('exposure.n.09')	exposures exposure
+Synset('tune.n.01')	strain strains
+Synset('propose.v.05')	offer offers proposed offered propose
+Synset('mass.n.05')	mass masses
+Synset('scope.n.01')	ranges reach range
+Synset('officiate.v.02')	functions function
+Synset('stage.n.03')	stage stages
+Synset('separate.v.01')	separate divided
+Synset('observer.n.02')	observer observers
+Synset('mature.v.01')	growing grow grew
+Synset('analyze.v.03')	analyzing analyzed
+Synset('tendon.n.01')	tendon tendons
+Synset('symptom.n.01')	symptoms symptom
+Synset('preach.v.02')	advocated advocate
+Synset('approach.v.05')	approached approach
+Synset('rationale.n.01')	principle principles rationale
+Synset('sinus.n.02')	sinus sinuses
+Synset('concentration.n.04')	concentrations concentration
+Synset('stone.v.01')	stones stone
+Synset('accident.n.01')	accidents accident
+Synset('side.n.03')	side sides
+Synset('lymphocyte.n.01')	lymphocytes lymphocyte
+Synset('reduce.v.04')	reduce reduced reduces
+Synset('wide.a.01')	wide broad
+Synset('collagen.n.01')	collagens collagen
+Synset('shell.n.08')	cases case
+Synset('score.n.03')	score scores
+Synset('rule.n.11')	formulas formula
+Synset('recording.n.01')	recordings recording
+Synset('bind.v.04')	binds bind bound
+Synset('make.v.38')	making made makes
+Synset('uphold.v.03')	maintain maintained maintaining
+Synset('relationship.n.01')	relationships relationship
+Synset('april.n.01')	apr april
+Synset('compound.n.02')	compounds compound
+Synset('combination.n.01')	combinations combination
+Synset('have_a_bun_in_the_oven.v.01')	carried carries bearing born expected
+Synset('zone.n.03')	zone zones
+Synset('vitamin.n.01')	vitamins vitamin
+Synset('spectrum.n.01')	spectra spectrum
+Synset('junction.n.02')	junction junctions
+Synset('tone.v.02')	modulated modulate modulating
+Synset('glove.n.02')	gloves glove
+Synset('perform.v.03')	performing performed
+Synset('noise.n.03')	disturbances interference
+Synset('reading.n.08')	readings reading
+Synset('resistor.n.01')	resistances resistance
+Synset('occlusion.n.01')	occlusion occlusions
+Synset('description.n.02')	description descriptions
+Synset('number.v.06')	number numbers
+Synset('natural_process.n.01')	activity activities action actions
+Synset('mutant.n.02')	mutants mutant
+Synset('community.n.06')	community communities
+Synset('fragment.n.01')	fragment fragments
+Synset('entree.n.02')	access admissions admission
+Synset('charge.v.23')	charges charge charged
+Synset('structure.n.03')	structures structure
+Synset('volume.n.01')	volume volumes
+Synset('clinic.n.03')	clinics clinic
+Synset('direct.v.03')	directed direct
+Synset('record.n.01')	records record
+Synset('weave.v.02')	tissues tissue
+Synset('explanation.n.01')	explanations explanation account
+Synset('policy.n.01')	policies policy
+Synset('stage.n.06')	stage legs stages
+Synset('infiltrate.v.03')	infiltrate infiltrating infiltrates
+Synset('training.n.01')	preparations training preparation
+Synset('sacrifice.v.01')	sacrificed gave
+Synset('include.v.01')	include including includes included
+Synset('ring.n.08')	rings ring band bands
+Synset('experience.n.02')	experience experiences
+Synset('scar.n.01')	scars scar
+Synset('observation.n.04')	observation observations
+Synset('vessel.n.03')	vessel vessels
+Synset('transfusion.n.01')	transfusions transfusion
+Synset('version.n.02')	variations variant variants variation
+Synset('serve.v.02')	served serve
+Synset('charge.v.24')	charges charge charged
+Synset('artery.n.01')	arteries artery
+Synset('test.v.05')	tests test testing
+Synset('observe.v.06')	observe observed
+Synset('advantage.v.01')	advantages advantage
+Synset('crash.n.03')	crashes collapse
+Synset('regulate.v.01')	modulated modulate regulated regulate
+Synset('aspect.n.04')	aspect aspects
+Synset('error.n.06')	error errors
+Synset('spectrum.n.02')	spectra spectrum
+Synset('sequence.n.03')	sequence episode sequences episodes
+Synset('difficulty.n.04')	difficulty difficulties
+Synset('iron.n.01')	iron fe
+Synset('precursor.n.02')	precursors precursor
+Synset('sodium.n.01')	sodium na
+Synset('sexual_conquest.n.01')	score scores
+Synset('end.n.06')	death deaths destruction
+Synset('plant.v.06')	implanted implant implants
+Synset('regimen.n.01')	regimens regimen
+Synset('structure.n.02')	structures structure
+Synset('size.v.03')	sizes size
+Synset('layer.n.05')	layers layer
+Synset('present.n.01')	present presents
+Synset('anomaly.n.01')	anomaly anomalies
+Synset('compartment.n.02')	compartment compartments
+Synset('tolerate.v.02')	tolerated tolerate
+Synset('policy.n.02')	policies policy
+Synset('compartment.n.01')	compartment compartments
+Synset('encourage.v.02')	encouraging encouraged
+Synset('control_condition.n.01')	controls control
+Synset('development.n.07')	developments development
+Synset('region.n.01')	part parts
+Synset('traffic_pattern.n.01')	patterns pattern
+Synset('perturbation.n.03')	disturbance disturbances
+Synset('put_on.v.07')	applying apply applied
+Synset('spar.v.02')	sparing spared
+Synset('experience.n.01')	experience experiences
+Synset('recording.n.03')	recordings recording
+Synset('serve.v.01')	functioning functions function
+Synset('regulate.v.02')	regulated regulate
+Synset('induce.v.04')	induce induced
+Synset('category.n.02')	categories category
+Synset('test.v.06')	tests test tested testing
+Synset('stead.n.01')	positions position place
+Synset('red_blood_cell.n.01')	rbc erythrocytes rbcs erythrocyte
+Synset('manipulate.v.05')	controlled controls control
+Synset('contraction.n.04')	contraction contractions
+Synset('limit.v.02')	confined limited limit limits
+Synset('try.v.08')	rendered render
+Synset('wield.v.02')	managed managing
+Synset('refer.v.03')	refer referred
+Synset('tug.v.02')	driving driven drive labor
+Synset('turn.n.09')	round turn
+Synset('produce.n.01')	produces produce
+Synset('imprint.v.01')	forming formed
+Synset('benzodiazepine.n.01')	benzodiazepines benzodiazepine
+Synset('wind.v.02')	wound curves curve
+Synset('system.n.01')	system systems
+Synset('acid.n.01')	acid acids
+Synset('hemoglobin.n.01')	haemoglobin hb hemoglobin
+Synset('servicing.n.01')	service services
+Synset('opening.n.01')	gap gaps
+Synset('percentage.n.01')	percentage percentages percent
+Synset('exert.v.03')	exert exerted
+Synset('organism.n.01')	organism organisms
+Synset('miscarriage.n.01')	abortion abortions
+Synset('parry.v.01')	blocked blocking
+Synset('day.n.03')	days day
+Synset('free-base.v.01')	based base
+Synset('surgical.a.02')	surgical operative
+Synset('medication.n.02')	medications medication
+Synset('association.n.02')	associations association
+Synset('inclusion.n.04')	inclusion inclusions
+Synset('explanation.n.03')	explanations explanation
+Synset('reputation.n.03')	reports report
+Synset('solution.n.01')	solution solutions
+Synset('violence.n.01')	forces force
+Synset('output_signal.n.01')	outputs output
+Synset('forecast.v.01')	calculate calculated
+Synset('work.v.03')	worked act work working acts acting
+Synset('add.v.01')	add added adding
+Synset('protocol.n.01')	protocol protocols
+Synset('kilogram.n.01')	kg kilogram
+Synset('permit.v.01')	permitted allowed allowing
+Synset('goal.n.01')	goal end goals
+Synset('network.v.01')	networks network
+Synset('increase.n.02')	increases increase
+Synset('observe.v.08')	maintain maintained maintaining
+Synset('review.n.09')	reviews review
+Synset('insufficiency.n.03')	deficiency insufficiency
+Synset('place.v.12')	localize localized place placing
+Synset('modality.n.04')	modalities modality
+Synset('drive.v.17')	driven drive
+Synset('line.v.04')	line lines
+Synset('venous_sinus.n.01')	sinus sinuses
+Synset('refining.n.01')	purification refinement
+Synset('rod.n.01')	rod rods
+Synset('homosexual.n.01')	homosexual gay
+Synset('minute.n.01')	min minutes minute
+Synset('student.n.01')	student students pupil
+Synset('exist.v.01')	exist existing exists existed
+Synset('range.v.03')	ranging ranges ranged range
+Synset('take.v.06')	read readings
+Synset('tracing.n.02')	tracing trace tracings
+Synset('set_about.v.01')	approached approaches approach
+Synset('top_out.v.03')	peaked peak peaks
+Synset('section.n.10')	section sections
+Synset('steel.v.01')	nerves nerve
+Synset('second.n.01')	sec seconds
+Synset('support.n.04')	supports support
+Synset('success.n.02')	successes success
+Synset('last.v.01')	lasting lasted
+Synset('basis.n.03')	bases basis
+Synset('extend.v.15')	extends extending extended
+Synset('protagonist.n.02')	agonists agonist
+Synset('lung.n.01')	lung lungs
+Synset('inhibitor.n.01')	inhibitors inhibitor
+Synset('try.v.07')	strain stress stressed stresses strains
+Synset('disorderliness.n.01')	disorders disorder
+Synset('tear.v.01')	ruptured rupture
+Synset('resection.n.01')	resections resection
+Synset('residue.n.01')	residues residue
+Synset('problem.n.02')	problem problems
+Synset('review.n.08')	reviews review
+Synset('linear.a.01')	linear additive
+Synset('show.v.01')	exhibited demonstrates exhibiting show exhibits shows shown presented showed presenting demonstrate exhibit present demonstrated showing demonstrating presents
+Synset('combination.n.06')	combinations combination
+Synset('synthesize.v.01')	synthesized synthesize
+Synset('standardize.v.01')	standardised standardized
+Synset('failure.n.07')	failures failure
+Synset('make.v.03')	created creating create
+Synset('recognition.n.02')	identification recognition
+Synset('relieve.v.01')	alleviating alleviate
+Synset('clinic.n.02')	clinics clinic
+Synset('concern.n.01')	concerns concern
+Synset('family.n.06')	families family
+Synset('sensitivity.n.02')	sensitivity sensitivities
+Synset('smoke.v.01')	smoking smoke
+Synset('whiten.v.01')	whites white
+Synset('substitute.n.02')	reserve substitute
+Synset('event.n.01')	event events
+Synset('capsule.n.03')	capsule capsules
+Synset('pervert.v.03')	abuse abused
+Synset('section.n.13')	section sections
+Synset('author.v.01')	author authors
+Synset('similarity.n.01')	similarities similarity
+Synset('sleeve.n.01')	sleeve arms arm
+Synset('exposure.n.08')	exposures exposure
+Synset('combination.n.05')	combinations combination
+Synset('playing_field.n.02')	field fields
+Synset('compare.v.02')	comparing compared
+Synset('technique.n.01')	techniques technique
+Synset('manufacture.v.01')	constructed construct
+Synset('precede.v.04')	precede preceding led preceded
+Synset('drug.v.02')	drugs drug
+Synset('passive.a.01')	inactive passive
+Synset('indication.n.02')	indications indication
+Synset('adenoma.n.01')	adenomas adenoma
+Synset('segment.v.01')	segment section sectioning segments sectioned
+Synset('success.n.03')	successes success
+Synset('virus.n.01')	viruses virus
+Synset('graph.v.01')	charts chart
+Synset('article.v.01')	articles article
+Synset('rate.v.01')	ranging ranges ranged rate ratings rates rating rank graded grades
+Synset('potassium.n.01')	potassium ks
+Synset('interact.v.01')	interacting interact
+Synset('rarefy.v.03')	attenuate attenuated
+Synset('reduce.v.18')	reduce reduced
+Synset('lower.v.04')	lowered depressed lowers
+Synset('erection.n.02')	erection erections
+Synset('shorten.v.01')	shortened shortening
+Synset('shock_absorber.n.01')	shock shocks
+Synset('miss.v.06')	lacks lacking lacked lack
+Synset('node.n.08')	node nodes clients
+Synset('standardize.v.02')	standardised standardized
+Synset('ward.n.01')	ward wards
+Synset('finger.v.04')	finger fingers
+Synset('reading.n.03')	indications readings reading indication
+Synset('define.v.02')	define defining defined defines
+Synset('relate.v.03')	related relates
+Synset('goal.n.03')	goal goals
+Synset('device.n.01')	devices device
+Synset('teach.v.01')	learned learning
+Synset('nail.n.01')	nail nails
+Synset('matter_to.v.01')	interest interesting
+Synset('relate.v.04')	relate related relating relates
+Synset('assist.v.02')	assisted assist
+Synset('substitute.n.01')	replacements replacement substitute
+Synset('week.n.03')	weeks week
+Synset('sensitivity.n.01')	sensitivity sensitivities
+Synset('focus.n.06')	focus foci
+Synset('refer.v.04')	refer referred
+Synset('layer.n.01')	layers layer
+Synset('nitrogen.n.01')	ns nitrogen
+Synset('segment.v.02')	segment segments
+Synset('sample.n.01')	sample samples
+Synset('compare.v.01')	compare comparing compares compared
+Synset('drug.v.01')	dose doses drugs dosing drug
+Synset('determine.v.06')	determine determined determines determining
+Synset('trap.v.04')	immobilized trapped trapping
+Synset('point.n.10')	point points
+Synset('setting.n.05')	settings setting
+Synset('work.v.19')	worked work working
+Synset('instrument.v.01')	instrumented instruments
+Synset('limitation.n.02')	limitation limitations
+Synset('point.v.09')	point points
+Synset('deviation.n.02')	deviations deviation
+Synset('psychoanalysis.n.01')	analyses analysis
+Synset('surpass.v.02')	exceeded exceeding exceed
+Synset('report.n.02')	reports report accounts
+Synset('trouble.n.01')	problem problems
+Synset('patient.n.01')	patient patients
+Synset('joint.n.01')	joint joints
+Synset('community.n.01')	community communities
+Synset('shield.v.01')	screening screened
+Synset('line.n.20')	line lines
+Synset('deep.a.03')	deep deeper
+Synset('judgment.n.02')	assessment assessments
+Synset('capsule.n.02')	capsule capsules
+Synset('measuring_stick.n.01')	measures measure
+Synset('diet.n.03')	diet diets
+Synset('tear.v.03')	charges charge tear
+Synset('trigger.n.03')	initiation induction trigger
+Synset('welcome.v.02')	receiving received
+Synset('factor.n.05')	factor factors
+Synset('question.n.02')	question questions
+Synset('wave.v.05')	waves wave
+Synset('medicine.n.02')	medications medicine medication
+Synset('contracture.n.01')	contractures contracture

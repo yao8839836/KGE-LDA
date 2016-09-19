@@ -1,0 +1,238 @@
+{case, hard}
+{audio, tv, movie, video}
+{model, reason, star, device, purchase, review}
+{control, button, volume, function}
+{computer, port, connection, cable, power, usb, cord, adapter}
+{sony, tv, hd, box, samsung}
+{control, easy, button, remote}
+{speed, high}
+{sony, picture, tv, hd, samsung}
+{home, system, pc, theater}
+{port, connection, cable, power, usb, cord}
+{screen, color, white, black}
+{picture, clear, sharp, crisp, image}
+{model, star, service, purchase, customer, review}
+{computer, system, pc}
+{compact, big, light, small, large, size}
+{app, phone, android}
+{easy, simple, setup, instruction}
+{music, computer, file, format, video}
+{picture, player, sound, dvd}
+{port, computer, drive, sd, card, usb, hard}
+{loud, speaker, sound}
+{compact, big, small, smaller, large, size}
+{speed, higher, high}
+{input, connection, receiver, audio, component, cable, output, hdmus, video, hdmi}
+{control, button, volume, feature, function}
+{screen, control, button, feature, function}
+{plastic, case, cheap, part, piece}
+{model, reason, star, purchase, negative, review}
+{screen, touch, color, black}
+{music, sound, movie}
+{music, movie}
+{file, external, drive, disk, usb, hard}
+{manual, easy, simple, setup, quick, instruction, box, user}
+{compact, big, small, large, size}
+{compact, big, small, smaller, large, room, size}
+{port, drive, sd, card, usb, hard, memory}
+{music, phone, player, cell}
+{touch, ipod, iphone}
+{price, star, money, purchase, worth, review}
+{port, connection, plug, cable, power, usb, cord}
+{music, movie, game}
+{computer, system, software, pc, windows, mac}
+{picture, photo}
+{control, easy, button, simple, setup, remote}
+{plastic, side, case, part, hard, top}
+{weight, easy, small, light, size}
+{picture, clear, sharp, crisp, color, image}
+{shipping, price, range, deal, money, purchase, cheap, worth}
+{shipping, price, range, deal, money, purchase, worth}
+{price, range, money, purchase, worth}
+{reception, signal, antenna}
+{manual, easy, simple, setup, instruction, user}
+{model, star, review}
+{model, reason, star, purchase, review}
+{computer, connection, wireless, router, setup, device, internet, network}
+{clear, loud, level, sound, bass, volume, high, low}
+{system, speaker, sound}
+{computer, software, pc, device, windows}
+{loud, speaker, sound, noise}
+{feature, function}
+{system, audio, speaker, sound}
+{speed, high, fast}
+{weight, big, light, small, large, size}
+{model, reason, star, review}
+{system, software, vista, pc, mac, xp, windows, driver, user}
+{clear, crisp, sound}
+{screen, color, black}
+{reception, signal, channel, antenna}
+{system, software, pc, vista, xp, mac, windows, driver}
+{sony, model, tv}
+{support, company, star, service, customer, review}
+{big, small, large, size}
+{ear, size}
+{system, software, pc, vista, xp, windows, driver}
+{sony, player, dvd, tv}
+{screen, touch, color, white, black}
+{fit, ear, head, comfortable}
+{control, button, remote}
+{software, pc, vista, xp, windows, driver}
+{music, movie, game, video}
+{computer, pc, device}
+{control, easy, button, simple, setup, instruction}
+{big, light, small, size}
+{reception, fm, station, radio}
+{life, charge, battery, hour, long}
+{model, star, purchase, review}
+{computer, port, connection, cable, usb, cord, adapter}
+{file, movie, hd, video}
+{sd, card, memory}
+{big, light, small, large, room, size}
+{price, range, deal, money, purchase, worth}
+{sony, tv}
+{price, money, purchase, worth, review}
+{computer, file, external, drive, disk, usb, hard}
+{setting, control, loud, level, sound, volume, low, noise}
+{hd, resolution, video}
+{picture, player, dvd, tv, hd}
+{manual, control, easy, button, simple, setup, instruction}
+{model, older}
+{plastic, case, part, cheap}
+{input, receiver, audio, component, tv, cable, output, digital, video}
+{loud, sound, high, low}
+{connection, internet}
+{cable, power, cord}
+{music, file, movie, video}
+{apple, ipod}
+{port, plug, cable, power, cord}
+{setting, high, low}
+{software, pc, device, xp, windows, mac}
+{device, feature}
+{clear, loud, speaker, sound, bass, high, low}
+{control, easy, button, menu, remote, option}
+{replacement, support, company, service, warranty, customer, tech}
+{system, loud, speaker, sound}
+{compact, larger, big, small, smaller, large, size}
+{control, button, feature, function}
+{computer, port, connection, cable, usb}
+{life, charge, battery, power, hour, long}
+{system, speaker, sound, headphone}
+{control, easy, button, menu, option, function}
+{tv, hd}
+{replacement, support, company, service, number, warranty, customer, tech}
+{reception, tuner, fm, station, radio}
+{price, money, purchase, worth}
+{control, loud, level, sound, volume, low, noise}
+{connection, cable, box, hdmus, hdmi}
+{bright, blue, dark, night, light, room}
+{computer, software, pc, device}
+{side, case, hard}
+{computer, wireless, connection, setup, device, network}
+{fit, head, comfortable}
+{computer, file, pc, format, video}
+{picture, camera}
+{port, connection, plug, cable, power, usb, cord, adapter}
+{speaker, sound, headphone}
+{software, device, feature}
+{computer, pc, laptop, card}
+{computer, connection, wireless, router, setup, device, network}
+{port, cable, power, usb, cord, adapter}
+{clear, loud, level, sound, bass, volume, high, low, end}
+{software, website, user}
+{price, range, deal, money, purchase, cheap, worth}
+{big, small, size}
+{setting, loud, level, sound, bass, high, low}
+{bright, dark, night, light, room}
+{connection, tv, cable, box}
+{screen, touch, black}
+{computer, file, movie, format, video}
+{support, company, service, warranty, customer}
+{port, computer, connection, cable, power, usb, cord}
+{plastic, box, part, cheap, piece}
+{clear, speaker, sound}
+{drive, sd, card, slot, hard, video, memory}
+{music, phone, player, sound, noise}
+{system, software, pc, vista, device, xp, windows, driver}
+{con, weight, easy, pro, light, design}
+{minute, hour}
+{clear, screen, color, black}
+{control, easy, button, simple, setup}
+{support, company, service, warranty, customer, tech}
+{clear, loud, sound, bass, high, low, noise}
+{home, system, theater}
+{computer, port, connection, cable, usb, adapter}
+{support, company, service, warranty, customer, review}
+{input, receiver, audio, component, cable, output, digital, video}
+{manual, easy, simple, setup, quick, instruction}
+{file, movie, format, video}
+{system, software, vista, pc, mac, xp, windows, driver, cd}
+{port, file, drive, sd, card, usb, hard, memory}
+{connection, cable, box}
+{connection, input, receiver, audio, component, cable, output, digital, hdmus, video, rca, hdmi}
+{picture, camera, photo, video}
+{sound, bass, high, low, end}
+{system, software, pc, vista, device, xp, mac, windows, driver}
+{movie, netflix, video}
+{port, connection, cable, power, usb, cord, adapter}
+{sound, earphone, headphone}
+{computer, software, pc, xp, mac, windows, driver}
+{manual, easy, simple, setup, quick, instruction, user}
+{sony, model, tv, samsung}
+{reason, star, purchase, review}
+{music, player, sound, movie, noise}
+{response, clear, crisp, sound, bass, mid, high, low, end}
+{reception, strength, signal, antenna}
+{computer, port, connection, cable, usb, cord}
+{computer, port, cable, usb, adapter}
+{big, small, large, room, size}
+{sd, card, slot, memory}
+{sony, player, dvd, tv, samsung}
+{movie, hd, video}
+{setting, lower, level, high, low}
+{control, easy, button, menu, remote, option, function}
+{cable, box}
+{input, receiver, audio, component, tv, cable, output, digital, video, rca}
+{price, range, money, purchase, worth, review}
+{response, clear, crisp, bass, mid, high}
+{picture, clear, crisp, sound, high}
+{support, company, service, warranty, customer, tech, review}
+{plastic, part, cheap}
+{speaker, sound}
+{replacement, support, company, service, warranty, customer, review}
+{compact, big, small, large, room, size}
+{player, dvd, tv, movie}
+{card, memory}
+{player, dvd, movie, cd}
+{home, movie, video}
+{response, clear, crisp, sound, bass, mid, high, low}
+{control, button, volume, remote}
+{home, wireless, connection, device, network}
+{movie, video}
+{manual, easy, simple, setup, instruction}
+{touch, ipod, nano, iphone}
+{music, loud, level, sound, background, low, noise}
+{sony, tv, samsung}
+{reason, star, money, purchase, review}
+{input, audio, component, cable, output, video}
+{computer, connection, wireless, router, device, network}
+{replacement, support, company, service, warranty, customer, tech, review}
+{picture, camera, image}
+{player, dvd, tv, movie, video}
+{clear, loud, speaker, sound, high, low}
+{larger, big, small, large, room, size}
+{player, dvd}
+{button, feature, function}
+{model, price, star, purchase, review}
+{computer, pc, laptop, device}
+{big, light, small, large, size}
+{price, deal, money, purchase, worth}
+{system, speaker, sound, stereo}
+{keyboard, key}
+{music, player, movie}
+{music, song, phone, player, sound}
+{tv, hd, box}
+{software, pc, xp, windows}
+{price, range, deal, money, expensive, purchase, cheap, worth}
+{system, software, window, vista, pc, mac, driver, xp, windows, cd}
+{port, connection, cable, usb, cord, adapter}

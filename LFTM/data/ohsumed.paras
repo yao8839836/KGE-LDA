@@ -1,0 +1,11 @@
+-model	LFLDA
+-corpus	data/ohsumed.corpus
+-vectors	data/ohsumed_vectors_50d.txt
+-ntopics	60
+-alpha	0.8333333333333334
+-beta	0.01
+-lambda	0.6
+-initers	1000
+-niters	200
+-twords	10
+-name	ohsumed

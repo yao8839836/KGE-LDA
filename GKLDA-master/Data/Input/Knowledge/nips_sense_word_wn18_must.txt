@@ -1,0 +1,1829 @@
+Synset('november.n.01')	november denver nov
+Synset('turn.v.07')	grows grow turned turn turns
+Synset('period.n.03')	period total amplitude decision charging periods spike
+Synset('channel.n.04')	internal ing independent dominates channel distinct long single voltage-dependent rightward travels transmission channels spinal intermediate spatial
+Synset('fast.v.01')	fast moore resulting
+Synset('resent.v.01')	resented resent
+Synset('tend.v.01')	robot tend tending axons tended tion contact latency compositions layer autistic points
+Synset('report.v.05')	tech reports covering field functions covered report reported learning reporting policy simulations
+Synset('abstract.v.01')	abstract abstracted
+Synset('computer_architecture.n.02')	architectures gilbert performance stimuli coherent finally divided location net multi network architecture
+Synset('safety_valve.n.01')	escapes model escape
+Synset('circle.n.01')	figure edge 14 attend imputation 16 circles circle error open
+Synset('conjunction.n.05')	conjunction alignments conjunctions determined alignment
+Synset('chain.n.04')	chain chains
+Synset('lend_oneself.v.01')	filter applying activity optimal applies apply applied case algorithm
+Synset('key.n.01')	minor keys consequences played key
+Synset('rate.n.01')	mn high rate rates maximum learning results speed discretization retrieving
+Synset('pe.n.01')	obtain pe bound suppose
+Synset('evolve.v.02')	evolve evolving system evolves evolved network
+Synset('introduction.n.02')	classifier fukunaga introduction problems
+Synset('stress.n.01')	stress accents emphasis accent
+Synset('length.n.01')	sentence figure set length maximal minimized extended lengths focal hierarchical 306 fixed dendritic unbounded greater order
+Synset('scheduling.n.01')	linear act scheduling koza thompson program networks representation programming
+Synset('september.n.01')	september sept software approach sep
+Synset('telecommunication.n.02')	telecommunication telecommunications
+Synset('surgeon.n.01')	pruning surgeon
+Synset('public_address_system.n.01')	pa pittsburgh pitts put
+Synset('magazine.n.01')	mag magazine ieee
+Synset('regulation.n.05')	effective regularisation regularization networks
+Synset('rate.n.02')	splitting de study set test optimal differences provided rates 0.01 learning intrinsic error presentations transfer rate success increasing firing maximum misclassification higher
+Synset('february.n.01')	feb february
+Synset('play.v.15')	play plays
+Synset('make.v.19')	rig attempting optimization made makes progress step message
+Synset('oblige.v.02')	binds bind bound
+Synset('continue.v.10')	continue continues continued
+Synset('germany.n.01')	germany frg
+Synset('fix.v.07')	fix motion student reach function fixed fixes remaining
+Synset('supplement.v.01')	supplemented supplement
+Synset('effect.v.02')	bad effect injected effected
+Synset('maximize.v.02')	maximize maximizing maximized limit maximizes maximising maximise
+Synset('tend.v.02')	tend tended activity suboptimal
+Synset('site.n.01')	components site activity common sites stimulate erps
+Synset('right.n.01')	45 average pruning activity fig curve upper quantities utility states blocked top desired continue classifier figure erp cost test lower squares arbitrary sensors left interval leaving powers represent
+Synset('put.v.02')	puts put
+Synset('platform.n.03')	platform platforms
+Synset('way.n.06')	incoming ways robust method reasonable procedure network
+Synset('consonant.n.01')	consonant consonants
+Synset('originate.v.03')	originating originates originate systems magnitudes error errors originated
+Synset('store.v.01')	stores minutes stored store storing
+Synset('stand.v.02')	stands stand
+Synset('undertake.v.03')	undertaken guaranteeing guaranteed
+Synset('spot.v.06')	spotting spot simulated spots
+Synset('angle.n.01')	1500 angles overlapping steering angle front errors
+Synset('death.n.02')	death life instant
+Synset('muscle.n.04')	eye muscles muscle movements control neck synchrony
+Synset('search.n.01')	searches search hunt
+Synset('weaken.v.01')	weakened weaken
+Synset('bishop.n.01')	pp bishop 92 theory
+Synset('coupling.n.02')	coupling couplings impedance
+Synset('square.n.07')	11 figure solid plotted 18 squares circles square induced contrast exhibit moving 20
+Synset('contextual.a.01')	contextual hippocampus conditioning passing
+Synset('teacher.n.02')	teacher teachers
+Synset('parent.n.01')	parent parents
+Synset('maximize.v.01')	maximize evaluations rate maximizing maximized maximizes clustering maximising maximise
+Synset('setting.n.02')	settings background scope setting
+Synset('placement.n.01')	arrangement placement arrangements
+Synset('conjunction.n.04')	conjunction conjunctions properties
+Synset('luteinizing_hormone.n.01')	lhs lh
+Synset('ticket.v.01')	fined fine
+Synset('rede.v.01')	interpreting interpret interprets interpreted
+Synset('foundation.n.01')	foundations foundation
+Synset('music.n.04')	criterion music
+Synset('specify.v.02')	limited define defined defines
+Synset('suffice.v.01')	works constant answered method serves suffice serve multi-layer 141 research layer serving propagation tests trials answering suffices served hierarchical
+Synset('thick.a.01')	wavelength times artificial receptor fig colors thick
+Synset('new.a.01')	outputs memory irrelevant references data optimal learning necessarily packets oxford restricts numerical pages 1995 sons variations presented adding function create model vector discrimination mcgraw-hill company press behavior algorithm add processes prentice adapt dekker store brain theoretic analysis propose samples verlag system compose yang information support plenum statistics
+Synset('inference.n.01')	inductive robust inference neural learned inferences connectionist university performing 1990 perform neal niranjan parallel mixture perceptual typical cooper runs base
+Synset('swarm.n.02')	cloud clouds
+Synset('influence.n.03')	envelope schulten trainer influences excitatory information avoid markers rub goals influence
+Synset('touch.v.05')	met meeting
+Synset('bring.v.02')	brought brings bringing bring helpful
+Synset('position.n.01')	places place
+Synset('quality.n.03')	characters high character solution conclusions qualities embedding 1989 quality
+Synset('oblige.v.03')	accommodate accommodated
+Synset('switch.n.01')	binary switches switch
+Synset('multiple.n.01')	accommodate multiple recognition handle produce multiples
+Synset('periphery.n.01')	implementation periphery
+Synset('volt.n.01')	volts ij figure correct functions curve templates subjects learning error 100 schedule input cells volt bias 5.0 log-log vss firing force 1989
+Synset('abstract.v.03')	models abstract weights abstracted
+Synset('cooperation.n.02')	harris cooperation
+Synset('miss.v.05')	missed misses missing miss
+Synset('kilohertz.n.01')	khz frequency
+Synset('illustrate.v.02')	illustrating illustrates illustrated illustrate
+Synset('transaction.n.01')	approximation method dealing neural sets pattern recognition control learning annealing networks transactions ieee distributions analog function theory transaction
+Synset('yoke.n.06')	coupling couplings
+Synset('label.v.05')	algorithms initial labeled learning label labels labelled node unit plot adopt labeling labelling simply
+Synset('datum.n.01')	measured half experimental approach input/output uncertain multi fit analyzing number experiment sons qualitative auditory complex visual model case 10 algorithm e.g models raw unpublished analysis invariant apparent amplitudes input selection domain offering biological neurophysiological presenting average components statistical providing study 25 criterion circuit independent iterates pattern matrix exploits result low 1993 yield noise generalize 818 scaling strategies gradient started 7-bit noisy sample blood single genome depth speech future friedman constraint outputs measuring data owl dac dam exploratory sor insect funds 50 results selected computational image development test solutions weight 2000 significant real steps estimation synthetic vectors materials postal problems datum applied classes values training learning alto random central sampled process figure original velocity structure plots curves sensory tuned fund 4.2 reso clustering multidimensional simply
+Synset('high.a.02')	modeling yielding large dimensionality accommodated expected mea noisy easy performed distributions output number high operations generalization highest variable firstly sensitivity levels measurements higher requires
+Synset('grant.n.05')	grants grant
+Synset('relief.n.02')	notational ease test estimate
+Synset('setup.n.02')	typical setup users generic architecture
+Synset('distribution.n.02')	normal chain modes conditional idea sampling weight posterior index distribution distributions voltage histogram existing entropy laminar fixed projection dispersion updated case
+Synset('grouping.n.02')	input proposed groupings methods variable grouping
+Synset('stipulate.v.01')	specifies exceeds con circuit convergence matrix target condition conditioned conditions net formally fully requires
+Synset('store.v.02')	explicitly reliably stores classes weight reduced sense store subsequently storing synaptic symbols analog permits sparse stored model
+Synset('plan.v.01')	temporally planning plans planes planned plan
+Synset('different.a.01')	encode models chip characteristics trained initial sufficiently automatically deviation sequences plots minima selects features extremely field interest create net 10
+Synset('scarce.a.01')	world scarce
+Synset('medulla_oblongata.n.01')	odors tory bulb active olfactory specific
+Synset('steer.v.01')	pointed number directed task stable guiding steering gave steer guided
+Synset('workshop.n.01')	sixth proc shop aaai workshop ieee theory
+Synset('strive.v.02')	reached reaching strained
+Synset('setting.n.01')	settings automated chips scenes setting computational scene chosen
+Synset('answer.v.03')	answered answering
+Synset('play.v.12')	play plays played
+Synset('busbar.n.01')	bus buses
+Synset('specify.v.03')	np define adaptation defining defined defines
+Synset('rob.v.01')	rob model
+Synset('whitethorn.n.01')	symbol regulated simulation rules pairs patch suggests dynamics automation acuity major optimization prior complex layers visual net recurrent results tasks algorithm e.g drift addition nonlinearity patterns hyperplanes schemes labels system techniques science messages circuit activity distance columns university learning error simpler states network minima adaptive 1997 journal systems parameter 3/4 believed free map pixel architecture practical cases sets learned stimulus subjects ork control suggest brain transformation simulations performance hippocampal lengths variance propositions information constraint
+Synset('consumer.n.01')	cp consumer
+Synset('postulate.n.01')	postulates postulate
+Synset('coordinate.v.02')	coordinate coordinates
+Synset('overture.n.03')	advances approaches approach dimension advance
+Synset('correlational.a.01')	electronic correlational local
+Synset('arrival.n.02')	arrival arrivals
+Synset('derivation.n.03')	derivations derivation
+Synset('complex.n.03')	orientation excitatory direct makes simple receptive frequency cells mixture complex visual recurrent complexes
+Synset('rank_and_file.n.01')	ranks rank
+Synset('groove.n.01')	channels channel
+Synset('trace.n.01')	hints hint
+Synset('subscript.n.01')	subscripts subscript inferior
+Synset('solicitation.n.02')	collections collection
+Synset('lip.n.01')	lip lips
+Synset('process.n.02')	process processes operations operation
+Synset('pittsburgh.n.01')	pittsburgh university department fitting
+Synset('overlap.v.02')	overlap squares overlaps 50 overlapped
+Synset('university.n.02')	data bor technical neural university pattern edition learning program ohio networks research carnegie computer computing 1995 universities uk princeton 1992 thesis memories dissertation cambridge dynamic state department behavior signal tion address phd aston nasa artificial columbia mellon stanford science york report processing harvard actions tr
+Synset('allowance.n.03')	adjustments circuit spaces weight circuitry adjustment global setting
+Synset('summons.n.03')	process processes advantage begun mental projection alvis filling-in
+Synset('framework.n.03')	framework frameworks
+Synset('standardization.n.02')	normalisation dissimilarities normalization deterministic
+Synset('hybrid.n.03')	771 1975 current hybrid performance scales cross construction crosses
+Synset('think.v.03')	cognitive thought thinks erroneously thinking editors
+Synset('diffusion.n.01')	diffusion boundaries
+Synset('figure.n.06')	figure figures
+Synset('strong.a.01')	square figure strong yielding surface stronger gravity patterns strongest modulo
+Synset('gather.v.08')	images sets gathered
+Synset('league.n.01')	artificial economics joint conference auditory converter xii international periphery network
+Synset('call.v.02')	call called
+Synset('dale.n.01')	dale medicine
+Synset('status.n.01')	positions position status
+Synset('dimension.n.01')	field dimension dimensions primary
+Synset('work.v.01')	worked working
+Synset('utility.n.06')	figure shown decision left utility maximum learning utilities ebl
+Synset('service.n.11')	service services
+Synset('decisiveness.n.01')	constant regions memory fig bimodal methods simple space local hz phonetic shows desired exemplars disjoint influences complex convex classifiers classifier decisions hyper measurements algorithm non-linear similar decision arbitrary classification increase volume input xl form haussler 2.3 gaussian dimensions represent
+Synset('spend.v.01')	spends system spent spend
+Synset('london.n.01')	london system limited chapman publishing
+Synset('plumb_line.n.01')	component perpendicular motion
+Synset('island.n.01')	island proceedings
+Synset('neuroscience.n.01')	neurosciences neural neuroscience inhibitory cat 1991 part visual attention brain demands cues
+Synset('drug.n.01')	memory drug
+Synset('undertake.v.01')	concluding attempting undertaken attempted attempt attempts
+Synset('power_system.n.01')	grid grids
+Synset('spot.v.04')	blobs blob
+Synset('city.n.02')	cities city
+Synset('invertebrate.n.01')	invertebrate invertebrates
+Synset('micron.n.01')	square microns 600 82 micron 581 fabricated
+Synset('cylinder.n.02')	cylinder cylinders
+Synset('rout.v.02')	routed routing
+Synset('sensory.a.02')	sensory convergent
+Synset('graduate.n.02')	graduate foundation engineering
+Synset('counter.n.02')	counters up-down counter
+Synset('remove.v.02')	removed removes removing remove
+Synset('represent.v.09')	interpreting interpret interprets interpreted
+Synset('initialize.v.01')	initialised models initialized initializing initialize
+Synset('transistor.n.01')	sensing vertically circuit pass transistors channel weight source lateral mos curves 300 fet transistor
+Synset('win.v.01')	wins tw winning picked won win neurons
+Synset('improvement.n.01')	subjects estimated degree adaptation annealing improvement advance neal performance asymptotic rate advances exp technological improvements
+Synset('reflect.v.07')	reflect reflected reflecting reflects
+Synset('system.n.02')	system systems
+Synset('consider.v.09')	considers figure considered theoretic matrix networks error important coding 1996 task boundaries model arrays
+Synset('refine.v.06')	refines refined refine refining
+Synset('arm.n.01')	arms arm
+Synset('recuperate.v.04')	recovers recovering recovered
+Synset('substitution.n.02')	substitution substitutions exchange
+Synset('monkey.n.01')	monkeys monkey
+Synset('complement.v.01')	binary complements complemented randomly complement
+Synset('gyroscope.n.01')	gyroscope gyro
+Synset('lie.n.03')	symmetry lie lies
+Synset('transformation.n.02')	motor transformations receptive transformation
+Synset('restore.v.01')	reconstructed reconstructing restore reconstructs restored reconstruct j.c echoes required compared
+Synset('report.v.01')	cochlea reports chips simulation ica collected section language accounting research equations connectivity solution accounted describing context understanding differentiating model injury results alamos order algorithm tech work conclusions hood univ concisely techniques determined 3.2 prediction theory wind algorithms technical trajectories experiments monte learning representations matrix annealing cycle tools adaptive rst lgn primitives paper previously structural maxima skill reported tracker regularities table reporting landscapes chain linear initial procedure describes site performance uncorrelated metric report summarize 6.3 describe accounts account
+Synset('european.a.01')	traditional european partially 1988
+Synset('hand.n.06')	cortex deal problem set dimensional deals adjustment hand
+Synset('simon.n.04')	simon mcgraw-hill al
+Synset('amount.n.02')	amount amounts
+Synset('replace.v.01')	replaces replace replaced replacing
+Synset('enable.v.01')	enabling adaptive potentials signals problem enable foundations model rhythm enabled pus enables
+Synset('desire.v.03')	desire desired
+Synset('housing.n.02')	housing hs
+Synset('forward.n.01')	forwards feed computes presented forward exponents analysis propagated distributions full
+Synset('wiesel.n.01')	wiesel 1998 133 features 1985 design 559 160 429 hubel 195 295
+Synset('propagate.v.07')	propagating propagate propagates propagated
+Synset('thorium.n.01')	ac computer figure intact nodes function 637 networks 30 trajectory 1977
+Synset('stop_consonant.n.01')	stop subnets
+Synset('succession.n.03')	sequence sensory influences sequences command
+Synset('perform.v.01')	performs agent expert simulation experiments neuron global layer pca network search ways found continue classifiers exemplar kd action majority xor case algorithm st linear learned probability performing tree perform decreasing restarts performed samples generally simulations 2d nodes system selection lippmann consists gaussian runs
+Synset('denote.v.01')	slices denoting regions hm line za upper squares denotes pa entry component denote term denoted
+Synset('stay.n.03')	stays prediction stay
+Synset('react.v.02')	opposed opposing senses reacting react
+Synset('proof.n.02')	computer appendix companion proofs rule proof sketch
+Synset('waterloo.n.03')	thesis waterloo
+Synset('gabriel.n.01')	gabriel model
+Synset('indicator.n.04')	indicator leading category indicators corresponds
+Synset('month.n.02')	months month
+Synset('mechanism.n.05')	mechanism mechanisms
+Synset('inch.n.01')	functions chips optimal accuracy spontaneous theta setting introduced contributions circuitry successfully virtually behaving squares proportional shapley analysis lighting packet planning synapses correlation selection size left recognizer explorations poorly role independent blur matrix uncertainty result gold aspect procedures xor behavior linked hand ordered sets learn descent grating suite information discuss standard addressing notes controls evidence occupancy inputs transmission helped finish quantization making tractable encoding capacitances adv tests sparse success conditioning scenes adjustment activation neural searching nips representation arranged mixture projection reinforcement lines effectiveness potentials capabilities transistors evolution peak improvement message environment arises achieved 4.5 refractory closed-loop tendency 3000 years variation number flow algorithm e.g similar mapping proceed testing bulb ahp distributed 0.015 propose decoding mutation winner illustrated system converge strongly analyze restriction driven aid engaged algorithms hypotheses circuit doubling epoch irregular cell representations local noise stochastic post-synaptic redundancy linear question neuronal discussed 2.0 requiring polynomial stored firing outputs equally inhibitory autonomous rule-based points mode identical 677 function implemented 679 choppers links net neu including constructing positions basis expense linearly unit amplifiers organisms individually amplifier eigenvalues university technique ensemble units represents effective times ana parameterized feedforward convex tokens direction hippocampus rates distinguished rows 220 lengths application martin 0.9 interested machines caught neuron decay led echo skills state shoulder manipulated events defined element waves displayed eliminated models tuning codeword hierarchies patches sampling expected correlations demand input cue envelope slow decision-making difference styles items complexity vide networks matching routing lgn found moody reported attribute takes mechanism arm retention situation genetic participate correspondence gradient structures lacking hopfield summarized shaping diagram similarities 267 understood supported fashion principle strength lie individuals research summation features isomorphic scheduling recurrent results inherent actual tension trapped widely adapt labeled weight develop significant decrease iterations odors difficulty signals overlap involved dominated leads fixed fields updated parameters correlated involving memory hidden distance show description simplicity updates conclusion minimal perceptual rowley factor analogous enhance calcium learned jaakkola equal curves sigmoid backpropagation short window applications 1966 modeling self-organization criteria program issues trains input/output packets required pus 1976 1975 measures 1973 temperatures connectivity stuck participating trap hyperplane circuits case discontinuity grows tion images probability conclusions simulated 1990 lowest 1987 analog cars provide completely study searchers methods differences pattern direct priori layer gain lot computer ways 1995 1994 freedom memories 1999 editor consistent performed encountered grid organization dependences organized terminating dominance travel section simple transitions assumptions shown presented connections group combination tree produced square vectors asymptotic correlate effect distortion request ease vertically critical spiking values part determines outliers point candidate induced sumption mentioned matrices editors introduction tems move process original selective assignment stimulus encounter increase differ converges variance valued cooper reduction user equivalent fig sketched archie areas synaptic evaluation bar stimuli exemplar resistor investigated ramp active proceeding al easy interpretation formed scheme choosing originating adaptive proved second-order systems unlike term indi attainable embedded chip set subjects column cn procedure e1 noticeable sample compares advantages maximum corresponds analytic input-output essential interconnected df sites cues hold exemplars highway signal ed computational disadvantage vowels ei typically patterns learns remained varied eq propagation month inen cursor schematically parallelism back training expectation states tanh random passes rate captured rats class perrone views overfitting gi outperform pyramidal length nodes form regression counted avoid selec grant subset modes fibers nonlinear bit output division relationships hz appeared advances classifier model majority mimic lying ii fired issue large researchers made bits learnable schemes resulting additive field arrays encoded summed works inference operates pursuit jr phenomenon sequences targets streaming world induction sphere nonterminal microns table characterized side change ment smoothness machine improvements codes constant lq connectionist recognition main receptive ly stands suggests derivatives edge faster high falls proceeds find continuous classifiers limit interneurons approximation level occur difficult ideas synapse weights s.j chosen expansion entry entries resistors directions lists principles 328 position 1.8 oriented present errors mathis problems code appears symbols head considerable ranked magnitude cups included blurred allocated falling processes plays simulator nature equation considerably raised depicted control structure rapidly 100 processed sensory carlo pulse architectures adaptation parsing constraints patch dynamics sizes scent fire chopping 10 height based 15 optimality 17 benefit node generalization processing obtained conditions interpreted starting device switching motor components 25 kearns activity experiments association global long extended pieces current actively temperature vector thompson operating free measurements situations variables strategies restrictive analyzed started simulations connected single hill cortical showed progress assist 40 operation bus symbol agent 2v 48 ica numbers rules hawkins independence neurons 3a spike frequency presentation elman horizontal uniformly greedy dynamic 50 written commands ut treated observational multiplier plasticity finding channels vp demonstrate region suboptimal drop rule learning conductance wd wk common interest potentiation settles lies 75 figure gradual cases argue technology filters voltage cells separability succeed yields codewords tested approximations competition 7b relation feedback 199 problem critic optimization lost connection proof 95 dependent 98 method work arise resistance exist examples theory regions columns range ous distribution evidenced capacity naturally axons amplitude ghost fall recall tracker initialized place power explains abstract lead a-si expect appearance located responses behaviour dispersion minimum exponential succeeds data multiplicative space successes coarse constants cortex exploration published branches proposed eds solving challenges trajectories eeg line frequent membership error ocular differential network minima leen numerical prescribed computing paper car parameter iteration decoded track earning greatest ing computations motion limited advantage implementation match groups efficacy performance growth
+Synset('date.n.06')	date dates
+Synset('levy.v.01')	imposed imposes impose
+Synset('give.v.03')	suggests gave giving direction
+Synset('admit.v.01')	acknowledge acknowledged acknowledges
+Synset('station.n.03')	station december stations latest
+Synset('deformation.n.02')	deformations deformation
+Synset('contrast.n.05')	characteristics figure simultaneous threshold learning saturating high brightness rate contrast model fixed contrasts net 86 table 10
+Synset('committee.n.01')	outperform committee committees bers heterogeneous 0.74 train
+Synset('marker.n.01')	marker information markers
+Synset('cleanse.v.01')	cleaning cleaned
+Synset('appro.n.01')	i.e appro
+Synset('decay.v.03')	decayed decaying
+Synset('rise.n.02')	ascent vector rise ascending rises
+Synset('induction.n.02')	difficulty bayesian 1997 induction 1992 finite classical ltp rule requisite
+Synset('neurotransmitter.n.01')	neurotransmitters neurotransmitter
+Synset('hearing.n.01')	probability 1990 hearing vlsi echolocating
+Synset('convergence.n.01')	figure convergence rates 1990 excessive weights analysis required potentially
+Synset('perturbation.n.04')	perturbation perturbations
+Synset('realize.v.06')	herrmann realised physically realizes realized realizing sys realize
+Synset('personal_computer.n.01')	pcs tion pc values
+Synset('emerge.v.04')	acuity car interesting acknowledgements arguments emerge emerges emerged relationship behavior neurons emerging
+Synset('useless.a.01')	apparently useless power
+Synset('equipment.n.01')	test equipment hewlett-packard interface
+Synset('sen.n.01')	result cho sen
+Synset('concentration.n.01')	concentrations calcium concentration
+Synset('protein.n.01')	sequence belong set proteins protein values matrix sequences
+Synset('helium.n.01')	ing curved learned en network 101 bob machine weaknesses nh john complete actions investigated fight represent
+Synset('improvement.n.02')	performance improvement improvements
+Synset('derivative_instrument.n.01')	derivatives derivative
+Synset('build.v.07')	build builds
+Synset('scale.n.06')	scales scale temporal heterogeneity breaking
+Synset('synapse.n.01')	measured collaterals inhibitory excitatory correlational turn integrated adaptive bar electronic model 10 non-linear cmos figure 15 large refresh synapse 7-bit analog hybrid synapses 1024 2.3 biological transistor
+Synset('predictor.n.03')	predictors bagging predictor
+Synset('year.n.03')	year type 30 recent years
+Synset('cycling.n.01')	consists cycling
+Synset('qi.n.01')	ei chi qi distribution neurons ki
+Synset('large.a.01')	big moderately constant sufficiently simulation maintain usage quickly 198 number problem assets biggest denote symmetry results selected searches modular large wta handle analysis unstable induce suited problems larger largest classify providing utilised values technique training choose redundant adaptive receiving search acquiring low design and/or dependence ability behavior introduction analogous measurements incorporating characteristics figure sets bigger display cells stage build impractical minimum
+Synset('involve.v.06')	algorithms bursts problem involved involves structures involve approaches possibility involving stimulation
+Synset('react.v.03')	qualitatively reacting react
+Synset('cybernetics.n.01')	attractor cybernetics systems science biological biol model dynamic specific
+Synset('probe.n.01')	investigations investigation
+Synset('dollar.n.01')	dollars dollar
+Synset('york.n.01')	recipes green neural nature bishop university control learning brain wiley academic york associative processing press berlin theory springer
+Synset('shaping.n.01')	feedback learning defining shaping
+Synset('property.n.02')	property properties
+Synset('temperature.n.01')	previous neuronal anneal simulates annealing 173 peaks fukunaga local morning temperatures temperature final suitable dependent
+Synset('course.n.09')	courses initial
+Synset('save.v.02')	saving average saved preserved save preserves model savings preserve networks preserving
+Synset('set.n.01')	obs data optimal subject 150 heterogeneous building divisions selects loaded score post function classifier assumption model validation defined selected attempts test method made avoids weight equipment informative basis chosen input vectors system size generalization produces squared sensitivity full belong line experiments description rule training learning 0.76 artificially error representation feature spanning dolce parameter well-defined genetic include overfitting ing set explore sets initial arbitrary abi produce restricted quantized realizes complete bid subset mse simply transistor
+Synset('boost.v.05')	boosting boost boosted
+Synset('algebra.n.01')	linear algebra
+Synset('stand.v.06')	stands stand
+Synset('density.n.01')	node random high density connectivity form probability densities
+Synset('noisy.a.01')	input role data hippocampus nature optimization strategies wta smoothing noisy decoding
+Synset('press.n.08')	conference graphical cross networks analysis cam analog systems princeton academic nerve ganglia mit studies processing machines press programming
+Synset('dram.n.01')	dram microns
+Synset('triple.n.01')	triples triple
+Synset('main.n.02')	squares main states
+Synset('refine.v.03')	refines refined refine refining
+Synset('convergent.a.01')	redlich convergent
+Synset('participation.n.02')	involvement active
+Synset('equate.v.02')	equate equating
+Synset('amplifier.n.01')	feedback stage amplifiers summing neuron noise amplifier differential
+Synset('mission.n.03')	mission charge
+Synset('suppress.v.01')	inhibiting inhibited inhibit inhibits suppressed suppress suppresses
+Synset('rates.n.01')	1987 figure edge high transfer tone gradients 3.1 methods rates learning results
+Synset('occupation.n.01')	business ip
+Synset('wood.n.08')	woods wood
+Synset('prototype.n.01')	performance depending prototypes completed physical prototype
+Synset('department.n.02')	ee doctoral methods university official monte al prof research 166 computer laboratory thesis science carlo report institute departments department supported
+Synset('low-level_formatting.n.01')	initialisation correct localist ranges initialization
+Synset('justification.n.01')	directions justification
+Synset('order.v.05')	ordering orderings
+Synset('release.v.09')	charge release freed free released
+Synset('scent.n.02')	de scent
+Synset('shift.v.05')	shifted shifting
+Synset('meet.v.09')	criterion meets meet snowbird met meeting
+Synset('rest.v.08')	rest resting
+Synset('swing.v.01')	swing large swinging
+Synset('scale.v.02')	scaling scaled mixture scales 19 scale strictly
+Synset('limb.n.01')	limb shading randomly
+Synset('spinal_anesthesia.n.01')	frog spinal
+Synset('edge.n.06')	occluding recover physiol edges branching target intensity filter edge plain techniques stereo percentage 0001 difference alvis 20
+Synset('associate.n.01')	associates associate
+Synset('property.n.05')	statistical functional neural multi-valued receptive neurons input/output observe unknown network valid common qualitative symmetry prop property collective spatial physical unusual key temporal computational cortex well-known scaling orientation ing dynamical optimality satisfy experimentally orienta formal 1986 unit cells response determined unique anatomical biological basic randomized support properties
+Synset('automatize.v.02')	automated automate
+Synset('propagation.n.01')	propagation back error signal
+Synset('disadvantage.n.01')	disadvantage disadvantages main
+Synset('verb.n.02')	verb verbs
+Synset('shunt.n.02')	bypass shunt
+Synset('mask.v.02')	masks mask
+Synset('teacher.n.01')	phase increasingly strong conservative distinguish student significant relevance node driving teacher overlap teachers overlaps human defined
+Synset('decision.n.03')	decision decisions
+Synset('ratio.n.01')	ratios ratio
+Synset('window.n.08')	window windows
+Synset('weakness.n.03')	weakness weaknesses algorithm
+Synset('x.n.02')	number journal
+Synset('coin.n.01')	coins coin
+Synset('oregon.n.01')	bayesian process visible concept active units ors hofmann field oregon choice parameters properties
+Synset('give.v.01')	svd actual give criterion set data conditional independent behaviors cell matrix giving layer lateral hofmann examples absolute gave
+Synset('tour.n.01')	tours tour
+Synset('resemblance.n.01')	strong resemblance
+Synset('strain.v.03')	extend extends extending extended
+Synset('rabbit.n.01')	anesthetized response rabbit blink
+Synset('glomerulus.n.01')	glomeruli glomerulus
+Synset('initiate.v.03')	initiated initiating
+Synset('roll_up.v.02')	accumulate collected accumulates collecting accumulated accumulating
+Synset('freedom.n.01')	de freedom parameters
+Synset('mixture.n.01')	dashed algorithms memory bf spherical numbers mixtures empty network number 1995 jacobs mem 1994 mixture classifiers model soft set sets em gence analysis samples superior supervised 1989 1988
+Synset('benefit.n.01')	benefits benefit
+Synset('realization.n.03')	realisation realizations realization
+Synset('ground.n.09')	grounds earth ground case
+Synset('december.n.01')	404 december control luna
+Synset('transition.v.02')	state transitions transition
+Synset('rubidium.n.01')	rb rbs
+Synset('concentration.n.03')	concentrations concentration
+Synset('sensitive.a.02')	proved motion sensitive
+Synset('lower_berth.n.01')	lower lowers
+Synset('topic.n.02')	201 issue matters subject topics subjects topic matter issues
+Synset('unwrap.v.02')	discovered components reveal circuit reveals units pals cycle neurons correspond adaptively complex revealed averaged exposed mimic alvis breaking policy broken discover discovering process breaks break revealing 1990 approaches discovers unwrapped expose input condition answer simply
+Synset('gen.n.01')	gen member
+Synset('route.v.02')	routed routing
+Synset('attack.v.05')	attacks attack attacked
+Synset('path.n.02')	1998 path paths pen
+Synset('style.n.05')	styles style
+Synset('time_interval.n.01')	intervals parameter fixed interval
+Synset('factorize.v.01')	factorized factorize
+Synset('giving.n.03')	giving structure
+Synset('reprint.v.01')	reprinted science
+Synset('consequence.n.02')	important consequence natural fig interesting prediction consequences adverse extreme
+Synset('presence.n.01')	presence network
+Synset('delete.v.01')	cancel canceling cancels deleting deleted cancelled delete
+Synset('quantify.v.02')	filter measured ease quantify quantifying quantified measuring typical synapse quantifies
+Synset('member.n.01')	members member
+Synset('notice.v.04')	acknowledge acknowledged noticed acknowledges worth notice
+Synset('belief.n.01')	beliefs belief
+Synset('occupation.n.04')	occupancy state
+Synset('succession.n.04')	succession learned rapid point
+Synset('property.n.04')	assumes quickly attributes attribute dimension tasks redundant dimensions
+Synset('shape.v.03')	forming subspace units formed
+Synset('chain.n.03')	hertz chain 1995 imputation examples chains probabilistic sampling reversible pattern 5a samples
+Synset('word.n.07')	digital 660 sentence act dictionary representing words isolated model word network
+Synset('lp.n.01')	lp probability
+Synset('overstate.v.01')	amplifying magnified complex amplified amplifies magnifying amplify
+Synset('cardiac_arrhythmia.n.01')	arrhythmias arrhythmia
+Synset('surround.v.01')	border surrounding surrounded ringing ring borders environ
+Synset('attack.v.03')	attack attacked
+Synset('pursuit.n.01')	acceptable method optimal gradient implementation pursuit estimated learning error version 1985 size light arrive rabbit safe projection state power net train
+Synset('routine.n.01')	routine routines
+Synset('verb.n.01')	verb noun verbs
+Synset('molecule.n.01')	molecules molecule
+Synset('understudy.v.01')	alternating alternates
+Synset('psychophysics.n.01')	fj psychophysics perception
+Synset('fisherman.n.01')	dashed ekf shows large conclusions filtering fisher stone
+Synset('proportion.n.01')	proportion proportions table
+Synset('stimulation.n.03')	receive membrane caudal initial non-linearity prolonged vestibular 20 stimulations stimulation
+Synset('course.n.07')	courses visual activation
+Synset('scan.v.05')	scans scanned scan 60 40
+Synset('transfer.v.01')	transferring transferred figure transfer median size 52
+Synset('act.v.08')	act shown experiment stage tor learning weights acts acting network
+Synset('conscientious_objector.n.01')	statistical internal 6000 called trained cos yer scientific ion learning error freeman analog denver quantify 1985 style department ut
+Synset('ingredient.n.03')	ingredient ingredients
+Synset('muscleman.n.01')	muscles muscle
+Synset('manage.v.02')	managed handled managing care manage
+Synset('model.n.07')	models model selected
+Synset('study.v.03')	considers considered
+Synset('average.v.02')	averaging averages averaged simple
+Synset('observation.n.01')	discrete macqueen vectors observation simulated observations
+Synset('volume.n.06')	intensity volume
+Synset('smear.n.02')	equal smear
+Synset('realization.n.04')	realisation realizations realization
+Synset('demand.n.02')	homogeneous work 1992 demand demands plots
+Synset('develop.v.19')	paper collaboration rigorously developing develop brain developed develops clusters
+Synset('delta.n.01')	routing generalized delta stochastic weight version
+Synset('pairing.n.02')	pairing stimulus pairings
+Synset('mind.n.06')	limited idea ideas
+Synset('sequence.v.02')	sequence sequences sequencing
+Synset('vicinity.n.01')	neighbourhood locality vicinity
+Synset('copy.n.02')	copies copy redundancy
+Synset('quality.n.01')	qualities quality
+Synset('spike.n.02')	spectra spikes fluctuations low spectrum power spike
+Synset('attachment.n.03')	attachment phrase
+Synset('record.v.01')	entering enters enter entered patterning
+Synset('pitch.n.01')	au pitch
+Synset('exploratory.a.01')	exploratory joint 1992
+Synset('mutation.n.02')	mutation mutations and/or ad-hoc mating
+Synset('poor.a.04')	poorer poor possibly
+Synset('gene.n.01')	added optimized document blur appears multiplicative branching output faster introduced factor ed algorithm scaling 6000 wide genes ini gene caused 2000 reduced knn slope classification limiting versus belew factors remarkable important size increasing
+Synset('low.a.02')	small high large low lower lowest
+Synset('system.n.06')	simulating system neural systems nervous biological control
+Synset('fire.v.06')	firings increased synchronous excitatory neuron freq global cell spontaneous 150 output lot number rebound feedforward asynchronous fire somatic spatial case intense ii fired figure usual bulb multiple cross active efficacy rapidly single effects fires cells spikes 1982 background strongly firing fixed neighborhood
+Synset('prioritize.v.01')	moore prioritized
+Synset('communicate.v.05')	result communicate communicated communicating bell
+Synset('termination.n.01')	termination regression
+Synset('wind_instrument.n.01')	1998 chain model real wind
+Synset('remark.n.01')	input purely comments inputs remark remarks
+Synset('find.v.05')	principal found finds find finding problems
+Synset('generate.v.01')	generates generated light inferior generating formation procedure generate necessarily
+Synset('presence.n.04')	renewal advantage presence
+Synset('fact.n.02')	important demonstrates rare true frequencies facts heterogeneity pus
+Synset('guarantee.n.02')	guarantee guarantees
+Synset('syrup.n.01')	statistical syrup
+Synset('zero.n.02')	0s set
+Synset('exact.a.01')	exact spreading
+Synset('sow.v.01')	seed seeds
+Synset('man.n.03')	functions men man ieee
+Synset('degradation.n.01')	result process clear degradation
+Synset('outline.n.01')	outlines outline
+Synset('construct.v.03')	constructing dissimilarities constructed 1991 construct constructs
+Synset('presentation.n.07')	presentation presentations
+Synset('tableland.n.01')	agreement plateaus plateau length
+Synset('robust.a.01')	path huber scoring fast robust natural sons composed
+Synset('adjust.v.05')	normalization adjust adjusted adjusting adjusts indirectly
+Synset('relax.v.07')	relaxed relax
+Synset('submit.v.03')	submitted analyzer bulb learning adap
+Synset('aerospace.n.01')	british aerospace
+Synset('power.v.01')	100 fig spectrum arbitrary power distribution powers 20 exponent
+Synset('equation.n.01')	equations found system objects equation update
+Synset('inhibit.v.02')	inhibited inhibit
+Synset('trailing.n.01')	include trailing method 0.3 created collected tracking results
+Synset('grade.v.02')	paradigms graded
+Synset('automatic_pistol.n.01')	including automatic completely ieee
+Synset('study.v.02')	study studying studied implementation studies
+Synset('smell.n.01')	odors similar actual learned simulated electric electrical odor real specific
+Synset('leg.n.01')	legs leg
+Synset('paper.n.01')	tests paper companion dynamic papers preparation
+Synset('resource.n.02')	system resource assumption resources
+Synset('receive.v.02')	obtains obtain incurred obtained results obtaining
+Synset('jones.n.02')	geometry jones
+Synset('watt.n.02')	watts kirk
+Synset('impute.v.01')	attributes attribute
+Synset('bridle.n.01')	1975 bridle 798 800
+Synset('principal.n.05')	principal 1993 5th
+Synset('neon.n.01')	figure ne chopping
+Synset('perspective.n.02')	perspectives biological perspective circuits
+Synset('psychology.n.01')	journal psychology bi after-effects report experimental space
+Synset('usher.v.01')	9.8 show approach neurons network usher shows shown paper previously lem function ed figure read bottom procedure iterations condition grating generalization vowel alkon showed reconstruction showing errors
+Synset('learning.n.01')	completion figure robust meiosis efficient weight learning real representation characteristic improved supervised tests 1.1 related proposed optimization temperature final acquisition extending knowledge
+Synset('shape.n.01')	configuration configurations parameter conformation grant contours contour leg
+Synset('discount.v.02')	discounted discounting
+Synset('woman.n.02')	men women
+Synset('qualification.n.01')	making decision low sequential structure hill-climbing
+Synset('permanent.a.01')	window lasting
+Synset('width.n.01')	period measure 1993 width widths spatial runs
+Synset('stable.a.01')	stable valued
+Synset('significant.a.01')	instance nr strategies significant fit layout important descent selection specificity model conditions results
+Synset('grid.n.04')	op set weight 2-d error grids ra uniform random grid rectangular fixed 20 hexagonal regular
+Synset('grammar.n.01')	grammar grammars context-free
+Synset('insufficient.a.01')	insufficient frequency deficient
+Synset('supervision.n.01')	supervision direct
+Synset('organize.v.04')	coordinate co-ordinate organized coordinates organizing
+Synset('major.n.01')	major ca
+Synset('electrical_engineering.n.01')	ee berkeley university
+Synset('stabilize.v.01')	discrete stabilized stabilizes stabilizing stage stabilize
+Synset('integration.n.01')	integrating integration
+Synset('security_service.n.01')	mis mi
+Synset('normalize.v.01')	normalised efficiency adequately legend effectively normalized bulb normalising connected cue normalizing terms normalizes normalize obtained 3.9
+Synset('travel.v.06')	travelling travels figure bottom traveling travel influence
+Synset('partial_derivative.n.01')	creating directly partial 20
+Synset('guidance.n.01')	measured agent lo trained session provided training learning edge road plain mechanisms direction based pre separately set analyzed ity performance null directions guidance future persistence randomized
+Synset('fall.v.03')	falling falls fall
+Synset('principal.n.06')	principal reproduces
+Synset('convolve.v.01')	convolved convolving gaussian
+Synset('document.v.02')	documents document documented international confer
+Synset('score.v.06')	ekf scoring shows scored posterior algorithm
+Synset('run.v.03')	slightly leading recognition run led patch number schunck links ten results tasks ran algorithm pass batch weight weights analysis extend node kinase iterating extends improve leads parameters average beginning values pattern training learning extended running 1998 passes low stochastic iteration studies passed ordered lead environment winnow constraint passing runs extending base
+Synset('unit.n.03')	unit units
+Synset('opportunity.n.01')	assignment opportunity opportunities
+Synset('resemble.v.01')	closely resembles resembled strongly resembling resemble nonlinear
+Synset('convert.v.01')	converted converting convert converts
+Synset('submit.v.02')	stating stated
+Synset('kale.n.02')	1981 cole
+Synset('victor.n.01')	cortex victor
+Synset('slice.v.02')	slices slicing hippocampal slice values
+Synset('geometry.n.01')	geometries geometry
+Synset('stimulation.n.01')	contrast velocity stimulations stimulation
+Synset('gary.n.01')	gary motivated duplicate
+Synset('modulation.n.02')	fatigue modulation expected brainstem matches synaptic modulations predicts
+Synset('organ.n.01')	organ organs vestibular
+Synset('ion.n.01')	act ion ions simple dependent
+Synset('landscape.n.01')	landscapes learning error landscape
+Synset('remodel.v.01')	reconstructed synaptic
+Synset('implement.n.01')	projections implements set rule implement program directly cycle
+Synset('uncertain.a.02')	certainty uncertain
+Synset('communication.n.02')	private parallel multivariate personal communication
+Synset('legal_action.n.01')	action actions estimates
+Synset('strategy.n.02')	implements cochlea strategies 1993 pattern examined strategy encoding embodies devise successful
+Synset('rat.n.01')	rat eeg learning rats
+Synset('spindle.n.03')	arbors arbor
+Synset('clause.n.01')	clause clauses
+Synset('college.n.03')	college systems
+Synset('misplace.v.01')	lost lose loses losing
+Synset('pipeline.n.02')	pipeline pipelines
+Synset('converge.v.04')	converged converges fibers converge continued converging
+Synset('shape.n.02')	shape shapes
+Synset('ring.v.06')	ringing slight rings ring anatomical
+Synset('number.n.01')	outputs selectivity 01 slightly lo generations neuron axis space leg number hz shown connectivity uj zone presented revealed model results 12 15 2000 domains weights 002 400 converge examples 1.2 600 interval epochs 20 hidden plotted figures 15000 part fn learning units matrix network correspondingly hofmann times total transform low plateau reported define iteration 31 mesh architecture direction figure summarized 183 100 genome 541 1006 0.1 nodes 0.2 80 tl short coefficients partitioning complete sweeps
+Synset('luck.n.02')	chance short-term
+Synset('queue.n.02')	add queue
+Synset('affect.v.02')	affect affecting affects
+Synset('representation.n.04')	projects agency agencies representations representation research
+Synset('water_closet.n.01')	np dg lo neighborhoods chance rodney knn loo 100 200 0.2 337 1100 40 10
+Synset('specialization.n.03')	differentiation emergent specialization
+Synset('three-d.n.01')	3d 3-d
+Synset('size.n.01')	size sizes
+Synset('text_file.n.01')	documents document information
+Synset('alignment.n.02')	alignments alignment
+Synset('represent.v.12')	represents representing represented
+Synset('submission.n.01')	largest san np column matrix pals entry entries nonterminal rightmost binder shifted selecting
+Synset('webb.n.02')	1987 webb
+Synset('distance.n.01')	distances exponentially implications depend distance inputs hamming hyperplanes profiles euclidean graph lateral orienta size separation 1993 maximizes programmed minimum dimensions 1966
+Synset('receptor.n.01')	nasal equal random receptor receptors sensory inhibitory visual position olfactory
+Synset('difference.n.01')	differences difference
+Synset('phase.n.02')	architectures upper branch required relationships unable high gained classifiers classifier boundaries ys discrimination selected algorithm phase distributed constitute undergoes sensitive weights explicit node classically student-teacher competitive word statistical functional reasons activity classical training learning matrix cycle derive network general minimal desired array tracker noise vector phases clusters simplest crystals orientation display ltp textual curves nodes grammars powerful form consists step axon intracellular forms
+Synset('nucleus.n.04')	nuclei mammalian nucleus layer
+Synset('movement.n.03')	recovering internal linearize optimal fig blinks movements learning prevents propagated local observed nonlocal general boundaries visual propagate implement smooth figure planar motion stimulus control combining resulting apparent synthetic smeared gaze binary motions fixed movement
+Synset('question.v.03')	query querying queried queries resulting
+Synset('give.v.18')	dedicated devoted committed commit birds
+Synset('pronunciation.n.02')	pronunciation ml pronunciations
+Synset('syndicate.n.01')	family families
+Synset('management.n.02')	management document
+Synset('money.n.03')	money m2
+Synset('run.v.19')	executed executing executes execute speed
+Synset('option.n.02')	references perceptrons optimal arise alternative worse effective random 1974 fast dolce alternatives choices choice circuits versa
+Synset('face.n.07')	face memory faces
+Synset('neurology.n.02')	journal comparative neurology
+Synset('formula.n.04')	formulae formulas alternative formula simple
+Synset('interval.n.02')	small 38 confidence outliers spaced nyquist long consecutive sec intervals generated short interval
+Synset('frustration.n.01')	frustration analogous
+Synset('generate.v.03')	generates generated generating generate
+Synset('propulsion.n.02')	simulation jet propulsion
+Synset('pick.v.10')	fi picked pick picks block randomly picking device
+Synset('train.v.08')	standard corr hundred hidden trained convergence subject training error gaussians point network high 1991 tracker rigid lines connections architecture train happen figure images large resist 2000 basis sample gathering discrete 200 performance 103 effect assume
+Synset('switch_over.v.01')	switching switched switch
+Synset('relax.v.05')	relaxed relaxes relax relaxing
+Synset('modify.v.01')	modify problem 1992 modifies modified recurrent modifying
+Synset('relegate.v.04')	classify perfectly conditional 126 1991 tree evaluates model training classifies classifying
+Synset('echolocation.n.01')	images echolocation
+Synset('equation.n.03')	subspace figure constant linear circuit equation update equating differential equations vectors governing solution la effect layers difference ni eigenvalue linearization
+Synset('command.n.02')	broken motor solid correct control issues command network system trainer human predicted commands
+Synset('definition.n.01')	pendent natural depends reliably valiant restrictive definition definitions
+Synset('insensitive.a.01')	insensitive cell
+Synset('overshadow.v.01')	dominated dominating dominates dominate
+Synset('protease_inhibitor.n.01')	batch pi unknown
+Synset('variety.n.03')	algorithms figure components data wide relied methods studied show shows varieties variety insures tip multiplication dependent analytic
+Synset('pay.v.09')	paid pay pays
+Synset('aftereffect.n.01')	89 1992 model aftereffect
+Synset('scribe.v.01')	de cases scribed
+Synset('duration.n.01')	duration longer short magnitude durations
+Synset('evasion.n.03')	nodes occurs escape order
+Synset('college.n.02')	college thesis phd
+Synset('specification.n.01')	spec network
+Synset('build.v.05')	build built builds
+Synset('memorize.v.01')	song liquid learned learn memorizing learning memorize memorized birds
+Synset('isolation.n.04')	presented isolation
+Synset('wish.v.02')	wished wishes
+Synset('ask.v.05')	asked subject single-cell
+Synset('acceleration.n.01')	acceleration efficient accelerations
+Synset('processor.n.01')	parallel processors processor
+Synset('get.v.01')	acquiring acquire acquired
+Synset('grade.v.04')	1984 grade graded neurons
+Synset('skill.n.01')	skills renders 1972 skill acquisition
+Synset('repeat.v.04')	presentation repeats repeat repeated
+Synset('class.n.07')	patterns classes class
+Synset('vertical.a.01')	dg stimuli vertical
+Synset('comparison.n.01')	comparison comparisons
+Synset('visit.n.01')	visits visit
+Synset('fractal.n.01')	1983 fractal spike
+Synset('expectation.n.03')	expectation expectations
+Synset('causing.n.01')	causing model takes oscillations
+Synset('matter.n.03')	matters remain matter
+Synset('ration.v.01')	rations ration
+Synset('simple.a.01')	simplest convergence fig notably martinez inhibition range learning simple turn involve orm cheap trains simpler mackay times cells corner experiment proposed cortical complex assume
+Synset('trial.n.04')	vary 100,000 averaging raining voting 390 training learning event-related loo trial mixture function noise 30 events 12 figure 100 641 bernoulli trials 10,000 50,000 80 20
+Synset('articulator.n.02')	articulator articulators
+Synset('restrain.v.04')	constrain constrains constrained
+Synset('hyrax.n.01')	earlier mcdonnell das foundation
+Synset('nickel.n.01')	equation ni
+Synset('representation.n.01')	explicit internal feature representations representation rule-based knowledge
+Synset('populate.v.01')	lived live
+Synset('acoustic.n.01')	acoustics acoustic
+Synset('turn.v.01')	turned turning turn turns
+Synset('dominance.n.02')	pruning auto controls data added inhibitory autonomous finite-dimensional issues approach output 1975 exert identification real-time presented hierarchical state results order glass maps explicit system solve basic trans nuclei chapter motor rx vocal ganglion direct torque appears learning global error speed network adaptive random computer central varying direction controller ing neuronal steering control approaches voltage single 100 application stable dominance complete
+Synset('harmony.n.03')	harmonies harmony
+Synset('press_out.v.03')	expressing express expressed views
+Synset('meet.v.07')	gathered assembled
+Synset('european_union.n.01')	eu ae ec 10
+Synset('sup.v.01')	council networks
+Synset('passing.n.03')	passage passing
+Synset('limit.n.01')	boundary linear motion upper bounds boundaries hot
+Synset('syllable.n.01')	syllable syllables
+Synset('disturbance.n.05')	disturbance disturbances
+Synset('insensitive.a.02')	sw insensitive frequencies frequency
+Synset('train.v.09')	obs functions usage adaptation type synaptic number experiment imputation exemplar classifier algorithm reduce musical work probability 1990 classified davis intact 366 likelihood gdr selection unsupervised intermediate terminate sensitivity partial restarting regions perceptron networks manual targets layer identity boosted poses measurements cc completion set explore incorrect initial kernel subjects structures computation future responses chan randomly thousand input-output subnet data separate subject ica rapid rigorously manner space faster shown classifiers unlabeled results commands train constructing manually definite level learns weight significant pro surprising sequence condition propagation 50,000 discriminant present memory trained neural provided training learning decomposition error representation simpler point network 338 magnitude human sampled early direction amount figure original motion limited recently filters versus 100 supervised 0.2 500 743 bytes lippmann initially significantly mark
+Synset('pleasure.n.01')	acknowledgement pleasure
+Synset('district_of_columbia.n.01')	dcs dc order consist
+Synset('govern.v.04')	governing set critical govern governs term behavior signal governed
+Synset('pursue.v.02')	pursue pursued show directly follow synchrony
+Synset('decoder.n.01')	address decoders decoder correction
+Synset('roast.n.01')	proc shows joint joints international slowly order
+Synset('obstruct.v.03')	blocked blocking blocks block target
+Synset('reach.v.04')	reached reaching networks minimum
+Synset('index.n.04')	indices indexes index
+Synset('summation.n.04')	standard pruning compare additions summations bits active language matrix summation node reached addition
+Synset('operate.v.03')	controlled operate system operates systems operating
+Synset('respect.n.01')	regard respect respects
+Synset('two.n.01')	half circles experimental periodically approach output lel problem bat 478 raises model press probabilities e.g inspection ii non-separable identifies rat made active opposite 360 propose substantial 240 1500 likelihood field size 1989 rs circuit nets intersects formation weighed representations layer result computer walls composed vector camera situations change suggest produce echoes 2a recovered stage report 427 information describe indicator 2s codes imposed constant accomplishes guyon simple developed nearest space associating earlier accomplished picked find discrimination results generate train maps involves ek mt hamming weight comparing bears vision 200 activations position hypersphere present nm beginning trained distance purpose records university show training units times vol producing wk divides lines class selecting gi process figure motion inhibition halfway versus pa 100 artificial performance approximately response
+Synset('operator.n.02')	genetic mapping manipulators nature operators manipulator threshold projection albus transformation operator
+Synset('satisfy.v.01')	cortex models scaling code fulfill satisfy satisfied automatically frustration fulfilled satisfying plausible satisfies fulfills
+Synset('supply.v.01')	providing supplied provided neuron networks supply voltage unit provide rendered supplies supplying render
+Synset('chamber.n.02')	chamber springer-verlag
+Synset('resource.n.01')	resource resources architectural considerations
+Synset('watt.n.01')	watts reading specifically ws
+Synset('hair.n.01')	exc hair caudal hairs stimulation
+Synset('punish.v.01')	terms penalizing penalize term penalized penalizes
+Synset('unit.n.05')	unit units
+Synset('review.v.01')	reviewing reviewed
+Synset('stork.n.01')	obd morgan requests stork
+Synset('build.v.04')	build built
+Synset('mimic.v.01')	mimics 600 mimicking mimic
+Synset('significance.n.02')	significance 1976 statistical practical implications implication performed 10
+Synset('produce.v.02')	created create creates
+Synset('parser.n.01')	parser connectionist context-free
+Synset('flower.n.02')	44 flowers flower
+Synset('specialize.v.01')	specialized narrow
+Synset('transfer.v.06')	transferring transferred transfer change changing changed
+Synset('developmental.a.01')	developmental cope
+Synset('fail.v.08')	fail patterns failed frequencies fails network
+Synset('magnify.v.01')	magnified amplified amplifies magnifying amplify
+Synset('annual.n.01')	submitted 3rd annual eighth
+Synset('saturate.v.01')	saturate curve introducing show saturates saturated saturating network
+Synset('script.n.01')	1965 file books spartan book nh scripts script
+Synset('read.v.03')	read reads reading voltages
+Synset('body.n.02')	bodies body
+Synset('watchfulness.n.01')	alertness vigilance jung
+Synset('presentation.n.03')	presentation batches database data pattern iteration 85 presentations
+Synset('restriction.n.03')	reasonable restriction restrictions computational
+Synset('value.n.03')	small symbol hyperpolarized bad theoretical optimal approximating neuron threshold occurs points output realizable measures high shown decays based i.e period ideal test usual expected weight replacing significant real baseline encodes resulting decrease resistance benchmark quality chosen successive scalar unit highest binary intermediate final prediction biological fixed singular activation crossed higher larger average largest inference critical values utility error non-negative layer local network gain numerical 1997 1st current desired low parameter observations attribute figure set previous learned target single tuned cy pf 0.5 stored maximum information category minimum
+Synset('call.v.22')	call called
+Synset('question.v.01')	question questions
+Synset('june.n.01')	cmac paris june shop neural science ny technology networks ieee int 1989
+Synset('quantization.n.01')	quantisation theoretical optimal version number generalized nc due ect initialization vector levels quantization
+Synset('will.n.03')	neuron areas approach output patch equations stimuli notation classifier model case discontinuity algorithm similar period mapping natural node input envelope system size components circuit activity pattern cell matrix networks eyes targets layer capacity routing adaptive world ghost systems term vector categories power mechanism map chip variables side initial epsp coordinates transformation alternates cortical firing width li movement isi improvements data modulation rules cues amounts function emphasis choppers results extreme selected making receptors test patterns weight synapse weights vectors unit slots pixels measure burst forrest parameters errors spiking crucial ganglion link update generator rule technique reciprocal units symbols network general paper array parameter hard amount process cost equation estimated inhibition ultimately eigenfunctions gy artificial environment carrier nodes cells trade
+Synset('concise.a.01')	concise techniques
+Synset('writer.n.02')	writers writer
+Synset('variation.n.08')	variations variation
+Synset('profit.v.01')	benefits benefited benefit 15th
+Synset('helpful.a.01')	laboratory helpful david criticism abeles belew
+Synset('conversion.n.09')	performs current stage conversion represent
+Synset('step.n.04')	step steps
+Synset('scale.v.08')	144 scaling scales multiple scale svm inconsistency
+Synset('store.n.02')	stores store
+Synset('correlate.v.02')	strong correlate quickly noise correlating correlates correlated layer highly
+Synset('embower.v.01')	references bower
+Synset('poise.v.04')	balancing balanced
+Synset('violation.n.02')	violation violations
+Synset('heading.n.01')	head tion separate heading positions heads user tation
+Synset('subject.n.06')	corr records plotted subject concluded experimental simplicity error constraints symmetric stimuli assumption xor behavior case compared cases patterns subjects varied control schemes performed 240 plots 300 left response leads responses adult randomly 1988
+Synset('doom.v.03')	van doom
+Synset('schedule.v.02')	schedule scheduled schedules scheduling annealing
+Synset('operator.n.01')	operators operator
+Synset('inaccurate.a.01')	initial inaccurate
+Synset('disintegrate.v.03')	decayed decaying decomposes decomposed decompose decomposing
+Synset('happen.v.02')	happen figure clear
+Synset('satisfy.v.02')	satisfies satisfy satisfied satisfying
+Synset('consociate.v.01')	controlled vectors associating encodings rules weakened ridge map
+Synset('chinese.n.01')	carried chinese results
+Synset('playing_period.n.01')	play plays
+Synset('soap.n.03')	standard uni minus m0 set max automatic
+Synset('reader.n.08')	readers reader
+Synset('adaptation.n.03')	trained decrement adaptation
+Synset('step.n.03')	heaviside step steps
+Synset('visit.v.04')	visiting inspecting visited
+Synset('reflect.v.06')	reflect reflected reflecting reflects cup
+Synset('design.v.02')	design designs designed
+Synset('tone.n.02')	hz set tone tones firing rapid judge repeated
+Synset('phenomenon.n.01')	neural motion caused dead learning phenomenon event-related explanation synchrony measurement undesirable generalization background implementable unwanted recent phenomena
+Synset('distortion.n.04')	crossover distortions distortion
+Synset('identify.v.06')	identifies identifying identified identify
+Synset('metaphor.n.01')	culture computational
+Synset('share.n.01')	shows steep portion percentage percentages foundation 261 portions
+Synset('pool.n.09')	pool pools training included
+Synset('electrocardiogram.n.01')	750 ecg
+Synset('categorize.v.01')	patterns categorized human categorize
+Synset('stone.n.05')	living reported 41 stone
+Synset('expense.n.03')	190 expense computational
+Synset('lend.v.01')	eeg contribute contributing contributes contributed
+Synset('estimate.n.04')	estimate estimates
+Synset('window.n.01')	window windows
+Synset('move.v.02')	cursor developments moved displaced vertical capable inside representation head continuous moving stimulation ii image move images marshall ordinary velocity imaging 2a 2b cars sanger cells moves elements spot interval
+Synset('human.a.03')	init discovered chance real-time mri series solutions direct lets spatial human network
+Synset('successor.n.01')	successor successors
+Synset('contentedness.n.01')	fixed content
+Synset('sunspot.n.01')	sunspot sunspots
+Synset('module.n.04')	module lee modules
+Synset('electronics.n.01')	electronics net solid-state
+Synset('tree.n.01')	tree trees
+Synset('violate.v.01')	violated broken violates breaks break violate violating breaking
+Synset('arbitrary.a.01')	single sequence computing form learn backpropagation arbitrary
+Synset('focus.v.02')	synapses temperature focussed focused focuses focus focusing
+Synset('face.n.08')	face faces
+Synset('pennsylvania.n.01')	pennsylvania pa
+Synset('score.v.02')	marked scoring expression marking cse form scored control marks mark
+Synset('gap.v.01')	gap gaps
+Synset('party.n.03')	companies company
+Synset('sign.n.01')	marks mark
+Synset('smash.v.02')	dashed means figure line inhibition distribution network square intact performance median array limit boundaries information filtering
+Synset('contest.n.01')	poo enable competition
+Synset('imputation.n.02')	132 dashed 100 cu imputation averaging missing prediction cross-validation calibration predictions estimates
+Synset('avoid.v.01')	avoided process avoids trimming avoid pendulum avoiding space
+Synset('consort.v.01')	node total associating pattern numbers weight adaptation networks
+Synset('lock.v.09')	locking locked
+Synset('independence.n.03')	demonstrates distribution independence
+Synset('wilderness.n.03')	wild undergo
+Synset('address.v.10')	addressing addressed
+Synset('option.n.01')	options option
+Synset('sustain.v.04')	maintains maintain
+Synset('hughes.n.03')	hughes fellowship
+Synset('statement.n.01')	statement statements
+Synset('artificial_intelligence.n.01')	eigenvalues classic ai approach version
+Synset('deal.n.07')	deal great
+Synset('govern.v.02')	governing govern governs governed
+Synset('relation_back.n.01')	visualization static visible geometrical roughly objects inhibition inp completeness relations relation input-output
+Synset('correlate.v.01')	correlate correlating correlated
+Synset('lowering.n.02')	raising lowering
+Synset('attraction.n.02')	attraction attractions
+Synset('cerium.n.01')	ces ce cesses cess pro
+Synset('snapshot.n.01')	call snapshots snapshot
+Synset('registered.a.01')	motion registered
+Synset('type.n.06')	orientation types set data functions section hopfield type trajectory scene filter sigmoidal yuan reflect wire fund logic 5.5
+Synset('issue.n.01')	issue issues
+Synset('strike.v.14')	striking excised tangential scratch
+Synset('design.v.03')	33 chip simulator test neural precision designing analog current hybrid guidance design designs basic designed
+Synset('view.n.03')	sight surveys survey power
+Synset('offer.v.01')	offer offers offered
+Synset('collision.n.02')	collision collisions
+Synset('use.v.04')	moderately modeling optimal considered collected program approach output problem classifier represented circuits 10 non-intrusive cache 1990 informally sense require extraction approximated input 1985 system size processing valuable circuit marwan naturally adaptive recall modelled member vector measurements cc set efficient pruned gradient 260 performed descent component evolving fast ious combined logic movement algo partially codes constant data recognition research generated 0.05 function implemented classifiers dynamic signal results train image commonly receptors finite learns tree conducted equipment basal sequence unit changed problems hidden trained neural trajectories technique movements learning error network head projected previously dolce averaged ann rates alternative representable silicon performance lippmann avoid diagonal automata forms
+Synset('convert.v.06')	converted converting dollars convert converts ol voltage
+Synset('depressive_disorder.n.01')	effect depression
+Synset('stone.n.06')	pit stone
+Synset('compound.v.05')	similar natural classifiers combining combined formed
+Synset('clarify.v.02')	clarify clarified
+Synset('window.n.02')	window windows
+Synset('train.v.02')	trained training
+Synset('restrict.v.02')	restricts restricting restricted restrict
+Synset('forgery.n.02')	forgery forgeries
+Synset('indicative.a.01')	navigation indicative
+Synset('nature.n.04')	orientation memory asso nature cell representations cam exact fractal specificity koch drive 1988 problems
+Synset('musical_instrument.n.01')	instruments noise instrument behavior
+Synset('practice.n.05')	practice markov
+Synset('gain.n.04')	gains gain
+Synset('regularity.n.02')	regularities regularity
+Synset('extradite.v.01')	deliver delivered delivers
+Synset('reproduce.v.02')	components typically multiplies inputs reproduced 1000 7-bit reproduce multiplying 1962 stimuli multiplied reproducing reproduces model 219 multiply
+Synset('internalization.n.01')	incorporation efficient
+Synset('curtsy.v.02')	bob slo gt
+Synset('intersect.v.01')	ct intersect intersects rarely hyperplane
+Synset('body.n.04')	examples person bodies segment real body points segments
+Synset('stream.v.01')	single input development streaming stream coherent streams model refinement relationship resulting computation
+Synset('restriction.n.01')	restriction restrictions
+Synset('electrode.n.01')	electrode electrodes stimulating 29
+Synset('upper.n.02')	nodes upper
+Synset('corporation.n.01')	corp corporation american publishing
+Synset('substantive.a.02')	proved classifier mechanisms theory essential
+Synset('unit.n.02')	references hidden source alphabet units output number computer context share state relationship e.g tion aertsen typically multiple lhe structures active calculating velocity message versus single input unit cells sensory complicated binary intermediate rn present
+Synset('trust.v.01')	flies relies relied rely relying networks workers propose open
+Synset('pertain.v.02')	pertaining pertain
+Synset('probe.v.02')	probing probed network probe
+Synset('factorization.n.01')	factoring factorization
+Synset('index.n.01')	indices index
+Synset('turn_back.v.05')	invert inverting reversing reversed
+Synset('pawl.n.01')	clicks click
+Synset('representation.n.10')	judgement figure internal set optimal feature-based efficient graphical blur sti technique rumelhart learning evolution representations changing representation adaptive shows system localist intermediate nal graphic
+Synset('review.v.04')	refreshed refresh
+Synset('associate_degree.n.01')	associates erlbaum associate
+Synset('successor.n.03')	successor successors
+Synset('influence.n.04')	influences influence
+Synset('tail.n.05')	shadow shadows
+Synset('neglect.v.04')	small neglected neglecting disregard ignore ignoring
+Synset('technology.n.01')	technologies science engineering technology
+Synset('motor.n.01')	motor internal optimal transforms vertebrate instantaneous motors representation adaptive general discrepancies frog takes maps natural intention single mappings supervised unsupervised plant tl produces exists low-level diagonal age
+Synset('converge.v.03')	converged converges converge converging
+Synset('tuck.v.01')	inserted inserting
+Synset('subtract.v.02')	subtracting records subtract subtracted subtracts
+Synset('reticuloendothelial_system.n.01')	bats 1976 bauer res visual olfactory receptive brain p.m
+Synset('ping.v.05')	small ping
+Synset('speciate.v.01')	specialized strong differentiate differentiated student differentiating specialize
+Synset('retrieve.v.03')	retrieves retrieve retrieved retrieving
+Synset('structure.v.01')	structuring structured
+Synset('quantity.n.03')	quantity quantities
+Synset('wire.n.01')	wires wire global non-linear
+Synset('process.n.06')	process processes
+Synset('drop_curtain.n.01')	drop drops graham unnecessary magnitude net sharp
+Synset('represent.v.04')	standard symbol curved circuit data neural right-hand thought fig columns arrows partitioned rule rules areas conductance m-1 represents horizontal parameter represented vector lines fully s2 area figure profile representing traces column weight heterogeneity planning shaded system setup initially properties abscissa represent
+Synset('survive.v.01')	survive surviving lasted lasting
+Synset('defense_advanced_research_projects_agency.n.01')	james darpa
+Synset('gin.v.01')	gan systems
+Synset('ambiguity.n.01')	ambiguity ambiguities
+Synset('combine.v.04')	combining combined
+Synset('simulate.v.03')	simulating simulate
+Synset('white_poplar.n.01')	69 press abeles
+Synset('fertilize.v.01')	synthesizer fed feeding feeds
+Synset('size.n.02')	small data activity pattern trade-off abrupt sutherland 0.12 respective put spike network triangles candidate operations sizes exemplars bias feasible dimension 10 genetic types practical set large sets gene stimulus circular voltage system directions selection size approximately locations step fixed information category parameters
+Synset('rendition.n.04')	natural interpretation allowed specification rendering interpretations results well-defined
+Synset('folk_music.n.01')	european folk
+Synset('terminology.n.01')	languages natural methods fifty language consistent els inconsistent coding propagation terminology speech english
+Synset('generation.n.02')	generation generations
+Synset('nature.n.03')	nature owl
+Synset('target.v.01')	pointed directed targeting targeted aimed placing
+Synset('primate.n.02')	primate primates visual
+Synset('transportation.n.02')	transfer sigmoid transfers transport
+Synset('undertaking.n.01')	task projects advanced project tasks research
+Synset('thalamus.n.01')	rat thalamus
+Synset('efficacy.n.01')	control synapse efficacy synaptic
+Synset('vary.v.03')	varying vary classes varies varied informative continuously order measurements
+Synset('list.v.04')	listed listing
+Synset('wound.n.01')	lesions bilateral lesion
+Synset('sonar.n.01')	spectrograms sonar reception
+Synset('grant.n.08')	grants science grant
+Synset('concentrate.n.02')	concentrates concentrate
+Synset('carry.v.05')	carried carries carry carrying
+Synset('twilight.n.01')	falls fall integral potential
+Synset('casting.n.03')	cast casting
+Synset('type.n.03')	types shunt problem find change classifier distinct hyperplane type popular
+Synset('lotion.n.02')	application successful applications
+Synset('inhibit.v.03')	inhibiting inhibited inhibit inhibits
+Synset('production_line.n.01')	outputs dashed measured fin receptive complementary input/output thick number dx shown lem results connections solid test method bottom posterior input square delay system hidden plotted line experiments vertical training learning global wave prevent lot top parallel rate array lines 30 dotted scaling middle center command consisting diagonal li gaussian
+Synset('actuator.n.01')	actuator actuators
+Synset('theory.n.01')	complexity references inference corn acm learning trees tic saul coding induction 1992 function sm communication introduction neuroscience vapnik estimation vision provide unified contrast theories information theory mathematical
+Synset('imply.v.01')	implying imply implies
+Synset('scale.n.10')	scales scale
+Synset('player.n.01')	players player participants
+Synset('shrink.v.04')	shrink shrinks
+Synset('run.v.01')	batch run training simulations running propagation converges exemplars k-means consists model lines unbounded epochs runs ran algorithm
+Synset('adaptive.a.01')	scientist simple nonlinear carpenter local output adaptive measures 1995 shown generated presented noise barto grossberg fuzzy means velocities gelfand lowe robust individual solutions hybrid generalization 1960 unsupervised turning continuous-time hoff firing transistor
+Synset('formula.n.01')	formulas formula
+Synset('organize.v.02')	memory organize organized organizing extending
+Synset('physics.n.01')	1987 journal physics york
+Synset('presentation.n.06')	cord assessed system systems intro learnable classifier analysis introduction traffic network
+Synset('validation.n.01')	cross validation
+Synset('steering.n.02')	current steering
+Synset('diagnosis.n.01')	adaptive diagnosis
+Synset('facility.n.04')	facilities explanation
+Synset('imply.v.02')	implying implied imply implies
+Synset('converge.v.02')	converged dent guarantee cycles error iterations simulations converges 1994 converge optimization noise algorithm converging
+Synset('strengthen.v.01')	strengthening strengthen strengthened
+Synset('topographic_point.n.01')	mediated places problem selection spot spots place takes approach temporal leakage
+Synset('survive.v.02')	survive surviving
+Synset('cost.n.01')	costs cost
+Synset('dependent.a.01')	pairing temperature dependent network voltage
+Synset('neodymium.n.01')	images bu cognitive sse accurate classifier
+Synset('syndrome.n.02')	syndrome box
+Synset('influence.n.05')	influences influence
+Synset('company.n.02')	companies company
+Synset('network.n.05')	connected small interconnected neural pattern stochastic learning synapse networks recurrent neuromorphic network
+Synset('process.n.05')	process processes
+Synset('alignment.n.04')	alignments vertical alignment
+Synset('believe.v.01')	researchers leading 0.02 believed networks
+Synset('resume.v.01')	restart restarted restarts
+Synset('compromise.v.01')	powerful compromise
+Synset('shine.v.02')	beams beam
+Synset('impossible.a.01')	impossible dependencies
+Synset('reduction.n.02')	ij test dimensionality reductions performing conversely training significant error encoder ity leen farley regression redundancy combined power reduction reducing potential moving
+Synset('organization.n.06')	figure organization
+Synset('cue.n.01')	cue wta noise cues
+Synset('titanium.n.01')	ti patterns
+Synset('tamper.v.01')	monkeys monkey
+Synset('orientation.n.03')	orientation iso discussed satisfied change upper orientations vertical experimental mixed distribution chung resulting 285 cytochrome smoothness mel rate members perceptual rel map relative
+Synset('combine.v.05')	binary combining combined
+Synset('review.v.05')	reviewing reviewed
+Synset('probability.n.01')	constant run axis high solution estimate probabilities i.e probability posterior chances 005 fixed flipping conditions approximates average increased line classes priori derive network uniform extinction 336 observations reinforcement behavior depiction st figure variables hoeffding chance initial subjects arbitrary positive nonzero reverse cumulative transition 0.2 firing permissible maximum 0.8 combined
+Synset('machine.n.01')	predictors medical variational conference sequential methods pattern recognition eligibility learning autonomous boltzmann repository sun improved negative optimization osuna ackley international temporal matlab boosting workshop 1986 self-organizing machine difference machines
+Synset('seed.v.05')	seed seeds
+Synset('interaction.n.02')	wiesel horizontal modify effect additional interaction weight learning significant interactions direction
+Synset('interconnection.n.02')	random neural interconnection weight interconnections synaptic
+Synset('hope.n.02')	paper hope
+Synset('pose.n.02')	pose poses
+Synset('superposition.n.03')	measured superpositions superposition bounds intracellular
+Synset('terminal.n.02')	dominant poles distinct terminal pole terminals efficacy
+Synset('publisher.n.02')	morgan academic publishers
+Synset('bit.n.06')	input 256 million activity 1024 cortical bits sign information bit
+Synset('feed.v.06')	ate fed feeding feeds
+Synset('trap.n.01')	hits trap hitting
+Synset('whole.n.02')	die blank hidden adaptation unimodal units matrix bit output number mixture excites reinforcement recurrent table corre computational receive linear determine individual motion epsp aj inhibition maximal quality target special entry input unit due sigmoid activities leads subnetwork detecting receives user
+Synset('coincide.v.03')	discontinuities coincide coincides symbols
+Synset('increase.v.01')	exponential offers obtain increased numerically increase a1 increases increasing effect complex 91 results 97
+Synset('underscore.v.01')	emphasizes emphasized emphasize
+Synset('source.n.07')	cur 1996 current types programmable sources pulse source energy
+Synset('review.n.04')	interpolation entropy psychological reviews ical review model physical distributions monte-carlo requires
+Synset('reciprocal.a.01')	output average mutual quantized raw reciprocal opper ten
+Synset('drawing.n.01')	drawings drawing
+Synset('short_circuit.n.01')	normal tone inhibition short present voltage
+Synset('association.n.07')	associations statistical pattern association learning
+Synset('investigate.v.02')	image experiment cat structures proportional investigate manipulated investigated investigates
+Synset('synthesizer.n.02')	synthesizer waveform
+Synset('carry.v.24')	carried carry
+Synset('megabyte.n.01')	mb ms
+Synset('appear.v.06')	mapping method large neural 16 curve tested stimulus orientations neuron accuracy echo appears fail vision minimal discrepancies appeared appearing
+Synset('reasoning.n.01')	symbolic memory-based 304 reasoning perform
+Synset('planning.n.02')	planning control
+Synset('be.v.01')	functions chips optimal objects accuracy resolution setting equations score contributions vii visual circuitry combinatorial energy solid squares spreading acknowledgements shapley analysis synapses selection size left detail wind object poorly statistical criterion notable turn matrix arcs result currents behavior close policy hand sweep preferences sets learn pruned descent t-distribution grating trials decreases winnow information combined axon jeremy acknowledgement evidence inputs belonging tij layers discrimination chaining weighted predicted constructive clearer voltages parser vowel loose scenes activation neural divided representation pca previously mixture projection reinforcement lines potentials drifting blocks transistors multiple perform label recorded improvement ments gaussian configurations averaging channel approach gradually number block magnitudes order algorithm splitting similar mapping shape testing ahp distributed system glint restriction orders partial algorithms circuit tone cell representations intensities local segments noise decisions outcome linear question speedup inaccuracy dendrite noisy weighing sharp future firing preceding 427 feed-forward attributes constraint outputs detectors simplifies points identical saturation biggest generalizations symmetry members function choppers buffer net traffic separable comparison real basis differed 200 unit hybrid 0,1 amplifier basic leakage straight-forward 5000 latency technique potts units times primitives feedforward design coincidence lane direction ans rates tti specific fukunaga autocorrelation quantitative activities strategy respond reversed moderately accurate collaterals shift neuron echo lanes state events drift models separately codeword correlations demand amplitudes input jitter comparisons difference complexity increased argued odor networks battery facts cascode routing lgn notion found desired takes mechanism situation genetic bandwidth gradient optimum sensitivities ppr clas speech dataset discretization fashion asr principle spaced lij research features view white neighbors segment tile things overlaps expansions recurrent results estimates tension weight significant expressions imaging odors technologies signals harrison spaces worst fixed neighborhood assume parameters memory hidden classes concept show description updates settling newton minimal negative central early enhance delivery sensing evaluations gradients start momentum target mappings curves silicon sigmoid nervous backpropagation criteria program pals issues required pus lms temperatures connectivity auditory probabilities 1979 plan circuits case hardware tion sessions images mirrors probability conclusions theoretic limiting lowest variances 1989 care study log pattern exercise formation layer vehicle unknown gain 1998 freedom low categories architecture means prob initial display adversary sperling grid randomly levels transistor statistics small dac section cycles simple assumptions dam shows shown fet denote presented percentage potential resist tree binomial produced important vectors nerve daily produces yll hypersphere vertically crucial values investigations necessarily point general candidate parallel sumption wij visually david mentioned matrices dimension move process ues original stimulus ltp velocity approaches fellowship increase recommended a2 variance suggestions frequencies fitting simply equivalent fig ambiguous synaptic offer fit bat stimuli synchronizing draft exemplar rank resistor bees ab ac af metropolis pass impact ai active activa c2 population aq aw plant domain assigned smear relative average scheme bl bn bp transparent adaptive search spacing systems conduction term panel mind chip cf set dots ci summing encodings epsp subjects words column dendrites cl procedure sample constrained cs ct fly spectrogram stage maximum phenomena db de performs superposition added questions corpus developed cues exemplars prior useless sgn signal train bayesian image ei test patterns em 2000 eq graph propagation burst x-axis cursor fi waiting session additional parallelism fn fo training oae passes load rate sim alpha hemisphere class views attended overfitting gi practical pyramidal i1 length counter trajectory form setup gate humans subset expert select simulation bin answers hope tracking improved output balance ia revealed classifier easily action model text animals spatial large dependency made lower winner-take-all integrand schemes classification resulting distributions field contents 3.2 interval summed works inference curve pursuit minimized sequences hysteresis mae world strings y-axis member kd ability map ki table implementations 0.80 change systematic ment corrected snapshots 543 machine discontinuities stuart selectivity spectral ln fur n1 constant dimensional quadrants subject soc recognition sign lu main receptive high solution sufficient classifiers limit selected mcmc wavelength mn approximation level ms author difficult synapse weights experiences relevant entry task null directions strengths background true prediction position 1.9 present problems nn p2 code bor paradigm movements appears storage total magnitude falling processes equation deviation compositions structure poggio intensity receptor shaded spatially conventional sensory ipsp carlo clustering properties vary pu readily coherent upper adaptation periodically constraints objective observed photoreceptors dynamics character fire band chopping temporal 10 11 14 17 18 received rc node rf generalization ri processing obtained starting captor rr motor rt components 25 access 26 activity primitive 27 examine experiments 0x global long current si temperature sm vector operating sr measurements landscapes variables expression middle decision strategies started svm simulations connected single extensive ti mismatch cochlear progress operation partially agent joint modulation 49 ica approximate rules inside independence synchrony neurons 3a pairs 3b spike frequency presentation greedy details dynamic extreme commands distractor richness maps solutions multiplier finding modification modelling discrete mlp bursts channels support internet bethesda idea recording rule learning conductance speed judgements ipsps common interest potentiation nonlinearities definition performances 75 clusters characteristics figure types cases previous inhibition argue filters olshausen voltage cells pairing renormalization 80 step 85 codewords xx software loess afferents axes foreground type degrees loss problem filtered optimization terms 90 proof phase competing goal method work m.i reduced samples zi exist examples force sensitivity word theory extension regions columns range ous distribution fets axons orthogonal feature recall continues place established observation transformation filter expect depth elements interneuron responses dispersion minimum runs dashed argument data owl sound threshold axis pole space growing inferred associative mechanisms development asymptotically individual bottom mining decoder sequence proposed techniques ground vlsi purpose eeg line distinct membership error differential network minima numerical trace operations paper array parameter studies track inverse time-domain orientation ing quantity computations motion advantage studied implementation groups efficacy performance response
+Synset('deteriorate.v.01')	ate deteriorates deteriorate arrangements
+Synset('check.v.05')	checking checks checked check
+Synset('establishment.n.06')	radar establishment
+Synset('female.n.01')	females female
+Synset('rotational_latency.n.01')	effects neural latencies latency short long
+Synset('constant.n.02')	outputs firings classify constant membrane computed strength equipped pattern blur range piecewise training tune output rate block constants spatial factor radius case order product lime fairly positive velocity filters increase 4b 4c approximately
+Synset('interpolation.n.02')	interpolation surface multi-dimensional 1992 applicable
+Synset('link.n.06')	incoming introduce additional link final match links units message network
+Synset('enhance.v.02')	enhancing enhanced increasingly expect enhances ltp selectively mechanism cues enhance
+Synset('chemistry.n.01')	chemistry physiology
+Synset('surface.n.01')	surface surfaces
+Synset('service.v.01')	result serves served serve serving
+Synset('excite.v.08')	excited excite
+Synset('prevent.v.02')	prevent components preventing keeping made effectively term threshold prevents prevented frequencies
+Synset('value.v.01')	valued continuous
+Synset('encode.v.01')	encode unit optimally appropriately encodes encoded spike
+Synset('stay.v.01')	cortex resting student remain temporarily remained training remains residual neurons predictions remaining network kin artificial plain ratios signal
+Synset('repetition.n.03')	repetition repetitions bars
+Synset('hold.v.14')	borne born carry
+Synset('metric_function.n.01')	figure statistical metric solutions rule mimic information metrics log-likelihood
+Synset('abstraction.n.06')	abstraction abstractions
+Synset('efficient.a.01')	image computationally making 14 data efficient neuronal learning
+Synset('variation.n.03')	slow reflectance variations variation
+Synset('world.n.02')	world domain
+Synset('predate.v.01')	exposure precede stimulus precedes preceding preceded detail
+Synset('tick.n.02')	ticks tick
+Synset('wrath.n.02')	ira ire circuits
+Synset('deviate.v.03')	deviate deviates
+Synset('unit_of_measurement.n.01')	cc standard competing cluster outperform hidden pu require units differ chosen output single homogeneous number input unit 0,1 excites cosine stochastic 40 selecting algorithm
+Synset('publisher.n.03')	morgan systems publishers norwell kluwer
+Synset('ear.n.01')	ears ear
+Synset('pace.n.01')	gait gaits
+Synset('manipulate.v.02')	manipulating manipulated manipulate
+Synset('symbol.n.01')	symbol filled symbols
+Synset('bit.n.05')	3t static dram bits bit packed resolution states exponent
+Synset('temporary_hookup.n.01')	patch functional overlapping patches inhibitory bulb spatial local
+Synset('trace.v.02')	approximately describing delineated describe describes
+Synset('log.n.05')	yi shows log rz iff 160 logs energy
+Synset('rochester.n.01')	rochester university dept
+Synset('switch.v.04')	switching iden switched fixed shifted shifting
+Synset('diameter.n.01')	diameter diameters
+Synset('press.v.04')	pressed press
+Synset('expose.v.03')	displayed exhibited exhibiting display
+Synset('shift.n.01')	displacements displacement
+Synset('disease.n.01')	disorder disease diseases cleveland
+Synset('intense.a.01')	i.e intense
+Synset('wink.v.04')	blinks blink
+Synset('rear.n.05')	rear outperform form learned plain forward back feeds information representations epochs digit
+Synset('people.n.01')	images problem reliably 274 segments
+Synset('testis.n.01')	ball balls 406
+Synset('track.n.07')	attempting moves track tracks
+Synset('jung.n.01')	122 124 jung
+Synset('mood.n.03')	refractory closed-loop modality modes mood individual neuronal batch irregular mode current modalities dolce background account
+Synset('state.n.04')	nation nations
+Synset('resistance.n.01')	opposition resistance
+Synset('vowel.n.02')	vowels 25 data vowel intermediate classifiers classifier knn state ten classification 10
+Synset('successful.a.01')	function reinforcement successful
+Synset('removal.n.01')	removal complete
+Synset('watershed.n.01')	divides training divide cycle algorithm
+Synset('forget.v.03')	forget forgetting
+Synset('organization.n.04')	1998 initiative organization organizations organisation thompson synaptic
+Synset('thin.a.01')	state thin
+Synset('overlap.n.01')	reduce input overlap pairwise convergence response patterns overlaps substantial bounded point
+Synset('watch.v.03')	properly nodes viewed viewing
+Synset('excite.v.07')	excited exciting excite
+Synset('suffer.v.06')	suffer suffers suffered suffering
+Synset('arrow.n.02')	dashed solid arrow arrows labels heavy
+Synset('quantum.n.02')	nervous discharge quantum
+Synset('mem.n.01')	framework committee mem large
+Synset('prevent.v.01')	prevent preclude precludes
+Synset('sink.v.03')	lapses passed
+Synset('anticipate.v.06')	systems anticipate anticipated
+Synset('january.n.01')	database works january jan markov sci 43
+Synset('variation.n.02')	variance variations variances
+Synset('wardrobe.n.01')	neural university recognition biol networks ieee pergamon oxford denver ma 1993 systems proteins princeton academic mit press programming editors park san michigan al analysis june york yale
+Synset('weigh.v.03')	weigh weighed weighing
+Synset('episode.n.01')	episode episodes
+Synset('table.n.02')	67 inputs units discussion required tables 410 problem shown 0.03 noise 73 results table order efficiency images offset 19 false accurately bounded input unit truth two-dimensional rh prediction koch 4.6
+Synset('professional.n.02')	suggested finding pro
+Synset('cyclooxygenase.n.01')	14 scale lewis cox
+Synset('customer.n.01')	14 customers customer
+Synset('maximization.n.02')	maximisation 1995 0.03 maximization expectation
+Synset('return.v.01')	set returning returns returned potential es return
+Synset('overall.n.02')	separable installed 16 lower showed parameter degrade
+Synset('implementation.n.02')	circuit compact vary usage covariance variants simpler network current alterna parallel 1991 electronic net physical implementations hardware cmos digital practical implementation distributed reduced significant concepts eds present
+Synset('energizing.n.01')	collaterals neuron language units conductance matrix network feedback activating graded spatial 30 ii courses figure images linear presynaptic forward patterns synapse rows lead resulting plots computation analog node sigmoidal sigmoid 1981 increasing typical activations burst activation correlated forms
+Synset('convex.a.01')	single including appendix form convex construct nested strictly simply
+Synset('formation.n.01')	memory self-organized pattern formation sequences trans
+Synset('rich.a.02')	richer rich
+Synset('available.a.01')	mackay conservative data techniques bits classifiers training information continuously revised
+Synset('position.v.01')	positioning positioned positions position
+Synset('reverse.n.05')	left-to-right reverse reverses leakage
+Synset('tail.n.01')	tails tail
+Synset('performance.n.03')	correct strength optimal lq comparative voting edwards parsing improved high shows associating experiment function classifiers classifier model discrimination poorer based actual tap test arising adjusted isolation significant analysis classification degraded graph jitter signals task system slow highest improve leads effect prediction difference amplifier parameters 20 degrades problems average compare fi increased regions circuit hidden parity achieve differences experiments 1000 proper training learning states network current design noise iteration studies human class performances table execution chip figure robust loads affects control improvement noisy compares noted 100 schedule superior performance trials rise
+Synset('systeme_international_d'unites.n.01')	i.e si effect analy sis
+Synset('biological.a.01')	biological networks
+Synset('pervert.n.01')	deviate deviates degenerate
+Synset('name.v.02')	deviations named identifies identifying names identified identify naming investigation model training al
+Synset('database.n.01')	databases database large financial machine sequences heart
+Synset('node.n.03')	instance untrained fewer occurs output number 112 bifurcation post continuous overlaps 53 computational counting environmental count active correlations node input 1.0 overlap correlation creating student-teacher specialized regions hidden experiments pursuit rule training learning networks giving error neighboring layer weak random computing feature floating ive map 32 hypercube summing match started suggest message prototype target single 100 environment nodes bid
+Synset('persona.n.02')	image images
+Synset('model.v.06')	modeled model
+Synset('want.v.02')	nets needed required cascode tasks algorithm train song chip figure development cost linear 2,000 method rates subjects bits require concentration technology affected noted odors input application requiring grid specialization reducing gaussian requires
+Synset('unlike.a.01')	unlike dissimilar
+Synset('read.v.05')	read reads activation
+Synset('facing.n.01')	facing baseline
+Synset('situation.n.02')	positions position situation situations
+Synset('explore.v.02')	exploring explore sets systems explored explores lippmann papers plan
+Synset('readiness.n.01')	preparations preparation
+Synset('filling.n.01')	memory fill fills
+Synset('chord.n.02')	chord chords
+Synset('run.v.11')	matlab presently run continually running computer disparity function ld 0.0001 averaged 50 free runs 20 ran 10 twenty
+Synset('retain.v.02')	beginning keeping retain adaptation replaced continued learning weights onset retained channels continue continues retaining sensitivity continuing actions retains object
+Synset('insight.n.03')	insight insights
+Synset('see.v.01')	sees choppers
+Synset('stand.n.10')	stands unit stand
+Synset('williams.n.05')	ron san 14 motion hinton zhu informatik williams lecture rumelhart gaussian aftereffect
+Synset('iowa.n.02')	hobson ia layer
+Synset('santos.n.01')	542 544 538
+Synset('pass.n.04')	passes low pass curve series backward hyperplane simply
+Synset('trickle.v.01')	including membrane kalman pattern filters high-pass developed filter filtered left fixed low-pass constants contrasts filtering
+Synset('transcript.n.02')	copies copy
+Synset('tellurium.n.01')	te ay weight wei
+Synset('tempt.v.03')	invited tempting perception
+Synset('diagonal.n.04')	favorable diagonal
+Synset('pasadena.n.01')	pasadena drive
+Synset('tree.n.03')	tree trees
+Synset('suit.v.01')	accommodate accommodated
+Synset('forget.v.02')	forget forgetting
+Synset('united_nations.n.01')	optimal shapes discussions
+Synset('variation.n.01')	amplification criterion fluctuations 1993 variations expected power sample trains fluctuation variation temporal
+Synset('salute.v.06')	presented tones presenting present
+Synset('leaf.n.02')	oak scenes leaf
+Synset('change.v.02')	changing changed
+Synset('prohibition.n.05')	figure lt inhibition weak
+Synset('translate.v.01')	renders interpreting rendered interpret interprets capacities interpreted
+Synset('overwork.v.02')	exploit exploiting
+Synset('decide.v.04')	decided decides decide
+Synset('refinement.n.05')	refinement refinements
+Synset('fluctuate.v.01')	fluctuates fluctuating
+Synset('oppose.v.03')	opposed opposing
+Synset('omission.n.03')	deletion deletions
+Synset('process.v.03')	microprocessor symbol data optimal govern intrinsically language nonlinear entire frequency auditory advances 711 function visual higher-level signal energy non-linear combination similar peripheral actual image making giles level metal distributed synapse analysis smoother 1986 signals system cognitive converge alan animal processing fixed basic top-down trans nn internal neural line affect pattern learning formation autoregressive derive network random search variety parallel stochastic cohn physical editors cmos editor chip process processes motion control designing picture intelligent bart processed simmons koller speech restricted markov le information 429 gaussian
+Synset('acoustics.n.01')	conference inst acoustics ieee
+Synset('light-emitting_diode.n.01')	phase found inputs led results
+Synset('emotion.n.01')	emotion emotions
+Synset('medical.a.01')	symptoms medical acknowledgements
+Synset('symmetrical.a.01')	independent synchronous symmetrical asymmetric depression symmetric
+Synset('shuffle.v.03')	improved unit mixing mixed learning mix algorithm
+Synset('expect.v.01')	expect expected
+Synset('remains.n.01')	unit problem system firing remains cie population
+Synset('rank.v.01')	rankings ranks rank ranked ranking full
+Synset('feed.v.07')	output fed feeding feeds
+Synset('landing.n.04')	fly landing
+Synset('notice.n.04')	site grating performed notice
+Synset('book.n.01')	books book
+Synset('effect.n.03')	architectures question show inhibition uniform shows latent maxima viewed effect attributes power net press suggesting lesion
+Synset('topography.n.01')	topography plots
+Synset('express.v.05')	expressing expressed
+Synset('praseodymium.n.01')	pr pattern
+Synset('space.n.08')	topologically linear fig searching weight sample space cover input existing search condition likelihood size solution 1993 spaces temperature place state
+Synset('substitute.v.01')	substituted replaces replace substituting replaced
+Synset('drift.n.02')	tended drift
+Synset('sensitivity.n.05')	explore parameter exhibits sensitivities sensitivity
+Synset('mild.a.01')	shown mild
+Synset('explore.v.04')	exploring explore strategies explored explores region strategy
+Synset('winner.n.01')	winners winner
+Synset('layer.v.01')	mth cluster previous hidden smallest absence polysilicon constrained layer multi output thalamic final layers competitive resistive rn
+Synset('file.n.04')	file files network
+Synset('track.n.09')	keeping rail circular track generate tracks
+Synset('lithium.n.01')	cf neural solution injury dispersion li put
+Synset('transition.n.03')	transitions transition
+Synset('vogue.n.01')	trend implemented style trends
+Synset('retain.v.03')	holding retained held implemented retain retaining technique wa retains
+Synset('digit.n.03')	digits digit
+Synset('sagacity.n.01')	judgements judgement judgment judgments
+Synset('musical_arrangement.n.01')	switching arrangement cascode current recording arrangements compromise
+Synset('promise.n.01')	directions promise promises
+Synset('wisconsin.n.02')	m-1 wisconsin ij wi regions completely weights layer
+Synset('congestion.n.01')	effect congestion
+Synset('striate.v.01')	single macaque monkey cells cat complex striate architecture
+Synset('front.n.04')	fronts front
+Synset('segment.n.02')	segment segments
+Synset('purpose.n.01')	aims aim purpose purposes design classifier designs intent intention
+Synset('instructive.a.01')	instructive improves informative
+Synset('association.n.03')	associations association american temporal vehicle
+Synset('testing.n.01')	environment images testing training mixed networks
+Synset('interpolation.n.01')	insertions insertion
+Synset('analyzer.n.01')	analysers component data analyzers analyzer analyser perception
+Synset('state.n.02')	initial behavioral true state steady states
+Synset('collection.n.01')	largest books collections objects aggregation collection region
+Synset('cambridge.n.02')	college memory neural mathematics university scientific language adaptive pages 1995 atmospheric systems 1991 mit cambridge press models king preprint electrical engineering brain phd volume science processing
+Synset('darken.v.03')	plications darken
+Synset('merging.n.01')	merging meeting
+Synset('mean.v.01')	meant intended intend
+Synset('calcium.n.01')	internal inference threshold error trees approach 159 segment diego circuits ca gated san angeles calcium mateo kaufmann c2 pasadena unit berkeley jolla stimulating http dendritic
+Synset('nation.n.02')	nation model nations
+Synset('cell.n.02')	synchronized rostral functions untrained photoreceptor inhibitory excitatory rules simple receptive trains synchrony approach neurons horizontal act kinases stimuli complex implemented dynamic spatial recurrent connections attempts ii cortex phase similar models tuning definite caudal ir synapse zones input 200 hybrid field 324 detecting biological mitral sensitivity parameters strong functional cross-correlation activity additional ganglion rule fundamental cell postsynaptic long layer gain prevent potentiated hair thalamic feedforward stronger cat tangential distances amount granule linear chance attributed decreased pyramidal alternate nucleus specific logical receptor cells cortical firing constraint tally category account dimensions
+Synset('dot.n.03')	monkey dots barely dot
+Synset('stress.v.01')	stressed emphasizes emphasized emphasizing cri emphasize observed
+Synset('preserve.n.01')	preserves preserve
+Synset('integrate.v.01')	cortex incorporates integrating methods synapse incorporate integrate integrated decided analyses 1986 expect system bat systems incorporated step assembled integrates incorporating hardware algorithm
+Synset('stick.n.06')	sticks stick
+Synset('same.a.02')	intensity secondary belong equipped maximum gathered 50 velocity units
+Synset('chosen.n.01')	algorithms instances regularization units encoding chosen
+Synset('rise.v.02')	give statistical rising rose rise giving rises climbing point
+Synset('proceed.v.02')	schedule axons proceed induction proceeded continue continues proceedings continuing
+Synset('investigation.n.02')	investigating investigations investigation rule neurophysiological mj
+Synset('tuning.n.01')	ferster intensity phase figure orientation tuning ruderman due directional
+Synset('raleigh.n.02')	automation raleigh
+Synset('toilet.n.01')	synchronized data evidence criteria reasoning neuron numbers neurons space points output presentation conjugate instruments poor function implementable model 50 state signal results 10 phase similar large patterns distributed weights analysis vectors signals system size av defects demonstrate average circuit pattern update scale technique learning annealing networks cycle layer network parameter vector behavior mechanism class architecture chip figure original cases decision nature deviation suggest refinements corollary detected online
+Synset('perceive.v.01')	whitehead perceives bat perceived accuracy perceive perceiving
+Synset('space.n.01')	infinite space partially
+Synset('principe.n.01')	principe compression
+Synset('while.n.01')	fig localised neuron synchrony cues patch barr number stimuli overlaps fire connection moving ii splitting making patches slope population underestimate signals task asymptotic piece plant amplifier position formed cursor bf classes values experiments deterministic rule bach learning turn units cell matrix networks representation long states network pieces muscle noise wij term passed matrices incorporating cmos gilbert selective motion learned change stimulus filter stim cells approximately species 4.6
+Synset('reach.v.01')	gaining gained made attaining attained attain
+Synset('occur.v.03')	splitting process processes activity occurred examine occured occur change ltp training learning occurs hysteresis occurring naturally responding bursts stream determined firing missing discontinuities
+Synset('contour.v.01')	contours contour
+Synset('macaque.n.01')	macaque neurons
+Synset('conventionality.n.03')	convention electronic show
+Synset('selenium.n.01')	ses res se worse
+Synset('houseclean.v.01')	cleaning cleaned
+Synset('difficulty.n.03')	difficulty depending difficulties great
+Synset('market.v.01')	market markets
+Synset('professor.n.01')	professor prof proves
+Synset('portray.v.02')	depict depicted depicts
+Synset('recruit.v.03')	granger levy recruited
+Synset('implement.v.01')	add implements set scheme method implementing procedure units conclusion contribution traditionally 424 implemented term implement directly 20
+Synset('lead_up.v.01')	initiate initiates initiated initiating
+Synset('bar.n.15')	bar test subjects cross networks calibration signal bars
+Synset('stop.v.03')	halted halt carefully halting
+Synset('thing.n.08')	things thing
+Synset('master.v.04')	controlled controls measure strate conventional pattern control learning controlling master
+Synset('band.n.07')	band bands
+Synset('source.n.03')	sources source
+Synset('mechanics.n.01')	statistical 1990 mechanics
+Synset('depolarize.v.01')	depolarizing strongly injected depolarized rapidly highly
+Synset('quest_for.v.01')	pursue pursued
+Synset('produce.v.03')	outputs produces produce produced
+Synset('government.n.03')	government u.s department
+Synset('widen.v.04')	extend broadening extended
+Synset('addition.n.02')	additions addition
+Synset('tempo.n.01')	pacing tempo
+Synset('attention.n.01')	visual attention
+Synset('postulate.v.02')	postulated hebb
+Synset('attach.v.02')	attached attach
+Synset('rotation.n.01')	rotation rotations
+Synset('perplexity.n.01')	perplexity tab 0.45
+Synset('pulse.v.02')	incoming receive neuronal inhibitory pulsed synaptic output single input random current fires 1984 light pulses pulse subsequent 3-4 step
+Synset('biota.n.01')	biology molecular math microseconds finance theory mathematical
+Synset('collection.n.04')	collections aggregation denotes collection collecting
+Synset('neutral.n.01')	curve prediction neutral vlsi
+Synset('plication.n.02')	plications ap
+Synset('worldly_concern.n.01')	external world task worlds natural real gaussian applications network
+Synset('pull.v.04')	pulled pulling pulls
+Synset('fall.v.24')	falls fall
+Synset('holmium.n.01')	ma ho
+Synset('anterior.a.01')	call anterior
+Synset('yoke.v.02')	linking transformation linked
+Synset('push.v.01')	pushed push
+Synset('park.n.02')	green 323 common additional park attempts
+Synset('essen.n.01')	van essen
+Synset('adult.n.02')	adults adult
+Synset('shell.n.04')	shells shell
+Synset('portrayal.n.02')	testing characterization
+Synset('ross.n.05')	1981 d.c ross burr cleveland
+Synset('translate.v.08')	translating translates translated translate
+Synset('reach.v.02')	reaches reach reaching suggest hitting samples hits attains hit system attaining reached attained attain
+Synset('undergo.v.01')	output neural ganglion undergoing undergoes continuously undergo network
+Synset('hull.n.06')	convex hull
+Synset('summary.n.01')	summary random figure conclusions 2.4 require fields table presents
+Synset('mass.n.01')	mass reading dissertation cambridge cheap masses
+Synset('threshold.n.01')	thresholds threshold
+Synset('space.n.02')	symbol half parameter spaces space
+Synset('yttrium.n.01')	stud ies ys
+Synset('difficulty.n.02')	difficulty difficulties
+Synset('society.n.01')	society journal systems cog royal optical
+Synset('obstacle.n.02')	obstacles obstacle
+Synset('tissue.n.01')	tissues tissue
+Synset('stripe.n.05')	stripes bar response stripe bars stimulation
+Synset('hole.n.02')	hole holes
+Synset('bergen.n.01')	sloan bergen
+Synset('leap.v.02')	jumping jumps jump
+Synset('patch.n.03')	patch patches
+Synset('supplant.v.01')	input blocking replaces replace replaced model learning replacing day
+Synset('proposition.n.01')	goal propositions proposition
+Synset('creation.n.02')	dynamic creation
+Synset('source.n.02')	sources source
+Synset('fox.n.01')	burgard press fox
+Synset('follower.n.01')	based follower source
+Synset('empty.v.02')	black 20 empty
+Synset('detector.n.03')	detectors detector
+Synset('coefficient.n.01')	preservation original coefficient 70 coefficients 10
+Synset('attach.v.01')	attached attach
+Synset('hemisphere.n.03')	upper hemispheres hemisphere
+Synset('respect.n.03')	models regard respect respects
+Synset('share.v.04')	shared dealt sharing cues
+Synset('expansion.n.03')	elaboration expansion
+Synset('cell.n.04')	cells cell
+Synset('close.v.09')	closed close closes
+Synset('qualify.v.06')	characterized characterizing characterize precisely characterizes data categorization student characterised
+Synset('assignment.n.02')	valid total cost assignments favor sutton assignment 7x7 one-to-one credit lane
+Synset('warhead.n.01')	load payload loads simply
+Synset('owl.n.01')	figure barn owl owls axis
+Synset('prism.n.02')	prisms prism
+Synset('gyrus.n.01')	convolution convolutions
+Synset('startle.v.02')	green comparison jumps jump
+Synset('restrain.v.03')	holding component confined held confine point
+Synset('promote.v.01')	blind hidden advanced experiments solla advance lippman pages encouraged encourage variety defense advances model vector boosted moving results programming editors encouraging exponentially encourages boosting giles initial planning strongly boost family fashion
+Synset('succeed.v.02')	succeeds succeed succeeding model succeeded
+Synset('sufficient.a.01')	call decision depolarization sufficient inhibition eptesicus prevents epochs neurons
+Synset('tension.n.04')	tension tensions
+Synset('simulation.n.02')	simulation simulations
+Synset('august.n.01')	aug cognitive august massachusetts seattle
+Synset('wall.v.01')	surrounding surrounded surroundings surrounds surround
+Synset('conference.n.01')	conference inference environments aip learning networks ieee integrated 15th systems perceptual annual net international fifteenth models proc fourteenth european comparing al speech stanford ninth vlsi
+Synset('reference.n.06')	extension criterion allen references functions optimal hughes administration james discussions affecting threshold learning minimized networks dr research required reference number paris award 1994 function classifier term predictor text modifications figure center contract fellowship predictions divergence nasa clinical extensions examples mcdonnell techniques organization le u.s grant 21
+Synset('id.n.03')	ids id
+Synset('virginia.n.01')	vas sm va virginia
+Synset('ability.n.01')	abilities sophisticated solving enhances ability pals human computational network
+Synset('integral.n.01')	definite integral integrals
+Synset('awake.a.01')	cortex visual awake
+Synset('graduate.v.01')	graduate graduated national
+Synset('yield.v.01')	average yielding method strength threshold randomness yielded giving filter afforded problem inactive afford si increasing yield yields maximizes gave responses xor
+Synset('synchronize.v.01')	synchronized synchronize
+Synset('letter.v.02')	review letter clustering letters
+Synset('trip.v.04')	sparks triggered activate activating directly activates activated triggering
+Synset('help.v.03')	facilitate selection stimuli facilitates facilitated facilitating interactions
+Synset('shock.n.02')	impact frequency
+Synset('expect.v.04')	expect expected expects
+Synset('prey.v.01')	output fed feeding feeds
+Synset('defense.n.03')	strategic defense department
+Synset('cleveland.n.01')	figure cleveland
+Synset('text.n.02')	providing texts profiles context text
+Synset('wave.n.01')	waves wave
+Synset('rome.n.01')	rome institute
+Synset('canada.n.01')	sequence canada
+Synset('bias.v.01')	biasing biased
+Synset('shell.n.01')	shells shell simulation
+Synset('know.v.03')	models period beginning optimal knew stimulus bound consistent collection basis noisy knowing layers subset clusters drift addition
+Synset('rhodes.n.01')	156 158 rhodes
+Synset('hole.n.03')	hole holes
+Synset('schedule.n.02')	schedule paris freeze schedules 1000 noise learning annealing
+Synset('formation.n.06')	1993 formation demonstrate
+Synset('north_atlantic_treaty_organization.n.01')	blueprint nato
+Synset('wrinkle.v.02')	crease creases creased creasing crisp
+Synset('try.v.01')	attempting sought attempted networks attempt seek seeking expensive network attempts
+Synset('jerusalem.n.01')	jerusalem recognition
+Synset('male.a.01')	maler male
+Synset('hit.v.03')	hits hit hitting
+Synset('hinge.n.01')	hinge hinges
+Synset('bound.v.02')	border cases scheme large borders 3.1 bounds universal bounded bounding
+Synset('expansion.n.02')	expansions expansion
+Synset('eye.n.02')	eye eyes
+Synset('high_gear.n.01')	small boundary give making large achieve start conf involve point high low strongly jh adds
+Synset('time.n.05')	average plotted subject 1000 loo 350 space santa button times yo function averaged 10 drift 12 wx models 8000 expected refresh real specific unit horizontally median 324 700 increasing fixation integration preceding fixed correction
+Synset('computer-aided_design.n.01')	natural cad
+Synset('stretch.v.02')	extend extended
+Synset('unfold.v.04')	pronunciation natural ming unfolding spreading model unfolded open
+Synset('baltimore.n.01')	baltimore information
+Synset('drive.v.09')	driving driven drive
+Synset('half.n.02')	halves single candidate separating half paper selection yield upper positive occurs hypothesis
+Synset('scenery.n.01')	exist components detection scenes visual training 3-dimensional scene
+Synset('retina.n.01')	silicon retina vertebrate model retinas entire e.g
+Synset('isolate.v.04')	isolate isolated
+Synset('rich.a.07')	richer rich
+Synset('resistive.a.01')	digital analog hybrid individual resistive simple
+Synset('interpolate.v.02')	interpolates interpolated interpolating settle interpolate
+Synset('step.v.07')	discrete average step
+Synset('assignment.n.05')	assignments assignment
+Synset('interconnection.n.01')	interconnection interconnections
+Synset('count.v.04')	counting components ica counts count counted
+Synset('slow.a.01')	slow slower
+Synset('mining.n.01')	work mining
+Synset('star.n.05')	star stars ro
+Synset('feature.n.06')	similar features set paper feature interesting tree mv early
+Synset('card.n.01')	cards card
+Synset('crystal.n.01')	crystals crystal
+Synset('stage_set.n.01')	larger providing solving irrelevant circuit shaped screen collected training decomposition layer reproduce features apriori experiment low rate disjoint convex generalize 50 train models images set sets apply assignment squares index sample peaks fukunaga relevant performance lattice permissible family implies choice reducing
+Synset('basin.n.03')	basin basins
+Synset('symmetry.n.01')	correspondences balance 1982 symmetry symmetries correspondence completely
+Synset('serve.v.05')	ical sets helping serves served helped helps serve
+Synset('finance.n.02')	medicine finance problems
+Synset('quilt.n.01')	puff changing puffs
+Synset('wangle.v.01')	real-world managed managing manage
+Synset('steel.n.01')	steel steels
+Synset('morphology.n.04')	hybrid morphology morphologies
+Synset('association.n.08')	associations statistical association theory
+Synset('wave.n.02')	waves wave
+Synset('motor_neuron.n.01')	individual patterns cat motoneurons inhibition boundaries
+Synset('match.n.02')	match matches
+Synset('stimulate.v.04')	stimulating stimulated filters support stimulate
+Synset('state_of_matter.n.01')	internal correct neural sequential achieve upper neuron generator learning penalized ieee states network mode output current induction factored paper desired multiplied behavioral chaotic quantize vector state steady selected architecture area solid initial pseudo-random assump bits weights noisy colorado dissimilar discrete input koller provide sensory stable binary final
+Synset('feel.v.01')	cell region experience experiences experienced
+Synset('trouble.v.05')	pain ail
+Synset('increase.v.02')	increased increasing 4b order
+Synset('obtain.v.01')	obtains obtain 100 efficiency cost recognition information obtained close obtaining case
+Synset('metier.n.02')	medium media
+Synset('oxford.n.01')	oxford cognitive 346 academic north york press
+Synset('nautical_mile.n.02')	columnar mr michigan mis knot mi knots 10 miles
+Synset('future.n.03')	directions future densities
+Synset('mellon.n.01')	based technical mellon science carnegie
+Synset('bit.n.11')	refractory input bits bit message word frequency
+Synset('sibling.n.01')	siblings sibling
+Synset('replication.n.07')	result replication replications simple 10
+Synset('understand.v.01')	propagation theoretical work understand understanding understood
+Synset('comparable.a.01')	input builds procedure error slowly comparable
+Synset('attentive.a.01')	originating priming attentive
+Synset('ben.n.01')	11 ben
+Synset('unfold.v.03')	phasic unfolding stretching unfolded extended extend stretch measures stretched extends paper techniques extending
+Synset('interpolate.v.01')	interpolates interpolated interpolating interpolate
+Synset('digitize.v.01')	digitized digitizing
+Synset('lattice.n.01')	ar process lattice laminar lattices pixel hexagonal
+Synset('retinene.n.01')	retinal shapley 1989
+Synset('wonder.v.02')	question questions
+Synset('general.a.01')	general psychology connection extreme
+Synset('provide.v.03')	providing data dimensional distance provided fii ganglion learning representation approach research frequency connectivity scope classifier transformed definition examined mechanism dimension interneurons imposing process linear set initial kernel expected hyperplanes control simulations input m.s selection provide answer stage clas service instrumental cortical support gaussian
+Synset('expansion.n.01')	confined multi-chip generalization official expansions slowest expansion
+Synset('accurate.a.01')	provide accurate sets unsuitable tracker generating
+Synset('fall.v.01')	falls fall
+Synset('total.v.01')	total suppressing numbered rates reduces coming
+Synset('gesture.n.01')	gestures gesture
+Synset('investor.n.01')	investor individual
+Synset('situate.v.01')	locating goal locate conditional locates point situated running depth directions median untuned located
+Synset('barium.n.01')	selection training ba
+Synset('sink.v.01')	dropping dropped
+Synset('exabyte.n.01')	bound eb
+Synset('parse.v.01')	i.e figure learn section generating parse parsing massively current final parsed complete partial discuss
+Synset('relate.v.05')	cortex relate related relating relates equation
+Synset('upgrade.n.04')	give integral quantum rise giving rises potential cie
+Synset('alamo.n.01')	los laboratory net modelling alamos
+Synset('drive.v.07')	driving drives driven drive
+Synset('caterpillar.n.02')	cats anesthetized neuronal 18 cat neuron fields properties
+Synset('transducer.n.01')	transducer transducers
+Synset('consist.v.03')	consisting consists consisted consist
+Synset('tip.v.03')	feed tipping perturbation forward tip popular tips
+Synset('alphabet.n.01')	discrete alphabets letter classifier alphabet ternary
+Synset('jordan.n.02')	1998 mozer society jacobs school jordan m.i learning units networks
+Synset('wall.n.01')	walls obtained wall
+Synset('promoter.n.01')	promoter promoters
+Synset('call.v.09')	call quantity called calls entities calling
+Synset('validate.v.02')	validated validate
+Synset('bifurcation.n.03')	output bifurcation modeling performance bifurcations iteration
+Synset('request.v.01')	request requested requests
+Synset('size.v.02')	size sized
+Synset('imagine.v.01')	imagine recognition
+Synset('message.n.01')	receive components negation environmental multiple match networks message matches sends post classifier messages matched rn
+Synset('subscriber.n.02')	subscriber 400 variety readers subscribers simulation reader
+Synset('test.n.02')	tests test
+Synset('view.v.02')	considers considered viewed viewing
+Synset('recall.v.05')	recalling recalled
+Synset('project.v.03')	projected projects activity project obtained projecting research
+Synset('texture.n.05')	1998 practice textures texture grain striate
+Synset('eliminate.v.07')	naturally eliminated eliminates lesions eliminating reduced eliminate completely
+Synset('conversation.n.01')	conversations conversation
+Synset('accumulation.n.04')	calcium accumulation conductance
+Synset('erbium.n.01')	associates science ers er
+Synset('support.n.01')	supports support
+Synset('supply.n.01')	environment money supplies supply
+Synset('orbit.n.01')	orbits orbit
+Synset('july.n.01')	genetic 36 france july establishment ca
+Synset('decay.n.04')	argument linear interesting cou 1990 weight decay weights neurons controlled nodes asymptotic decays potential incremented
+Synset('picture.n.01')	image images pictures picture
+Synset('generalization.n.02')	1996 1995 generality generalisation generalizations generalization substantial
+Synset('stripe.n.02')	stripes major stripe
+Synset('computational.a.01')	pruning ease purely coherent main simple optimization annual discrimination graded collective net editors introduction computational reduce set large workshop stimulus interesting center 1990 labeled distributed target single entry convenient 1989
+Synset('critical.a.02')	sigmoidal genome process critical additional define zhang terminate
+Synset('transport.v.02')	carried carries carry carrying
+Synset('result.v.03')	resulted computed motion latency units resulting voltage vectors problem null solution predict attractors potential runs
+Synset('speculation.n.02')	boundary 683 conjecture earlier intriguing
+Synset('question.n.03')	question questions
+Synset('engineer.v.01')	engineers engineer
+Synset('sword.n.01')	steel brand
+Synset('edge.n.03')	edge edges
+Synset('ration.n.02')	rations ration
+Synset('tilt.n.04')	lists leaning tilt list linked
+Synset('matrix.n.01')	strength approximate construct synaptic relation output loss hz tables find hadamard rank modified connection calculated selected synapse slope remaining resulting square unit system 1983 plant fixed singular rn evaluate covariance matrix cen symmetric unknown admissible 10x10 orthogonal systems row matrices permutation product cost initial assignment makes invertible filters transition autocorrelation dissimilarities norms regression diagonal randomly misclassification
+Synset('transform.v.06')	ii motor components mapping efficiency data superposition wta transforms propose seeking transforming capacity output transform glint estimator bat sensory tin transformed basic reversed 3.9
+Synset('pair.n.01')	rejecting methods matched pairs pair
+Synset('construction.n.07')	constructions construction building
+Synset('instruct.v.02')	instructed data subject trainer subjects
+Synset('tolerance.n.04')	performance grid tolerance establish
+Synset('stick_out.v.01')	projected data project model projecting
+Synset('feedback.n.01')	feedback negative system pass auditory feedforward finally rule complete recurrent substantial hebbian
+Synset('failure.n.02')	failures failure decoder
+Synset('vanish.v.04')	vanishes disappeared disappear disappears vanish
+Synset('sequence.n.01')	sequence sequences
+Synset('junction.n.01')	junction junctions
+Synset('unite.v.05')	search united unifying unified unify depicted simple levinson perception
+Synset('compound.n.01')	compound waveform
+Synset('understate.v.01')	minimize opposing minimises minimising learning minimized system shown directions minimised minimise minimizing basic parameters calculated minimizes ratio
+Synset('zone.n.02')	zone zones well-defined
+Synset('rat.v.01')	rated ratings
+Synset('direction.n.02')	average fi activity vertical correspond transparent coding features orthogonal desired net results preferred direction figure motion depends opposite 360 120 population wrong directions stage 60 evaluating movement
+Synset('seaport.n.01')	haven harbor
+Synset('zip_code.n.01')	zip 1989
+Synset('cover.v.01')	covering covered distribution
+Synset('limitation.n.04')	limitation limitations
+Synset('operation.n.04')	reduce symbol mapping opposing modes synchronous ls rapid index range 8b executed operations 80 machines aligned operation permitting account non-linear
+Synset('phrase.n.01')	phrase phrases
+Synset('substantial.a.03')	suc material real substantial
+Synset('tune.n.01')	melodies melody
+Synset('aggregate.v.01')	aggregating aggregated
+Synset('scope.n.01')	wide reaches ranges reach values understand range informative synapse accept momentum target hold world measure compass orbits function scope dynamic orbit randomly theory
+Synset('work.v.09')	worked working
+Synset('stage.n.03')	offset bimodal simulation summing fin inverter opposite nearby gain directions stage 842 implemented stages activate processing receives multiplication activation support
+Synset('observer.n.02')	observer observers
+Synset('bottleneck.v.01')	bottleneck bottlenecks
+Synset('research.v.01')	ll functions advanced experimental office research graduate visual injury net algorithm computational area ad work acknowledgements engineering essen analysis vision external cognitive naval science processing support motor components retinal sophisticated technical pursuit robotics classical training global network discus computer communications current journal defense behavioral belief early process decision center acknowledgments brain describes onr ibm speech future activities siemens succeed report clustering pdp movement represent
+Synset('order.n.14')	n-th optimal unknowns unitary recognition decay learning manner matrix solla required differential arpa number 1993 excess roughly jordan easily model mechanism human temporal cascaded order lower constructive reduced combining consistent schemes vapnik classification differed sorted 1,000 left-to-right 1.6 orders higher
+Synset('pull.v.09')	pulled probability draw imaging network pulls pull central examples drawings function drawing pulling draws drawn
+Synset('symptom.n.01')	symptoms 1982
+Synset('preach.v.02')	advocated advocate
+Synset('approach.v.05')	approaching limit approached approaches units approach
+Synset('replicate.v.02')	replicate copies copied replicating copy bootstrap replicates replicated
+Synset('sunday.n.01')	sun monday
+Synset('rationale.n.01')	principle principles rationale
+Synset('calibrate.v.02')	calibrate baseline calibrated
+Synset('frontier.n.03')	frontiers frontier
+Synset('ring.n.07')	rings ring
+Synset('worldly.a.01')	resulted figure ing method learned convergence investigating ai show exhibits extraction high response varies temporal conversion
+Synset('whole_wheat_flour.n.01')	previous university 2.3 graham capacity
+Synset('logarithm.n.01')	white logarithm circles logarithms
+Synset('place.v.02')	place placing
+Synset('reduce.v.04')	reduce reduced reduces simplifying
+Synset('wide.a.01')	wider successfully data wide test show technique bit relationships unsupervised broad broader account relative
+Synset('medium.n.03')	medium media
+Synset('score.n.03')	22 34 largest score 14 scores 19 2.5 tracks energy matching
+Synset('rule.n.11')	boolean formulae formulas formula
+Synset('stuart.n.03')	kendall tm stuart
+Synset('page.n.01')	editor pages page international
+Synset('recording.n.01')	recordings recording
+Synset('bind.v.04')	binds bind bound
+Synset('seat.n.01')	places place
+Synset('moss.n.01')	moss simmons
+Synset('relationship.n.01')	exponential figure scaling implementation pool experimentally recursive controlled formal relationships sounds tuned vowel stronger effect typical model fourier relationship close mathematical
+Synset('april.n.01')	4-22 apr computing kaufmann april
+Synset('compound.n.02')	animals compound
+Synset('combination.n.01')	combinations combination
+Synset('berkeley.n.02')	berkeley hall
+Synset('morphology.n.01')	morphology morphologies
+Synset('diverge.v.02')	diverges diverge diverging
+Synset('standing.a.05')	standing long
+Synset('zone.n.03')	zone estimate model zones
+Synset('autonomic_nervous_system.n.01')	driving formulate ans training teaching
+Synset('valid.a.01')	valid ensure size em
+Synset('spectrum.n.01')	spectra spectrum force compound
+Synset('inning.n.01')	frames frame
+Synset('perform.v.03')	performs perform performed layer
+Synset('sing.v.02')	sing birds
+Synset('noise.n.03')	disturbance cue disturbances efficiency noise interference noises table 10
+Synset('resistor.n.01')	controlled external resistors high linear variable resistances resistor resistance
+Synset('description.n.02')	circuit series reversible description simple informal descriptions 1988
+Synset('mismatch.v.01')	mismatches mismatch transistor gain
+Synset('generator.n.02')	number pattern generators generator
+Synset('natural_process.n.01')	cluster functions sufficiently fig cycling event-related spontaneous synaptic spike temporally number problem denote action model programming e.g i.e ensuing large distributed oscillatory underlying longer combinations selection transient spectrum background ground actions sums works activity neural session choose cell postsynaptic intensities lot result search total pooled parallel trainer induced term post-synaptic dimension early clusters motion neuronal performing inhibition orm site stage response activities stored firing location axon
+Synset('scientist.n.01')	cognitive speech scientists scientist information
+Synset('community.n.06')	learn neuroscience community research communities
+Synset('unite.v.06')	merge merged merges
+Synset('paragraph.n.01')	paragraph paragraphs
+Synset('fragment.n.01')	fragment fragments distribution
+Synset('drift.v.10')	negative application drifting drifts weights capacitor drift voltage
+Synset('charge.v.23')	charge charging charged
+Synset('industry.n.01')	industries industry
+Synset('degrade.v.03')	system noise classifier degraded degrade degrades
+Synset('plant.v.05')	plants plant
+Synset('structure.n.03')	discover figure structures correlational brain networks echolocating structure secondary general interpolation 1.2 sensory cortical olfactory architectural primary architecture
+Synset('volume.n.01')	volume volumes
+Synset('peer.n.01')	components original set environmental level profile additional match active language covariance units bit matches network equal input field function equals classifiers classifier things assist
+Synset('record.n.01')	records record
+Synset('sketch.v.02')	outlines figure outline outlined sketched differentiating locations proof sketch
+Synset('weave.v.02')	tissues tissue
+Synset('explanation.n.01')	explanations accounts explanation account
+Synset('winnow.v.01')	fan winnow
+Synset('policy.n.01')	splitting static linear efficient parr establishing representing policies learning constantly adapted policy shortest
+Synset('recall.n.01')	extension 1994 curve recall associative information obtained capacity architecture
+Synset('recognition.n.01')	acknowledgement inference pomerleau recognition retraining choose intracortical neurons number loss dam teacher observations implementable fluid lines net matrices circuits 10 algorithm normal ac iris processes original address nature level expected length difficult modeled acknowledgements acknowledgments expense march 1008 661 yuan 200 conventional produces easier designs movement applications acknowledgment
+Synset('follow.v.18')	follow point
+Synset('axis.n.01')	axes axis
+Synset('invest.v.03')	invest invested stocks
+Synset('reversal.n.05')	reversals reversal task
+Synset('statistics.n.01')	annals convergence training consistent sensitive networks classification observed society 1996 economics 102 performance variance sensory 91 construction location computational 1988 statistics
+Synset('powerful.a.01')	powerful initial basis
+Synset('include.v.01')	include including includes included
+Synset('reward.v.03')	reward rewarding rewarded rewards
+Synset('experience.n.02')	experience experiences
+Synset('yard.n.01')	pace nearby
+Synset('observation.n.04')	observation observations
+Synset('vessel.n.03')	number vessel
+Synset('evidence.n.03')	hill components tests evidence accurate perfect log experimental supporting evidences targets
+Synset('trade.v.04')	trading traded
+Synset('version.n.02')	mild expected edition variants degraded noisy presentations version variation size versions variations variant stochastic modified
+Synset('perturbation.n.02')	con 1995 perturbation 1992 perturbations
+Synset('serve.v.02')	serves served serve serving
+Synset('washington.n.02')	distance wa
+Synset('subsequent.a.01')	ensure pre-exposure behaviors subsequent burst cell
+Synset('result.v.01')	resulted background resulting
+Synset('suit.n.06')	wearing suit suits
+Synset('atom.n.01')	atom atoms
+Synset('barn.n.02')	bs barn 614 manner 150
+Synset('charge.v.24')	charges charge 0.5 charging basic charged
+Synset('landmark.n.04')	sutton landmarks landmark
+Synset('observe.v.06')	observes forming con generalization keeping speedup observing incorporate observe observed
+Synset('skip.v.05')	skip skipping
+Synset('advantage.v.01')	advantages advantage williams takes
+Synset('regularize.v.02')	regularize regularizing regularized
+Synset('crash.n.03')	examples collapses rise collapse
+Synset('regulate.v.01')	modulated junction modulates modulate regulates regulated regulate channel modulating direction
+Synset('ordinal_number.n.01')	regression ordinal
+Synset('mod.n.01')	mod forward 1991
+Synset('trade.v.03')	trading trade traded
+Synset('summarize.v.02')	summed df fig summing summarized summarizing summarised stopping summarize summarizes results table full
+Synset('aspect.n.04')	aspect aspects length rhythmic
+Synset('error.n.06')	obs retraining decay choose type error branching compute edge solution overlaps factor close ghosh minimize reduce eliminated figure regime lower weights samples performance asymptotic sensory leads choice parameters movement errors relative
+Synset('attractor.n.02')	models attractor quantitative detecting feed-forward learning attractors behavior
+Synset('spectrum.n.02')	single spectra hz interestingly theorem 15 1994 spectrum consistent estimating serving
+Synset('sequence.n.03')	wiley sequence dna domain episode durbin sequences temporal episodes flash
+Synset('cellular.a.02')	cellular brain prolonged
+Synset('sodium.n.01')	100 sodium current na
+Synset('head.v.07')	head heading
+Synset('tai.n.02')	components tai
+Synset('certainty.n.01')	strong certainty
+Synset('structure.n.02')	models structures structure
+Synset('size.v.03')	size sizes sized
+Synset('vanish.v.02')	vanishes disappeared disappear disappears vanish
+Synset('layer.n.05')	superficial cortex hundred caudal initial normalize dendrites layers divide spatial layer e.g
+Synset('whittle.v.01')	pare pared 416 whittle
+Synset('polynomial.n.01')	outputs number primitive polynomials polynomial multinomial tasks hurt multi
+Synset('present.n.01')	component haussler considered 0.01 deemed developed present presents
+Synset('critical.a.06')	critical fig
+Synset('keep.v.07')	keeping chopping
+Synset('compartment.n.02')	compartment compartments
+Synset('expert.n.01')	expert hierarchical experts mixtures
+Synset('policy.n.02')	policies policy
+Synset('dissipation.n.01')	power dissipation
+Synset('satisfaction.n.01')	1998 satisfaction
+Synset('compartment.n.01')	compartment compartments
+Synset('suction_stop.n.01')	clicks click
+Synset('encourage.v.02')	encourages encouraged encourage
+Synset('control_condition.n.01')	motor successfully controls accurate intermediate fixed control maintaining gain
+Synset('follow.v.06')	figure tuned fixed
+Synset('development.n.07')	developments development
+Synset('consideration.n.01')	consideration considerations
+Synset('pixel.n.01')	extent cluster original values adjacent 4x4 pixels 0.2 128 fixed pixel 20 10
+Synset('traffic_pattern.n.01')	algorithms pattern training lee ieee network number adaptive general central vector dependent results temporal incoming 1v topology patterns ai 1990 significant single input colleagues efficiently 1989 problems
+Synset('heterodyne.v.01')	image scheme implementation
+Synset('constriction.n.01')	bottleneck bottlenecks
+Synset('south_carolina.n.02')	sc test
+Synset('identity.n.02')	initialised identities individual identity
+Synset('tag.n.04')	tag tags
+Synset('utah.n.01')	utah ut
+Synset('tin.n.01')	motion tin transformed sn tins
+Synset('synchronize.v.04')	synchronizing synchronize
+Synset('rival.n.01')	competitors selection competitor
+Synset('experience.n.01')	limited experience experiences early 1967 sram
+Synset('diversify.v.03')	specificity broadening
+Synset('recording.n.03')	set sensory recordings electrophysiological direct recording potential chronic
+Synset('artifact.n.01')	artifact intensity af ica 1991 traces isolated camera artifacts
+Synset('pendulum.n.01')	task equilibrium pendulum
+Synset('request.n.01')	request requests
+Synset('regulate.v.02')	ordered govern regularize ordering regulate orderings regularized governing regulates schunck regularizing governs governed
+Synset('induce.v.04')	induces induce induced inducing
+Synset('vertebrate.n.01')	vertebrate vertebrates
+Synset('advice.n.01')	give advice insightful
+Synset('attractive.a.03')	attractive active
+Synset('stay.n.05')	stays stay
+Synset('category.n.02')	natural individual cross arbitrary produce influence general cue response presented categories labelling category potential
+Synset('test.v.06')	tests test tested
+Synset('minimization.n.01')	minimization minimisation 1989
+Synset('stead.n.01')	places place
+Synset('fund.v.02')	funding funded
+Synset('manipulate.v.05')	manipulating manipulated manipulate
+Synset('contraction.n.04')	contraction contractions
+Synset('limit.v.02')	models confined limited limit company confine limiting swinging approach limits
+Synset('try.v.08')	renders rendered rendering render
+Synset('refer.v.03')	patterns curvature referring curves glint refers refer apparently thrust categories ol table referred
+Synset('tug.v.02')	driving drives driven drive
+Synset('optimize.v.01')	optimize optimized optimizes optimizing optimise optimising
+Synset('constellation.n.02')	constellation constellations
+Synset('turn.n.09')	bout stage turn turns
+Synset('counter.n.07')	counters counter
+Synset('produce.n.01')	produces produce
+Synset('imprint.v.01')	forming formed
+Synset('set.v.04')	marked marking set sets curve 91 marks mark setting
+Synset('extraction.n.01')	facilitate component unsupervised extraction
+Synset('editor_program.n.01')	editor donald iris neural feigenbaum learning variability houk network lippman traditional sian chan press editors cowan
+Synset('layer.n.02')	jm hidden trained pomerleau upper adjacent cell layer multi network output special input top removed final layers fixed
+Synset('user.n.01')	ann performance achieve moved user users fully
+Synset('minimize.v.03')	minimize minimizing minimized minimizes
+Synset('system.n.01')	high-performance asr current system theoretical systems future typical stochastic hmm processing
+Synset('access.v.01')	accessing weights accessed circuits
+Synset('success.n.01')	successes success subnets great
+Synset('juggle.v.02')	robot juggling
+Synset('october.n.01')	oct october
+Synset('acid.n.01')	acid acids
+Synset('conditioning.n.01')	hippocampus conditioning context pavlovian classical
+Synset('hemoglobin.n.01')	protein hb
+Synset('princeton.n.01')	laboratory princeton university center
+Synset('bulge.v.02')	bags bagging bag bagged
+Synset('shaw.n.04')	tim shaw
+Synset('opening.n.01')	remain gap gaps
+Synset('percentage.n.01')	figure 25 data lay bottom forecasting percentages percent 240 performance deletion percentage final decisions net
+Synset('exert.v.03')	exert exerts
+Synset('spot.n.13')	spot spots
+Synset('organism.n.01')	slightly organism pool real conductance pole mode result input problem cells background organisms actively difference biological constraint terrain optical
+Synset('adapt.v.01')	adapts accommodate accommodated adapting adapt difficult ability mosis
+Synset('attribute.n.02')	independent attributes attribute
+Synset('free-base.v.01')	47 chips nowlan consistency trial research japanese presented classifier model state net connections selected algorithm based models solid test individual grouping tool synapses system correlation directions aw statistical circuit nets figures methods gerstner learning cell unknown transform ghost systems design procedures studies decisions reinforcement place behavior ratios class designed universal policy svd erp decision assignment gradient ans sample strictly simulations performance nodes loosely variable information
+Synset('optimization.n.01')	outputs study con circuit apparatus global wright optimisation search tics optimization function convex temperature plan guide 10 algorithm situations move level neuronal assignment require control dictated special square performance measure correlation selection 1983 size build explored final setup platt avoid parameters support optimizations
+Synset('valley.n.01')	golden valley valleys
+Synset('explanation.n.03')	explanations explanation
+Synset('architecture.n.02')	architectures architecture
+Synset('throw.v.06')	switching request flipped switches existence thrown switch throwing ball adaptive nodes throw meaning flips switched flipping flip
+Synset('reputation.n.03')	reports computer technical report ics
+Synset('critic.n.01')	td critics critic basis
+Synset('uncertainty.n.01')	unit conference system clamped motion initial significant uncertainty uncertainties 1989
+Synset('output_signal.n.01')	outputs measured correct inputs photoreceptor neuron distinct training cell presentations differential network output current common desired auditory composite and/or block subnets weighted algorithm digital actual linear wit winning gradients multiple steering calculating synapse specific produce single sparseness unit system measure sigmoid 700 ended final axon oriented showing dc
+Synset('traverse.v.03')	traverse traverses traversed function traversing
+Synset('forecast.v.01')	forecasting calculating calculate calculated
+Synset('absorb.v.05')	absorbing absorbed
+Synset('work.v.03')	smaller worked capabilities act memory 1995 method tree working acts acting
+Synset('add.v.01')	added training simple error states spike tend random shown synchronizing adding function noise differentiating 50 net adds add hypothesize image set inhibition weights rc nodes 0.5
+Synset('scalp.v.02')	3c sensors left scalp
+Synset('protocol.n.01')	protocol protocols
+Synset('intelligence.n.01')	tech procedures analysis intelligence
+Synset('mirror.n.01')	current mirrors
+Synset('pole.n.10')	poles pole cart
+Synset('goal.n.01')	conclusion barr goal ends produces end circuits goals
+Synset('network.v.01')	feedforward networks network
+Synset('increase.n.02')	increases rate increase
+Synset('importance.n.01')	importance fundamental
+Synset('truncate.v.02')	truncate truncating truncated
+Synset('observe.v.08')	maintains maintain observing maintaining observe observed
+Synset('fund.v.03')	funding fund funded
+Synset('couple.n.05')	couple couples
+Synset('lane.n.02')	orientation hidden change convert changing networks bifurcation governing current road lanes visual prep lane traffic
+Synset('surprise.v.01')	surprise functional surprising
+Synset('oscillation.n.01')	negative outlined fig stimulus oscillation neurophysiological oscillations
+Synset('place.v.12')	localizing localize localised localized placing
+Synset('command.v.01')	commanded noise
+Synset('vector.n.01')	vectors vector
+Synset('refining.n.01')	refinement refining refinements
+Synset('rod.n.01')	rod rods
+Synset('selection.n.02')	dom set trained overhead conclusions converter experiments training draw suggest uncertainty network number random selections temperatures selection provide examples implemented selecting order
+Synset('cochlea.n.01')	saturation ar cochlea analog descent readings system data sensory chose vlsi
+Synset('set.v.05')	set sets setting
+Synset('proposal.n.01')	proposal proposals
+Synset('minute.n.01')	constant min smallest minutes achieved 40 ten local minute
+Synset('exist.v.01')	algorithms scaling data evidence solutions binding movements units existed exist existing examples optimization techniques eigenvectors discontinuities exists algorithm
+Synset('range.v.03')	ranging ranged response
+Synset('take.v.06')	read takes
+Synset('inability.n.01')	inability definition
+Synset('worth.n.02')	scope worth
+Synset('compression.n.03')	cost data 758 compression press
+Synset('judgment.n.04')	judgement judgment
+Synset('tracing.n.02')	2b artifact trace memory cells top gradient oscilloscope complex traces replacing theory
+Synset('top_out.v.03')	stage peaked peak peaks
+Synset('section.n.10')	section sections
+Synset('second.n.01')	sec secs
+Synset('equality.n.01')	equalities equality
+Synset('support.n.04')	bicycle changing utilities fine supplies classifiers credit results temporal 99 environmental acknowledgements 1983 examples generalization council domain reinforcements ro support duff problems algorithms works solving approaching martinez learning global 490 units layered 1997 minimal 1996 negative 1995 excess 1992 supports graded reinforcement introduction successful effectiveness boyan process positive fellowship 141 performance encouragement absolute 2.3
+Synset('success.n.02')	successes success
+Synset('last.v.01')	lasted lasting
+Synset('basis.n.03')	radial provide index rules smoothing basis changed
+Synset('answer.n.04')	correct varying definite answer answers
+Synset('touch.n.06')	hints hint
+Synset('brightness.n.01')	image brightness color lightness 2-d
+Synset('decline.n.02')	declines fused decline
+Synset('trust.n.04')	trust application labeling combines combine algorithm
+Synset('silver.n.01')	equations ag
+Synset('spread.n.05')	spreads scales john activation table spread
+Synset('valuable.a.01')	set helpful valuable
+Synset('presidential.a.01')	nsf presidential supported
+Synset('fire.n.04')	fires fire
+Synset('optics.n.01')	appl networks optics
+Synset('formalism.n.02')	formalism learning sentation representation mathematical
+Synset('disorderliness.n.01')	disorders disorder 2000 matrices
+Synset('native.n.01')	trials native
+Synset('roll.v.14')	rolling roll rolls
+Synset('residue.n.01')	residues residue
+Synset('programming.n.02')	conventional generated variable dynamic programming
+Synset('problem.n.02')	real-world general random artificial problem practical ence solve difficult specific problems
+Synset('linear.a.01')	linear solving 15 dimensional solutions venkatesh 1990 piecewise additive vectors 600 intermediate 50 introduction
+Synset('displacement.n.05')	displacements displacement
+Synset('show.v.01')	exhibited data exhibiting recognition network vectors amplitude shown presented arguments presenting exhibit demonstrated present showing presents
+Synset('combination.n.06')	combinations optimal due response combination
+Synset('over.n.01')	cheaper triples constant coherent run occurs trial summation number shown 90 consequences spatial directly results write algorithm method lower spreading reduced distributions million directions median spikes left leads 128 processing indication carry epochs summed average classify integrating activity swept sum error uniform averaged factor discriminations gi figure expression ing advantage change 0.01 control procedure improvement noisy mounted versus predictions generally controlled 100 0.1 uncorrelated cells polynomial response firing ratio
+Synset('synthesize.v.01')	synthesized synthesizing synthesize results
+Synset('gate.v.03')	gated gating voltage
+Synset('simplify.v.01')	figure shows simplified regression effectively section simplifies simplify simplifying
+Synset('word.n.01')	words word
+Synset('equal.a.01')	equal average
+Synset('xian.n.01')	m.a sian compared
+Synset('failure.n.07')	failures failure
+Synset('unction.n.04')	system energy
+Synset('architecture.n.03')	architectures functional inference perturbation networks choosing multi-layer minimal current problem spacing paper parallel chunking xor popular architecture m.a figure practical sets ans alternative improvement vision easier fixed fields
+Synset('make.v.03')	par bins figure regions gene created conclusions makes networks divider creating create creates stops
+Synset('decide.v.03')	decided decides decide
+Synset('surprise.v.02')	surprise surprising
+Synset('synchronize.v.06')	synchronized figure initial added synchronizing synchronizes 0.6 cochlear inhibition shifts choppers synchronize
+Synset('mound.n.04')	hill moore annealing
+Synset('recognition.n.02')	database identification recognition learning
+Synset('transmitter.n.03')	transmitters sender transmitter
+Synset('concern.n.01')	clustering concerns concern
+Synset('family.n.06')	family families
+Synset('register.n.04')	directions stage shift registers register
+Synset('sensitivity.n.02')	normal searches orientation original sets depends fig subjects difficult sensitivities speed uninformative signals measure directional estimate sensitivity greatly direction
+Synset('float.v.01')	figure grating drifting drifts floating creates relationship drift
+Synset('gradual.n.01')	gradual show degrade
+Synset('whiten.v.01')	whitened surround
+Synset('hill.n.01')	hill characteristic
+Synset('orlando.n.01')	morgan orlando
+Synset('substitute.n.02')	substitutes substitute
+Synset('event.n.01')	event events
+Synset('martin.n.05')	connor 422 424 martin douglas
+Synset('tracker.n.01')	trackers made ies tracker
+Synset('official.n.01')	official authors
+Synset('author.v.01')	author provided acknowledgements acknowledgments pur object acknowledgment authors
+Synset('engine.n.04')	engine engines
+Synset('sleeve.n.01')	search angle model arms arm
+Synset('sensory_nerve.n.01')	hippocampal afferents asymmetries afferent stone
+Synset('posterior.a.01')	app 199 level plot markov 0.99 posterior deliver clustering 95
+Synset('combination.n.05')	primitives combinations linear combination problems
+Synset('technique.n.01')	nn employ compare k-d circuit regularization hmm technique monte learning matrix network observed problem design complex implemented understanding net map earning algorithm stimulation architecture established similar maximisation set robust ensure efficient gradient electrophysiological clear pseudoinverse engineering constrained integrate unsupervised adopt techniques adjustment applicability theory hill-climbing problems
+Synset('quantize.v.02')	figure quantized quantize implement store quantizing
+Synset('manufacture.v.01')	bayesian constructing method theoretical sets constructed construct matrix constructs speed fabricated properly input 695 search systems array variable manufacturing circuitry circuits
+Synset('precede.v.04')	cities precede precedes preceding preceded units discussion
+Synset('stock.n.01')	bear stock recent beta stocks
+Synset('run.n.08')	100 run learning runs long
+Synset('just.a.01')	circuit squares magnitude threshold scarce potential space drift
+Synset('phoneme.n.01')	phoneme phonemes
+Synset('gold.n.03')	gold au 282 enhance
+Synset('erase.v.03')	deleting deleted delete
+Synset('success.n.03')	reason successes success quadratic
+Synset('duplicator.n.01')	image stop
+Synset('graph.v.01')	chart graph
+Synset('article.v.01')	articles article
+Synset('communications.n.01')	digital communications private technical neural reasoning york cross-validation networks transactions classification bell
+Synset('rate.v.01')	rankings ordering rank ranked rules ranking
+Synset('potassium.n.01')	gated potassium hyperpolarizing ks somatic dendritic activated
+Synset('arrangement.n.02')	arrangement spatial
+Synset('interact.v.01')	interacting interact interacts
+Synset('integrate.v.04')	integrating integrates integrate integrated
+Synset('quantize.v.01')	top quantized
+Synset('helsinki.n.01')	helsinki team
+Synset('danish.n.01')	danish funded
+Synset('aim.n.03')	aims aim
+Synset('claim.v.03')	claimed claims claim
+Synset('minimize.v.01')	minimize minimizing minimizes
+Synset('visualize.v.03')	analyzing visualized visualize visualizing movement
+Synset('sentence.n.01')	sentence sentences
+Synset('salesman.n.01')	salesman traveling
+Synset('dimensionality.n.01')	poorly high exploration dimensionality principles increase 140
+Synset('pose.v.03')	pose poses posed
+Synset('information.n.01')	adv proc info
+Synset('permissible.a.01')	allowable permissible representation
+Synset('pound.n.01')	300 avg shown 16 fig lb ure 20
+Synset('decompose.v.01')	decomposes decomposed decompose decomposing
+Synset('current.a.01')	potassium threshold cell plausible integrated output total current stabilizing bridle bias cat scatter specificity model projection weighted estimates algorithm 35 figure calcium 15 offset depolarizing lower lowering synapse eye input conditioning difference diode maximum fixed updated epochs
+Synset('reading.n.03')	indications readings select individual systems reading time-delay circuitry indication vlsi addison-wesley
+Synset('lie.v.01')	lie lies
+Synset('question.n.01')	i.e statistical inquiry query networks queries requires
+Synset('magnetic_disk.n.01')	disk disc
+Synset('define.v.02')	concept define defining defined defines
+Synset('goal.n.03')	inability ing constructing goal reaches meter reach alternative start reaching miyata composite occasionally fixed generate goals dimensions
+Synset('relate.v.03')	relate related relating relates
+Synset('tap.v.06')	tapped tap goal data cy taps section 10
+Synset('visible.a.01')	overfitting visible responses body
+Synset('compatible.a.02')	compatible ea
+Synset('matter_to.v.01')	interest interesting interested
+Synset('relate.v.04')	interrelated relate related relating relates
+Synset('obey.v.01')	obey obeys obeying
+Synset('assist.v.02')	assisted assist
+Synset('substitute.n.01')	substitutes replacement substitute
+Synset('listening.n.01')	listening 1958
+Synset('shrinking.n.01')	shrinking quantitative shrinkage
+Synset('focus.n.06')	work consistently focuses focus ability conditions
+Synset('iterate.v.02')	iterating iterates regression iterated iterate
+Synset('vector.n.03')	transmitters transmitter
+Synset('hardware.n.03')	digital small designers tradeoffs neural finally require synaptic network electronic implement net hardware
+Synset('nitrogen.n.01')	ns 80
+Synset('assembly.n.04')	mode assembly
+Synset('radius.n.01')	small rs radii real-time ek category radius bursting frequency
+Synset('inject.v.04')	injected term levels
+Synset('assets.n.01')	assets turn
+Synset('compare.v.01')	cue compare data restricted complex comparing learning error compares compared
+Synset('wish.n.02')	similar wishes
+Synset('die.n.01')	die dice
+Synset('silicon.n.01')	48 data mead 0.00 rogers states running 0.1 act silicon si undesired sis lazzaro
+Synset('trap.v.04')	trapped trapping
+Synset('handwriting.n.02')	vi handwriting human
+Synset('treaty.n.01')	pact accord
+Synset('cross.n.03')	se 500 spectrum cross hall dip majority crosses
+Synset('rewrite.v.02')	rewriting rewritten rewrite
+Synset('extent.n.01')	extent tuning
+Synset('sir.n.02')	inverse initial reduction sir
+Synset('limitation.n.02')	limitation hardware limitations
+Synset('deviation.n.02')	standard equal deviations input death values processing binomial deviation quantitatively order
+Synset('abstraction.n.01')	abstracts abstraction abstract abstractions
+Synset('psychoanalysis.n.01')	based data spectrographic pattern acoustic simple transactions analysis scene analyses performance feature discriminant continuous geometric fourier communication 20
+Synset('surpass.v.02')	outgoing outperform exceeds exceeded exceeding method methods outperforming echo quantum procedure grouping local outperforms mode outperformed eve versions exceed classifier examined starts gaussian significantly
+Synset('prognosis.n.01')	random regression forecast extremes forecasts
+Synset('joint.n.01')	joint joints articulation cun approach
+Synset('deep.a.03')	deep deepest bits deeper
+Synset('visualize.v.02')	visualized visualize
+Synset('measuring_stick.n.01')	measures measure
+Synset('plain.n.01')	plain champaign
+Synset('trigger.n.03')	induction initiation trigger triggers
+Synset('rotate.v.04')	rotating rotate rotates rotated
+Synset('question.n.02')	question questions physiological open essential

@@ -1,0 +1,2637 @@
+Synset('steal.v.01')	stolen stole stealing
+Synset('turn.v.07')	grow turned grown turn
+Synset('lead.v.04')	leading leads led lead
+Synset('channel.n.04')	channels channel
+Synset('tend.v.01')	running tend tended lean leaning inclined run runs ran
+Synset('physicist.n.01')	physicist physicists
+Synset('island.n.02')	islands island
+Synset('report.v.05')	cover reports covering covered reported report reporting
+Synset('testify.v.02')	prove evidence testified proving testify
+Synset('council.n.02')	council councils
+Synset('vote.v.01')	voted votes vote
+Synset('safety_valve.n.01')	escapes escape
+Synset('spring.n.02')	spring springs
+Synset('beg.v.03')	begs beg
+Synset('rede.v.02')	advise advising
+Synset('giant.n.06')	giants giant
+Synset('reproduction.n.05')	breeding reproduction
+Synset('circle.n.01')	circles circle
+Synset('lend_oneself.v.01')	applying applies applied apply
+Synset('suppress.v.04')	repressed suppress repress
+Synset('stress.n.01')	stress emphasis
+Synset('doubt.v.02')	doubts doubt
+Synset('oven.n.01')	ovens oven
+Synset('length.n.01')	lengths length
+Synset('post.v.01')	post postings posting posts posted
+Synset('stick.v.08')	sticks stuck stick sticking
+Synset('surgeon.n.01')	surgeons surgeon
+Synset('rate.n.02')	rate rates
+Synset('february.n.01')	feb february
+Synset('move.n.05')	move moves
+Synset('legend.n.01')	legends legend
+Synset('make.v.19')	making made makes
+Synset('ruin.v.02')	ruins ruined
+Synset('wagon.n.01')	wagon wagons
+Synset('tan.n.01')	tan burn burns
+Synset('germany.n.01')	germany frg
+Synset('visualize.v.01')	projected image images figure project figured imaging figuring
+Synset('giving.n.01')	gift giving gifts
+Synset('tend.v.02')	tend tended
+Synset('quality.n.02')	caliber quality
+Synset('site.n.01')	site sites
+Synset('planet.n.01')	planets planet
+Synset('platform.n.03')	platform platforms
+Synset('pump.n.01')	pumps pump
+Synset('store.v.01')	stores stored store storing
+Synset('stand.v.02')	stands stood stand standings
+Synset('keystone.n.02')	keys key
+Synset('undertake.v.03')	undertake undertaken guaranteed
+Synset('search.n.01')	searches hunt search hunting
+Synset('brother.n.02')	brothers brother
+Synset('turn.v.06')	turned turning turn turns
+Synset('drain.v.03')	draining drain
+Synset('setting.n.02')	settings background scope scopes setting
+Synset('ticket.v.01')	ticket fined fine
+Synset('rede.v.01')	interpret interprets interpreted
+Synset('patriotism.n.01')	nationalism patriotism
+Synset('foundation.n.01')	foundations foundation
+Synset('suffice.v.01')	answered answering serves served suffice dos serve serving
+Synset('swarm.n.02')	cloud clouds
+Synset('misconception.n.01')	misconceptions misconception
+Synset('prosecute.v.01')	prosecute prosecuted
+Synset('quality.n.03')	characters character qualities quality
+Synset('switch.n.01')	switches switch
+Synset('harm.v.01')	harm harmed
+Synset('volt.n.01')	volts volt
+Synset('miss.v.05')	missed missing
+Synset('datum.n.01')	datum data
+Synset('yield.n.03')	fruits fruit
+Synset('trade_name.n.01')	brands brand
+Synset('high.a.02')	high highest higher
+Synset('license.n.02')	licence license licenses
+Synset('grant.n.05')	grants grant
+Synset('relief.n.02')	ease relief
+Synset('possession.n.05')	possessions possession
+Synset('setup.n.02')	setups setup
+Synset('distribution.n.02')	distribution distributions
+Synset('headlight.n.01')	headlights headlight
+Synset('thwart.v.01')	queer frustrate thwarted frustrated queers frustrating
+Synset('store.v.02')	stores stored store storing
+Synset('medulla_oblongata.n.01')	bulbs bulb
+Synset('steer.v.01')	pointed maneuvering heading direct steering directing steer guided guide point maneuver
+Synset('workshop.n.01')	shop workshop workshops shops
+Synset('setting.n.01')	settings scenes scene setting
+Synset('trope.n.01')	image images figure figures
+Synset('ruin.v.04')	ruins ruined
+Synset('consumer.n.01')	consumers consumer
+Synset('postulate.n.01')	posit postulates postulate
+Synset('pulse.n.02')	pulse beat beats
+Synset('sock.n.01')	sock socks
+Synset('sidewalk.n.01')	sidewalk pavement
+Synset('rout.v.03')	routing gouged
+Synset('trace.n.01')	hints hint
+Synset('solicitation.n.02')	collections collection
+Synset('process.n.02')	operations operation
+Synset('university.n.02')	universities university
+Synset('kingdom.n.05')	kingdoms kingdom
+Synset('allowance.n.03')	adjustments adjustment
+Synset('play.v.26')	playing played
+Synset('evening.n.03')	evenings evening
+Synset('gather.v.08')	gathered gather gathering
+Synset('league.n.01')	conference leagues league conferences
+Synset('status.n.01')	positions position status
+Synset('dimension.n.01')	dimension dimensions
+Synset('write.v.02')	wrote writes
+Synset('character.v.01')	characters character
+Synset('work.v.01')	worked works work working workings
+Synset('retention.n.01')	holding keeping
+Synset('turn.v.08')	releasing released
+Synset('sales_talk.n.01')	pitches pitch
+Synset('hatch.v.03')	hatch hatching
+Synset('injury.n.02')	injuries injury
+Synset('island.n.01')	islands island
+Synset('tie.n.08')	tie ties
+Synset('drug.n.01')	drugs drug
+Synset('undertake.v.01')	attempting undertake attempted attempt attempts
+Synset('plosion.n.01')	explosion explosions
+Synset('shield.n.02')	shield shields
+Synset('rout.v.02')	routes routing
+Synset('beg.v.04')	begs beg
+Synset('initialize.v.01')	initialized initialize
+Synset('transistor.n.01')	transistors transistor
+Synset('win.v.01')	wins winning won win
+Synset('regulation.n.06')	regulation regulations regulating
+Synset('plotter.n.04')	plotters plotter
+Synset('improvement.n.01')	advances improvement improvements advance
+Synset('reflect.v.07')	reflect reflected reflecting reflects
+Synset('system.n.02')	system systems
+Synset('consider.v.09')	considers considered
+Synset('torture.v.02')	torment tortured tormented
+Synset('boat.v.01')	boats boat
+Synset('quark.n.01')	quark quarks
+Synset('wrinkle.n.01')	line seams crease lines
+Synset('termination.n.05')	termination ending
+Synset('university.n.01')	universities university
+Synset('approve.v.02')	approved approve approving
+Synset('explosive.n.01')	explosive explosives
+Synset('dicker.v.01')	bargaining bargain
+Synset('plane.v.03')	plane planes
+Synset('lie.n.03')	lie lies
+Synset('transformation.n.02')	transformations transformation
+Synset('restore.v.01')	restore restored restoring
+Synset('report.v.01')	reports accounted describing reported report describe accounts accounting reporting account describes
+Synset('output.v.01')	output outputs
+Synset('hand.n.06')	deal hands deals hand
+Synset('amount.n.02')	amount amounts
+Synset('steal.v.03')	stolen steal stole
+Synset('brother.n.05')	brethren brothers brother
+Synset('stop_consonant.n.01')	stop stops
+Synset('succession.n.03')	sequence sequences
+Synset('main.n.01')	mains main
+Synset('perform.v.01')	performs performing perform executing execute performed
+Synset('christian.n.01')	christians christian
+Synset('enterprise.n.02')	enterprise enterprises
+Synset('indicator.n.04')	indicator indicators
+Synset('injury.n.05')	injuries injury
+Synset('mechanism.n.05')	mechanism mechanisms
+Synset('inch.n.01')	inches inch
+Synset('levy.v.01')	imposed impose
+Synset('open.n.01')	clears clear
+Synset('give.v.03')	give gave giving
+Synset('admit.v.01')	admit acknowledge acknowledged acknowledging acknowledges
+Synset('daniel.n.03')	daniels daniel
+Synset('station.n.03')	station stations
+Synset('committee.n.01')	committee committees
+Synset('influenza.n.01')	influenza flu
+Synset('rise.n.02')	ascension rise rises
+Synset('discourage.v.02')	discourage discouraged
+Synset('induction.n.02')	induction inductance
+Synset('antihistamine.n.01')	antihistamines antihistamine
+Synset('hearing.n.01')	hearings hearing
+Synset('commercial_enterprise.n.02')	business businesses
+Synset('tidal_bore.n.01')	eager bore
+Synset('missile.n.01')	missile missiles
+Synset('realize.v.06')	realised realise realizes realized realizing realize
+Synset('personal_computer.n.01')	pcs pc microcomputer
+Synset('surrogate.n.01')	replacements replacement
+Synset('emerge.v.04')	emerge emerged emerging
+Synset('sister.n.01')	sisters sister
+Synset('concentration.n.01')	concentrations concentration
+Synset('bring.v.10')	brings brought bring
+Synset('improvement.n.02')	improvement improvements
+Synset('ammunition.n.01')	ammunition ammo
+Synset('build.v.07')	built build builds building
+Synset('trim.v.06')	dress dressed
+Synset('order.v.06')	ordering order
+Synset('large.a.01')	larger big largest biggest large bigger
+Synset('date.v.01')	date dated dates
+Synset('involve.v.06')	involved involves involve involving
+Synset('requirement.n.01')	requirements requirement
+Synset('dollar.n.01')	dollars dollar
+Synset('ringer.n.02')	clones clone
+Synset('filename.n.01')	filename filenames
+Synset('injury.n.04')	injuries injury
+Synset('tripper.n.04')	trip trips
+Synset('shaping.n.01')	defining shaping
+Synset('personnel_casualty.n.01')	loss losses
+Synset('balcony.n.02')	balconies balcony
+Synset('stand.v.06')	stands standing stood stand
+Synset('service.n.04')	service services
+Synset('spill.v.06')	spill spilled
+Synset('bombard.v.02')	bombs bombing bombed bombard bomb
+Synset('ban.v.02')	banned ban
+Synset('main.n.02')	mains main
+Synset('personality.n.01')	personality personalities
+Synset('participation.n.02')	participation involvement
+Synset('ground.v.07')	grounds ground grounded grounding
+Synset('think.v.11')	thought thinking
+Synset('peer.n.02')	peer peers
+Synset('panel.n.04')	panels panel
+Synset('equate.v.02')	equate equated equating
+Synset('oxygen.n.01')	os oxygen
+Synset('suppress.v.01')	conquer conquered suppress suppressed
+Synset('hook.n.04')	claws hook
+Synset('compose.v.04')	compiled compile compose
+Synset('department.n.02')	departments department
+Synset('explosion.n.02')	bursts burst
+Synset('justification.n.01')	justifications justification
+Synset('order.v.05')	ordered ordering order
+Synset('nationality.n.01')	nationality nationalities
+Synset('release.v.09')	releasing release freed free liberate liberated released
+Synset('driver.n.04')	driver drivers
+Synset('shift.v.05')	shifted shifting
+Synset('meet.v.09')	meets meet meetings met meeting
+Synset('sister.n.02')	sisters sister
+Synset('edge.n.06')	edge edges
+Synset('wing.n.02')	wings wing
+Synset('disadvantage.n.01')	disadvantage disadvantages
+Synset('demonstration.n.05')	demos demo
+Synset('insult.n.02')	insults insult
+Synset('mask.v.02')	masks mask
+Synset('gauge.v.03')	gauge gauges
+Synset('decision.n.03')	decision decisions
+Synset('ratio.n.01')	ratios ratio
+Synset('weakness.n.03')	weakness weaknesses
+Synset('committedness.n.01')	commitments commitment
+Synset('give.v.01')	give gave giving
+Synset('tour.n.01')	tours tour
+Synset('sport.v.01')	featured feature sports featuring boast sport boasted
+Synset('rabbit.n.01')	rabbits rabbit
+Synset('initiate.v.03')	initiate initiated initiating
+Synset('roll_up.v.02')	compile accumulate collected collect accumulated
+Synset('prompt.v.02')	inspire prompted inspired
+Synset('fry.v.02')	fry fried
+Synset('film_director.n.01')	director directors
+Synset('rite.n.01')	rites rite
+Synset('sunburn.v.01')	burn burnt burned burns
+Synset('stigmatize.v.01')	marked brands denounced brand mark
+Synset('concentration.n.03')	concentrations concentration
+Synset('hospital.n.02')	hospitals hospital
+Synset('call.v.19')	call called calls
+Synset('disprove.v.01')	disproving disproved disprove
+Synset('suggestion.n.01')	suggestion suggestions
+Synset('grain.n.02')	cereal cereals
+Synset('crack.v.01')	checking crack checked cracks check cracking cracked
+Synset('analyst.n.02')	analysts analyst
+Synset('path.n.02')	path paths
+Synset('agent.n.02')	agent agents
+Synset('show.n.01')	shows show
+Synset('time_interval.n.01')	intervals interval
+Synset('root.n.01')	root roots
+Synset('quantify.v.02')	quantify measured
+Synset('weekend.n.01')	weekends weekend
+Synset('notice.v.04')	notices acknowledge acknowledged noticed noticing acknowledges notice
+Synset('stranger.n.02')	stranger strangers
+Synset('trouble_oneself.v.01')	bothering bother bothers trouble troubled troubles troubling bothered
+Synset('shape.v.03')	forming form shape formed
+Synset('yank.v.01')	yanked jerk yanks
+Synset('playoff.n.01')	playoff playoffs
+Synset('testify.v.01')	testified testify
+Synset('word.n.07')	words word
+Synset('overstate.v.01')	magnified exaggerated amplified amplify
+Synset('date.v.03')	date dating dates
+Synset('surround.v.01')	surrounding border surrounded ringing environs borders rang
+Synset('pursuit.n.01')	pursuit chase
+Synset('routine.n.01')	routine routines
+Synset('turk.n.01')	turks turk
+Synset('enterprise.n.01')	enterprise endeavor endeavour enterprises
+Synset('fuel.n.01')	fuel fuels
+Synset('move.n.01')	move moves
+Synset('act.v.08')	act acted acts acting
+Synset('ingredient.n.03')	ingredient ingredients
+Synset('muscleman.n.01')	muscles muscle
+Synset('manage.v.02')	handles cares deal dealing manages handle manage caring cared managed deals handled dealt managing handling care
+Synset('intestine.n.01')	intestine gut bowel intestines
+Synset('handlebar.n.01')	handlebars handlebar
+Synset('observation.n.01')	observation observations
+Synset('seat.v.02')	seat seating
+Synset('commanding_officer.n.01')	commander commanders
+Synset('waste.v.08')	wasting wasted
+Synset('silencer.n.02')	mufflers muffler
+Synset('draw.v.06')	drawing drawn
+Synset('demand.n.02')	demand demands
+Synset('environment.n.01')	environment environments
+Synset('sequence.v.02')	sequence sequencing
+Synset('single.n.01')	single singles
+Synset('copy.n.02')	copies copy
+Synset('quality.n.01')	qualities quality
+Synset('spike.n.02')	spikes spike
+Synset('record.v.01')	entering record recording enter entered
+Synset('pitch.n.01')	pitches pitch
+Synset('donate.v.01')	donated donate
+Synset('low.a.02')	low lower lowest
+Synset('militant.n.01')	activists militants militant
+Synset('system.n.06')	system systems
+Synset('reference.v.01')	referencing referenced
+Synset('termination.n.01')	termination expiration
+Synset('message.v.01')	messages message
+Synset('sweep.v.03')	sweep swept
+Synset('slowdown.n.01')	slowdowns slowdown
+Synset('remark.n.01')	input comments remark comment remarks
+Synset('broadcast.n.01')	broadcast broadcasts
+Synset('pregnancy.n.01')	maternity pregnancy
+Synset('generate.v.01')	generates generated generating generate
+Synset('burn.n.03')	burn burns
+Synset('face.n.05')	face faces
+Synset('acronym.n.01')	acronyms acronym
+Synset('player.n.04')	players player
+Synset('homicide.n.01')	homicide homicides
+Synset('zero.n.02')	cipher 0s cypher ciphers
+Synset('bottle.n.01')	bottles bottle
+Synset('sow.v.01')	seed seeds
+Synset('wiretap.v.01')	bugs bug intercept bugging intercepts intercepted
+Synset('rabbit.n.03')	rabbit hare
+Synset('control.n.05')	controls control
+Synset('prize.n.01')	award awards prizes prize
+Synset('defend.v.02')	defend defending defended
+Synset('arch.n.04')	arch arches
+Synset('construct.v.03')	constructing constructed construct constructs
+Synset('adjust.v.05')	adjust adjusted adjusting
+Synset('scripture.n.02')	scriptures scripture
+Synset('disagreement.n.03')	disagreement disagreements
+Synset('finance.v.01')	financing finance financed
+Synset('equation.n.01')	equations equation
+Synset('design.v.07')	design designed
+Synset('whistle.v.05')	singing sing
+Synset('buzz.v.01')	buzzing buzz
+Synset('temple.n.01')	temples temple
+Synset('hammer.n.02')	hammer hammers
+Synset('exit.n.03')	exit exits
+Synset('leg.n.01')	legs leg
+Synset('receive.v.02')	obtain obtained obtaining
+Synset('watt.n.02')	watts watt
+Synset('impute.v.01')	attributed assigned attribute
+Synset('neon.n.01')	neon ne
+Synset('communication.n.01')	communicating communication
+Synset('valve.n.01')	valves valve
+Synset('tribe.n.03')	tribe tribes
+Synset('rifle.n.01')	rifles rifle
+Synset('pitch.n.02')	delivery pitches pitch
+Synset('learning.n.01')	learning acquisition
+Synset('end.v.04')	ended end
+Synset('appeal.n.03')	appeals appeal
+Synset('qualification.n.01')	qualifications qualification making
+Synset('walk.v.05')	walked walking
+Synset('office.n.01')	offices office
+Synset('reserve.v.04')	holding books held reserved book reserve hold
+Synset('insufficient.a.01')	insufficient deficient
+Synset('taiwan.n.01')	taiwan china
+Synset('wax.v.02')	risen mounting rose climbed wax
+Synset('testimony.n.03')	testimonial testimony testimonies
+Synset('nasty.a.01')	awful nasty
+Synset('security_service.n.01')	mis mi
+Synset('fall.v.03')	fell falling falls fallen fall
+Synset('score.v.06')	scoring scored
+Synset('run.v.03')	pass leading led run lead extended extend passes extends leads passing passed extending
+Synset('metallic_element.n.01')	metal metals
+Synset('toy_dog.n.01')	toys toy
+Synset('unit.n.03')	unit units
+Synset('warrant.n.02')	warrants warrant
+Synset('raise.v.01')	raising raise
+Synset('resemble.v.01')	resembles resembling resemble
+Synset('face.n.04')	face faces
+Synset('volunteer.v.03')	volunteer volunteers
+Synset('veil.v.01')	veil veiled
+Synset('apple.n.01')	apple apples
+Synset('convert.v.01')	converted converting convert converts
+Synset('witness.n.04')	witness witnesses
+Synset('persecute.v.01')	persecuted persecute
+Synset('projection.n.06')	projections projection
+Synset('victor.n.01')	superior victor masters master
+Synset('command.n.03')	command commands
+Synset('rowing.n.01')	row rows
+Synset('refute.v.02')	refute refuted rebut
+Synset('vice.n.02')	vice vices
+Synset('riot.v.01')	riots riot
+Synset('receive.v.01')	receiving receive received receives
+Synset('implement.n.01')	implements implement
+Synset('stone.n.02')	stones stone
+Synset('ordain.v.01')	ordained enacted ordain enact
+Synset('communication.n.02')	communications communication
+Synset('valve.n.02')	valves valve
+Synset('legal_action.n.01')	action actions
+Synset('strategy.n.02')	strategies strategy
+Synset('break.v.19')	broke breaking
+Synset('college.n.03')	college colleges
+Synset('misplace.v.01')	lost lose loses misplaced losing
+Synset('ring.v.06')	ringing rings ring band rang
+Synset('rent.v.04')	leasing rented hire hiring hires charter hired lease rent
+Synset('sign.n.06')	signs sign
+Synset('luck.n.02')	hazards fortune luck chance chances hazard
+Synset('proclaim.v.01')	proclaim proclaimed proclaiming
+Synset('rid.v.01')	freed rid
+Synset('size.n.01')	size sizes
+Synset('woof.n.01')	filling pick woof picks
+Synset('distance.n.01')	distances distance
+Synset('difference.n.01')	differences difference
+Synset('phase.n.02')	phase form forms phases
+Synset('movement.n.03')	motion motions movements movement
+Synset('edit.v.04')	deleted delete
+Synset('syndicate.n.01')	mob family families
+Synset('option.n.02')	alternative options alternatives choice choices option
+Synset('agency.n.03')	agency agencies
+Synset('map.v.01')	mapping mapped map
+Synset('post.v.08')	post postings posting posts posted
+Synset('face.n.07')	face faces
+Synset('visitor.n.01')	visitors visitor
+Synset('testimony.n.02')	testimony testimonies
+Synset('generate.v.03')	generates generated generate
+Synset('frustration.n.01')	defeat defeats frustration
+Synset('victim.n.01')	victim victims
+Synset('pick.v.10')	pick picked picks picking
+Synset('train.v.08')	trained training train
+Synset('guide.n.02')	guides guide
+Synset('switch_over.v.01')	switching exchanged switched exchanging switch
+Synset('footnote.n.01')	footnote footnotes
+Synset('mine.v.01')	mine mines
+Synset('modify.v.01')	modify modified modifying
+Synset('equation.n.03')	equations equation equating
+Synset('command.n.02')	command commands
+Synset('overshadow.v.01')	dominated dominates eclipse dominate
+Synset('temple.n.03')	temples temple
+Synset('variety.n.03')	varieties variety
+Synset('college.n.02')	college colleges
+Synset('rip.v.04')	ripped ripping
+Synset('build.v.05')	built build buildings builds
+Synset('acceleration.n.01')	acceleration accelerations
+Synset('strike.v.04')	hits hit hitting
+Synset('security.n.04')	security certificates certificate
+Synset('vertical.a.01')	perpendicular vertical
+Synset('fall.n.01')	fall autumn
+Synset('minister.v.01')	minister ministers
+Synset('fractal.n.01')	fractal fractals
+Synset('selling.n.01')	marketing selling
+Synset('passage.n.10')	passage passages
+Synset('invoke.v.02')	invoking appealed invoke invokes appealing
+Synset('configure.v.01')	configured configuring configure
+Synset('wiretap.n.01')	tap wiretap taps wiretaps
+Synset('populate.v.01')	living dwelling populated dwell lived live
+Synset('explosion.n.01')	explosion explosions
+Synset('turn.v.01')	turned turning turn turns
+Synset('amuse.v.02')	amuse amused
+Synset('land.n.10')	lands land
+Synset('dominance.n.02')	controls control
+Synset('meet.v.07')	assembling gathered gather assembled assemble met
+Synset('invader.n.01')	invaders invader
+Synset('pile.n.01')	heap heaps
+Synset('european_union.n.01')	eu eec europe ec eecs
+Synset('parturition.n.01')	birth births
+Synset('gestate.v.01')	conceived conceive
+Synset('walk.v.01')	walked walking
+Synset('journalist.n.01')	journalist journalists
+Synset('passing.n.03')	passage passages
+Synset('writing.n.04')	writings writing
+Synset('hydrogen.n.01')	hs hydrogen
+Synset('take_down.v.02')	disgrace degrades
+Synset('train.v.09')	trained training trains train
+Synset('score.v.04')	score scoring scores scored
+Synset('gentile.n.02')	gentile gentiles
+Synset('design.v.06')	designs designed
+Synset('pursue.v.02')	pursue follow
+Synset('victim.n.02')	victim victims
+Synset('obstruct.v.03')	blocked blocks blocking block
+Synset('voter.n.01')	voters voter
+Synset('clue.v.01')	clue clues
+Synset('justification.n.03')	justifications justification
+Synset('operator.n.02')	operators operator
+Synset('semblance.n.01')	colour color colors colours
+Synset('satisfy.v.01')	fulfill satisfies satisfy satisfied fulfilling fulfilled satisfying fulfil
+Synset('supply.v.01')	renders providing rendered provide supplied supplies provided supplying rendering supply render furnish
+Synset('cook.v.03')	cook cooking
+Synset('watt.n.01')	watts ws watt
+Synset('punish.v.01')	punish penalized
+Synset('prisoner.n.01')	prisoner prisoners
+Synset('unit.n.05')	unit units
+Synset('produce.v.02')	created creating create creates
+Synset('star.n.01')	star stars
+Synset('specialize.v.01')	specialized narrow specialize
+Synset('door.n.01')	doors door
+Synset('sentence.v.01')	sentence condemns doom sentenced condemn doomed condemning condemned
+Synset('catalyst.n.01')	accelerator catalyst accelerators
+Synset('overlord.n.01')	lord lords masters master
+Synset('magnify.v.01')	magnified amplified
+Synset('remind.v.01')	reminded reminding reminds remind
+Synset('restriction.n.03')	restriction restrictions
+Synset('sail.v.01')	sails sail
+Synset('yeast.n.01')	yeasts yeast
+Synset('tenant.n.01')	tenants tenant
+Synset('merchant.n.01')	merchant merchants
+Synset('will.n.03')	testament wills
+Synset('warrior.n.01')	warrior warriors
+Synset('crawl.v.05')	crawled crawl
+Synset('step.n.04')	stairs step steps
+Synset('discipline.n.05')	discipline correction
+Synset('wall_socket.n.01')	outlets outlet
+Synset('subject.n.06')	cases subject subjects case
+Synset('wellbeing.n.01')	well-being welfare
+Synset('satisfy.v.02')	satisfy satisfied
+Synset('practitioner.n.01')	practitioners practitioner
+Synset('institution.n.02')	institutions institution
+Synset('step.n.03')	step steps
+Synset('design.v.02')	design designed
+Synset('tone.n.02')	tone tones
+Synset('orion.n.02')	hunters orion hunter
+Synset('pump.v.07')	pump pumping
+Synset('ring.v.03')	ringing ring rang
+Synset('distortion.n.04')	distortions distortion
+Synset('share.n.01')	portion part percentage parts percentages share portions
+Synset('pool.n.09')	pool pools
+Synset('collision.n.03')	collision collisions
+Synset('move.v.15')	move moves moving
+Synset('stone.n.05')	stones stone
+Synset('expense.n.03')	expense expenses
+Synset('lend.v.01')	brought bringing adding bring contribute contributes contributed
+Synset('estimate.n.04')	estimate estimates
+Synset('shaft.n.10')	shafts shaft
+Synset('print.v.04')	printed print
+Synset('train.v.01')	educated educate
+Synset('poll.n.05')	polls poll
+Synset('module.n.04')	module modules
+Synset('case_shot.n.01')	canisters canister
+Synset('focus.v.02')	focus focusing
+Synset('face.n.08')	face faces
+Synset('pennsylvania.n.01')	pennsylvania pa pas
+Synset('score.v.02')	marked score scoring scores scored marks mark
+Synset('register.v.01')	registering registered
+Synset('gap.v.01')	gap gaps
+Synset('league.n.02')	leagues league
+Synset('pen_up.v.01')	fold folded
+Synset('mask.n.01')	masks mask
+Synset('party.n.03')	companies parties company party
+Synset('sign.n.01')	marks mark
+Synset('library.n.03')	library libraries
+Synset('contest.n.01')	contests contest competition
+Synset('lock.v.09')	locking lock locked locks
+Synset('horror.n.01')	horror horrors
+Synset('guy.v.02')	guys guy
+Synset('wilderness.n.03')	wilderness wild
+Synset('insist.v.03')	asserts insisting asserted assert insist insists
+Synset('address.v.10')	addressing addresses addressed address
+Synset('option.n.01')	options option
+Synset('sustain.v.04')	keeping maintain sustained maintained sustain
+Synset('quarter.n.05')	quarters quarter
+Synset('experiment.v.01')	experiments experimenting
+Synset('quiet.a.02')	quiet quieter
+Synset('rush.v.04')	rushing rushed hurry rush
+Synset('know.v.09')	knowing knew
+Synset('thing.n.12')	things thing
+Synset('shock.n.07')	shock shocks
+Synset('seal.v.02')	sealed seal
+Synset('shell.v.07')	shell shelling
+Synset('conductor.n.02')	conductor conductors
+Synset('joke.v.02')	joking jokes joke
+Synset('persian.n.02')	persians persian
+Synset('complain.v.02')	complains complained complaining complain
+Synset('design.v.03')	design designs designed designing
+Synset('collision.n.02')	collision collisions
+Synset('convert.v.06')	converted converting convert converts
+Synset('stone.n.06')	pit stones stone
+Synset('compound.v.05')	combined compound
+Synset('clarify.v.02')	clarify clarified
+Synset('promise.v.02')	promise promised promising
+Synset('second.v.01')	backing endorses back endorsed endorse
+Synset('train.v.02')	prepared training
+Synset('restrict.v.02')	restricting restricted restrict
+Synset('shutting.n.01')	closing shutting
+Synset('floor.n.04')	floors floor
+Synset('amendment.n.02')	amendment amendments
+Synset('assimilation.n.02')	absorption assimilation
+Synset('spray.n.05')	spray sprays
+Synset('extradite.v.01')	deliver deported delivered
+Synset('spouse.n.01')	partner partners spouse
+Synset('party.n.04')	parties party
+Synset('restriction.n.01')	limitation restriction restrictions
+Synset('call.v.11')	call called calls calling
+Synset('title.n.03')	titles title
+Synset('substantive.a.02')	substantive essential
+Synset('unit.n.02')	unit units
+Synset('pertain.v.02')	pertaining pertain
+Synset('hope.v.02')	hoping hoped hopes hope
+Synset('train_of_thought.n.01')	threads thread
+Synset('throat.n.01')	throat throats
+Synset('review.v.04')	refreshed refreshing refresh
+Synset('associate_degree.n.01')	associates associate
+Synset('neglect.v.04')	neglected disregarded neglecting disregard disregarding ignore
+Synset('motor.n.01')	motor motors
+Synset('fly.v.12')	flown fly flying flew
+Synset('tuck.v.01')	inserted inserting
+Synset('retrieve.v.03')	retrieve retrieved retrieving
+Synset('structure.v.01')	structures structure
+Synset('quantity.n.03')	quantity quantities
+Synset('luck.n.03')	fortune luck
+Synset('wire.n.01')	wires wire
+Synset('process.n.06')	process processes
+Synset('drop_curtain.n.01')	drop drops
+Synset('speed.v.04')	speeding speeds speed
+Synset('waiter.n.01')	server servers
+Synset('combine.v.04')	combining combined
+Synset('university_of_pennsylvania.n.01')	pennsylvania penn
+Synset('fertilize.v.01')	fed feeding feeds
+Synset('slaughter.n.03')	massacre carnage massacres slaughter
+Synset('size.n.02')	size sizes
+Synset('folk_music.n.01')	folk folks
+Synset('expense.n.01')	expense expenses
+Synset('terminology.n.01')	languages terminology language
+Synset('target.v.01')	targeting targeted place aimed aiming
+Synset('filter.n.01')	filter filters
+Synset('abomination.n.03')	abomination abominations
+Synset('install.v.02')	installed install installing
+Synset('restrainer.n.02')	controller controllers
+Synset('undertaking.n.01')	projects task project tasks
+Synset('vary.v.03')	varying vary varies varied
+Synset('wound.n.01')	wound wounds lesions
+Synset('grant.n.08')	grants grant
+Synset('carry.v.05')	carried carries carry carrying
+Synset('negate.v.03')	contradict contradicts contradicting contradicted
+Synset('sort.n.03')	sort sorts
+Synset('open.v.08')	opened opening
+Synset('jaw.n.03')	jaw jaws
+Synset('lotion.n.02')	application applications
+Synset('picking.n.01')	pick picks picking
+Synset('theory.n.01')	theories theory
+Synset('imply.v.01')	imply implied implies
+Synset('player.n.01')	players participant player participants
+Synset('run.v.01')	running run runs ran
+Synset('validation.n.01')	proof validation
+Synset('suspension.n.06')	hanging suspension
+Synset('steering.n.02')	directions guidance steering direction
+Synset('restore.v.05')	restored restoring
+Synset('imply.v.02')	implying imply implied implies
+Synset('product.n.05')	product products
+Synset('cost.n.01')	costs cost
+Synset('oppose.v.06')	contradict contradicts contradicting
+Synset('headline.v.01')	headlines headline
+Synset('pull_the_leg_of.v.01')	kidding kid kids
+Synset('compromise.v.01')	compromises compromised compromising compromise
+Synset('reduction.n.02')	reductions reducing reduction
+Synset('organization.n.06')	organization organizations organisation
+Synset('print.v.03')	prints printed print
+Synset('titanium.n.01')	ti tis
+Synset('tamper.v.01')	tamper monkey fiddling
+Synset('outbreak.n.01')	outbreak outbreaks
+Synset('agree.v.02')	agrees agree agreeing agreed
+Synset('review.v.05')	reviews review reviewing reviewed retrospect
+Synset('seal.v.04')	sealed seal
+Synset('reap.v.01')	gleaned reap
+Synset('interaction.n.02')	interaction interactions
+Synset('nick.v.02')	nick chipped
+Synset('tyrant.n.03')	tyrants tyrant
+Synset('thief.n.01')	thief thieves
+Synset('terminal.n.02')	poles terminal pole terminals
+Synset('move.v.07')	move moves moved moving
+Synset('bit.n.06')	bits bit
+Synset('feed.v.06')	feed ate fed eats feeding eat feeds eaten eating
+Synset('trap.n.01')	traps trap
+Synset('whole.n.02')	unit units
+Synset('input.v.01')	input inputs
+Synset('break_in.v.01')	broken broke breaks breaking
+Synset('play_along.v.02')	accompanied accompanying
+Synset('annex.v.01')	annexed annex
+Synset('helmet.n.02')	helmets helmet
+Synset('underscore.v.01')	emphasizes emphasize
+Synset('spoof.v.01')	parody spoofing
+Synset('source.n.07')	sources source
+Synset('drawing.n.01')	drawings drawing
+Synset('spare.v.03')	spared spare
+Synset('territory.n.03')	territories territory
+Synset('association.n.07')	associations association
+Synset('assurance.n.04')	assurance assurances
+Synset('heaven.n.02')	heavens heaven
+Synset('appear.v.06')	appeared appears appearing
+Synset('x_ray.n.01')	x-ray x-rays
+Synset('search.v.04')	searched search searching
+Synset('drive.n.10')	drives drive
+Synset('drink_in.v.01')	drunk drinking drank drinks drink
+Synset('enhance.v.02')	enhancing enhanced enhance
+Synset('surface.n.01')	surface surfaces
+Synset('service.v.01')	serves service served serve services serving servicing
+Synset('prevent.v.02')	prevent preventing keeping prevents prevented
+Synset('economy.n.01')	economies economy
+Synset('value.v.01')	valued values
+Synset('application.n.02')	application applications
+Synset('revision.n.01')	revisions revision
+Synset('standard.n.04')	standard standards
+Synset('hold.v.14')	carried held borne born carry carrying
+Synset('wallpaper.v.01')	wallpaper papers
+Synset('beer.n.01')	beers beer
+Synset('trash.v.01')	trashing trashed
+Synset('predate.v.01')	predates preceding preceded
+Synset('wrath.n.02')	wrath ira anger
+Synset('pay.v.01')	paying paid pay
+Synset('wheel.n.01')	wheels wheel
+Synset('unit_of_measurement.n.01')	unit units
+Synset('ordination.n.03')	ordinances ordinance
+Synset('ear.n.01')	ears ear
+Synset('bit.n.05')	bits bit
+Synset('hike.v.02')	hiking hike
+Synset('post.n.11')	post posts
+Synset('war.v.01')	war wars
+Synset('temporary_hookup.n.01')	patch patches
+Synset('strap.n.03')	straps strap
+Synset('trace.v.02')	lined line describing describe lines drawn describes drew
+Synset('rewrite.n.01')	revisions revision
+Synset('rug.n.01')	rug carpet
+Synset('press.v.04')	pressing pressed press
+Synset('expose.v.03')	displayed display displays displaying
+Synset('disease.n.01')	disease diseases
+Synset('drawing.n.02')	drawings drawing
+Synset('attacker.n.01')	aggressor assailant attacker attackers
+Synset('senator.n.01')	senator senators
+Synset('consign.v.02')	charges charge charging charged
+Synset('mood.n.03')	mode modes mood
+Synset('state.n.04')	country nation lands state countries nations states
+Synset('format.v.02')	formats formatted format formatting
+Synset('surface.n.02')	surface surfaces
+Synset('sphere.n.01')	area domain areas orbit
+Synset('protect.v.01')	protects protected protect
+Synset('helmet.n.01')	helmets helmet
+Synset('watershed.n.01')	divides divide
+Synset('survey.v.01')	surveys survey
+Synset('forget.v.03')	forgetting forget forgotten forgot
+Synset('tear.v.05')	torn tears tear
+Synset('telephone_receiver.n.01')	receiver receivers
+Synset('kind.a.01')	kinder kind
+Synset('hold_forth.v.01')	discourses discourse
+Synset('prevent.v.01')	prevent preclude forbids forbidding forbidden prevents forbid prevented precludes
+Synset('anticipate.v.06')	anticipate anticipated
+Synset('january.n.01')	january jan
+Synset('guy.n.02')	guys guy
+Synset('table.n.02')	tables table
+Synset('professional.n.02')	pros professionals pro professional
+Synset('verify.v.01')	verified verify
+Synset('customer.n.01')	clients client customers customer
+Synset('collide.v.03')	colliding clash
+Synset('implementation.n.02')	implementation implementations
+Synset('threaten.v.03')	threaten threatening threatens
+Synset('proceed.v.04')	proceed proceeded
+Synset('take_care.v.02')	minds minding mind minded
+Synset('true_laurel.n.01')	bays bay
+Synset('bulletin.n.01')	bulletins bulletin
+Synset('venture.n.01')	venture ventures
+Synset('terminal.n.04')	terminal terminals
+Synset('position.v.01')	positioning positioned position
+Synset('tail.n.01')	tails tail
+Synset('bean.n.02')	beans bean
+Synset('shout.v.01')	shouts shouting shout shouted
+Synset('crowd.n.01')	crowd crowds
+Synset('convict.v.01')	convicted convict
+Synset('excuse.v.06')	condone excuse
+Synset('database.n.01')	databases database
+Synset('node.n.03')	node nodes
+Synset('deprive.v.02')	depriving deprive
+Synset('atheist.n.01')	atheists atheist
+Synset('vacation.n.01')	holidays vacation holiday
+Synset('filling.n.01')	filling fill fills
+Synset('throng.v.01')	mob packing
+Synset('run.v.11')	running run runs ran
+Synset('stand.n.10')	stands stand
+Synset('lie.v.05')	lay lie lies lying
+Synset('trickle.v.01')	filter filtered filters trickle filtering
+Synset('transcript.n.02')	copies transcript copy
+Synset('tempt.v.03')	invited invite tempting tempted
+Synset('cub.v.01')	cub cubs
+Synset('tree.n.03')	tree trees
+Synset('forget.v.02')	forgetting forget forgotten forgot
+Synset('salute.v.06')	presented present
+Synset('leaf.n.02')	leafs leaf
+Synset('translate.v.01')	renders rendered interpret interprets rendering interpreted render
+Synset('omission.n.03')	deletions deletion omissions
+Synset('process.v.03')	processed process processes processing
+Synset('light-emitting_diode.n.01')	led leds
+Synset('cult.n.03')	cults cult
+Synset('conform.v.01')	conforms conform
+Synset('room.n.01')	rooms room
+Synset('union.n.01')	brotherhood union
+Synset('rank.v.01')	ranked ranking
+Synset('feed.v.07')	feed fed feeding feeds
+Synset('strap.n.01')	straps strap
+Synset('book.n.01')	books book
+Synset('effect.n.03')	effects effect
+Synset('vegetable.n.02')	vegetable vegetables
+Synset('overuse.v.01')	overuse overdrive
+Synset('challenge.v.02')	challenged challenge
+Synset('excuse.v.05')	excuse excuses
+Synset('please.v.01')	delighted pleasing delight
+Synset('space.n.08')	spaces space
+Synset('substitute.v.01')	substituted replaces replace exchanged replaced replacing substitute exchanging
+Synset('voice.n.10')	voice voices
+Synset('historic_period.n.01')	ages age
+Synset('layer.v.01')	layers layer
+Synset('lithium.n.01')	lithium li
+Synset('vogue.n.01')	trend style trends
+Synset('digit.n.03')	digits digit
+Synset('sagacity.n.01')	judgement judgment judgments
+Synset('surface.n.04')	surface surfaces
+Synset('musical_arrangement.n.01')	arrangement arrangements
+Synset('wisconsin.n.02')	wisconsin wi
+Synset('settle.v.13')	settle settling
+Synset('front.n.04')	fronts front
+Synset('association.n.03')	associations association
+Synset('right.v.01')	correct correcting corrected
+Synset('state.n.02')	state states
+Synset('shoot.v.08')	shooting shoot
+Synset('mend.v.02')	healed heal
+Synset('nation.n.02')	country nation lands land countries nations
+Synset('cell.n.02')	cells cell
+Synset('dot.n.03')	dots dot
+Synset('privilege.n.03')	privileges privilege
+Synset('preserve.n.01')	preserves preserve
+Synset('pocket.n.09')	pockets pocket
+Synset('translate.v.02')	transform transforms
+Synset('bill.v.02')	bill billing
+Synset('proceed.v.02')	proceed proceeded continue continues continued proceedings continuing
+Synset('investigation.n.02')	investigating investigations investigation
+Synset('assault.n.02')	assault assaults
+Synset('toilet.n.01')	johns toilet john bathroom
+Synset('perceive.v.01')	comprehend perceives perceived perceive
+Synset('space.n.01')	infinite space
+Synset('start.v.11')	start started starting
+Synset('employer.n.01')	employers employer
+Synset('occur.v.03')	occurring occurred occur occured occurs
+Synset('clutch.n.07')	clutch clutches
+Synset('houseclean.v.01')	cleaning cleaned clean
+Synset('wallow.v.04')	triumph rejoice
+Synset('shot.n.15')	shots shot
+Synset('professor.n.01')	professor professors prof proves
+Synset('desire.n.02')	desire desires
+Synset('caller.n.03')	caller callers
+Synset('recruit.v.03')	raising recruit raises raised raise levy
+Synset('praise.n.01')	praises praise
+Synset('nut.n.03')	nuts nut
+Synset('implement.v.01')	implements implementing implemented implement
+Synset('wave.n.03')	waves wave
+Synset('bar.n.15')	bar bars
+Synset('thing.n.08')	things thing
+Synset('pioneer.n.02')	pioneers pioneer
+Synset('source.n.03')	sources source
+Synset('sacrifice.n.04')	sacrifices sacrifice
+Synset('manifestation.n.02')	manifestations manifestation
+Synset('quest_for.v.01')	pursuing pursued pursue
+Synset('government.n.03')	government governments
+Synset('corner.n.08')	boxes corners corner box
+Synset('widen.v.04')	extend extending extended
+Synset('repute.n.01')	reputations reputation
+Synset('state.n.01')	provinces province state states
+Synset('addition.n.02')	additions addition
+Synset('attention.n.01')	attending attention
+Synset('provoke.v.02')	provoked provoke
+Synset('match.n.01')	lucifer match
+Synset('musician.n.02')	musicians musician
+Synset('worldly_concern.n.01')	world worlds earth
+Synset('pull.v.04')	pull pulled pulling pulls
+Synset('prime_minister.n.01')	premier pm
+Synset('pilot.n.01')	pilots pilot
+Synset('job.n.12')	jobs job
+Synset('yoke.v.02')	linking link linked
+Synset('archive.n.01')	archives archive
+Synset('loop.n.02')	loop loops
+Synset('adult.n.02')	adults adult
+Synset('bridge.n.05')	bridges bridge
+Synset('issue.v.04')	emerge issued egress
+Synset('translate.v.08')	translating translates translated translate
+Synset('card.n.03')	cards card
+Synset('substance.n.07')	substances substance
+Synset('survivor.n.03')	survivors survivor
+Synset('condemn.v.04')	condemns condemning condemned
+Synset('tissue.n.01')	tissues tissue
+Synset('stripe.n.05')	streaks bar stripe streak bars
+Synset('subspecies.n.01')	race races
+Synset('river.n.01')	rivers river
+Synset('desire.n.01')	desire desires
+Synset('stage.v.02')	arranged arrange
+Synset('diagnose.v.02')	diagnose diagnosed
+Synset('skeptic.n.01')	skeptics sceptics skeptic
+Synset('cloud.n.01')	cloud clouds
+Synset('source.n.02')	sources source
+Synset('world_power.n.01')	power powers
+Synset('discredit.v.01')	discredit discredited
+Synset('empty.v.02')	discharged empty
+Synset('fan.n.01')	fan fans
+Synset('respect.n.03')	esteem regard respect respects
+Synset('cell.n.04')	cells cell
+Synset('lock.n.06')	lock locks
+Synset('sound.v.04')	sounded sound
+Synset('vengeance.n.01')	vengeance retribution
+Synset('uproot.v.02')	exterminated eradicate exterminate
+Synset('loud.a.01')	loud louder
+Synset('inquiry.n.03')	inquiries enquiries inquiry
+Synset('warhead.n.01')	load payloads payload loads
+Synset('catalogue.v.01')	catalogs catalog catalogue
+Synset('presume.v.04')	presumed presume
+Synset('designate.v.01')	designated designates
+Synset('succeed.v.02')	succeeds succeed succeeded
+Synset('pilot.n.02')	pilots pilot
+Synset('simulation.n.02')	simulation simulations
+Synset('august.n.01')	aug august
+Synset('wall.v.01')	surrounding surrounded walls surroundings surround fence wall
+Synset('reference.n.06')	reference extension extensions references
+Synset('virginia.n.01')	va virginia
+Synset('yield.v.01')	give afford yields yield gave giving
+Synset('trip.v.04')	triggered trip spark trips trigger tripping tripped activated
+Synset('prey.v.01')	fed preying feeding feeds
+Synset('wave.n.01')	waves wave
+Synset('know.v.03')	knowing knew
+Synset('wolf.n.01')	wolf wolves
+Synset('doctor_of_the_church.n.01')	doctor doctors
+Synset('bee.n.01')	bee bees
+Synset('sweater.n.01')	jumpers jumper
+Synset('run.v.33')	running run runs ran
+Synset('wrinkle.v.02')	crease crisp
+Synset('try.v.01')	attempting essay sought attempted attempt seek seeking attempts
+Synset('smile.v.01')	smiling smile
+Synset('therapist.n.01')	healers therapist
+Synset('hit.v.03')	hits hit hitting
+Synset('format.v.01')	formats format
+Synset('unfold.v.04')	spreading opens opened opening open spread
+Synset('runner.n.09')	runner runners
+Synset('drown.v.03')	drowned drowning
+Synset('enzyme.n.01')	enzyme enzymes
+Synset('isolate.v.04')	isolate isolated
+Synset('interpolate.v.02')	interpolated alter
+Synset('satiate.v.01')	filled fill
+Synset('support.v.09')	supporting support
+Synset('charge.v.02')	accuse accusing accused
+Synset('star.n.05')	star stars
+Synset('unleash.v.03')	loosing loose
+Synset('card.n.01')	cards card
+Synset('stage_set.n.01')	set sets
+Synset('hire.v.01')	hire hiring engage hired
+Synset('symmetry.n.01')	balance correspondence
+Synset('remark.n.02')	remark remarks
+Synset('toilet.n.02')	pots cans
+Synset('projectile.n.01')	missile missiles projectile
+Synset('wangle.v.01')	managed manages managing manage
+Synset('association.n.08')	associations association
+Synset('swallow.n.03')	swallow swallows
+Synset('wave.n.02')	waves wave
+Synset('match.n.02')	match matches
+Synset('radio.v.01')	radios radio
+Synset('desire.n.03')	desire desires
+Synset('fatty.a.01')	fatty fat
+Synset('front.n.09')	fronts front
+Synset('override.v.03')	overriding override
+Synset('metier.n.02')	medium media
+Synset('know.v.02')	knowing knew
+Synset('rise.v.11')	risen rise
+Synset('ship.v.05')	ships shipped ship
+Synset('unfold.v.03')	extend stretch extends stretches stretching extending extended
+Synset('interpolate.v.01')	interpolated extrapolate
+Synset('fall.v.01')	fell falling fallen fall
+Synset('sensing.n.02')	sensing perceptions
+Synset('stray.v.02')	err drift
+Synset('entertainment.n.01')	entertainment amusement
+Synset('residence.n.01')	abode residence
+Synset('crusade.n.02')	crusade crusades
+Synset('joining.n.01')	joining connection connections
+Synset('investor.n.01')	investor investors
+Synset('situate.v.01')	locating locate located situated
+Synset('deal.v.09')	deal dealing deals dealt
+Synset('check.v.10')	checking checks checked check
+Synset('croatian.n.01')	croats croat
+Synset('dispatch.v.02')	dispatch discharged complete
+Synset('relate.v.05')	relate related relating relates
+Synset('manifest.n.01')	manifest manifests
+Synset('wall.n.01')	walls wall
+Synset('validate.v.02')	validated validate
+Synset('request.v.01')	request requested requesting requests quest
+Synset('russian.n.02')	russians russian
+Synset('safety.n.01')	safety safeties
+Synset('message.n.01')	messages message
+Synset('top.n.09')	cover top covers
+Synset('view.v.02')	considers considered viewed
+Synset('wear.v.09')	don assuming
+Synset('dispute.n.01')	dispute differences difference disputes
+Synset('finish.n.08')	finishes finish
+Synset('inform.v.03')	informed inform
+Synset('spray.v.01')	sprayed spray sprays
+Synset('conversation.n.01')	conversations conversation
+Synset('dispute.n.02')	dispute disputes
+Synset('support.n.01')	supports support
+Synset('orbit.n.01')	orbits orbit
+Synset('mail.v.01')	mail mailing mailed
+Synset('southern_cross.n.01')	cruces crux
+Synset('communist.n.01')	communist communists
+Synset('abort.v.02')	abort aborted
+Synset('sword.n.01')	steel blades sword brands swords brand blade
+Synset('weather.v.01')	enduring endure braves
+Synset('tilt.n.04')	inclination lean lists leaning tilt list
+Synset('pad.n.02')	pad pads
+Synset('ride.v.10')	riding ride
+Synset('message.v.02')	messages message
+Synset('live.v.02')	living lived live
+Synset('instruct.v.02')	instructed instruct
+Synset('headache.n.02')	headache headaches
+Synset('tolerance.n.04')	tolerances tolerance
+Synset('stick_out.v.01')	projected projects project
+Synset('failure.n.02')	failures failure
+Synset('trade.v.01')	trading merchandise trade traded
+Synset('front-runner.n.01')	favorites favourite favorite
+Synset('gentleman.n.01')	gentlemen gentleman
+Synset('unite.v.05')	unite united unified
+Synset('sunglasses.n.01')	sunglasses shades
+Synset('persuade.v.02')	persuaded persuade
+Synset('trophy.n.02')	prizes trophy prize
+Synset('trade.n.01')	trade trades
+Synset('rat.v.01')	rated rates rating
+Synset('axiom.n.02')	axioms axiom
+Synset('direction.n.02')	directions direction
+Synset('jay.n.02')	jays jay
+Synset('reliable.a.01')	reliable dependable
+Synset('strip.v.08')	striped stripping strip stripped strips
+Synset('operation.n.04')	operations operation
+Synset('swallow.v.01')	swallowing swallow swallows
+Synset('lake.n.01')	lakes lake
+Synset('schemer.n.01')	plotters plotter
+Synset('military_unit.n.01')	forces force
+Synset('request.v.02')	request requested requesting requests
+Synset('scope.n.01')	ranges reaches compass reach scope orbits range orbit scopes
+Synset('officiate.v.02')	functioning functions function
+Synset('work.v.09')	worked working
+Synset('stage.n.03')	stage stages
+Synset('recoil.n.01')	kick kicks
+Synset('observer.n.02')	observer commentator commentators observers
+Synset('research.v.01')	researched researching research
+Synset('pad.v.03')	pad padded
+Synset('order.n.14')	orders order
+Synset('praise.v.01')	praised praise
+Synset('pull.v.09')	pull drawings pulled pulling drawing draw drawn pulls drew
+Synset('sunday.n.01')	sunday suns sundays sun
+Synset('ring.n.07')	rings ring
+Synset('play.n.08')	play plays
+Synset('today.n.02')	today todays
+Synset('accident.n.01')	accidents accident
+Synset('relay.n.05')	relay relays
+Synset('side.n.03')	side sides
+Synset('wide.a.01')	wider wide broad broader
+Synset('document.n.03')	documents document
+Synset('medium.n.03')	medium media
+Synset('score.n.03')	score scores
+Synset('rule.n.11')	formulae formulas formula
+Synset('shoot.n.02')	shoot shoots
+Synset('page.n.01')	pages page
+Synset('seat.n.01')	places place seats
+Synset('uphold.v.03')	maintain uphold
+Synset('relationship.n.01')	relationships relationship
+Synset('ampere.n.02')	amps amp ampere
+Synset('compound.n.02')	compounds compound
+Synset('opposition.n.04')	opponents opponent
+Synset('have_a_bun_in_the_oven.v.01')	expect expected
+Synset('spectrum.n.01')	spectra spectrum
+Synset('audience.n.02')	audience audiences
+Synset('perform.v.03')	performs perform performed
+Synset('script.v.01')	scripting script
+Synset('swimming.n.01')	swimming swim
+Synset('serve.v.15')	served serve
+Synset('listing.n.02')	listings listing
+Synset('number.v.06')	number numbering numbered numbers
+Synset('orbit.n.04')	orbits orbit
+Synset('obscure.v.01')	obscured obscure fog
+Synset('generator.n.02')	generators generator
+Synset('inform.v.01')	informed inform informs
+Synset('community.n.06')	community communities
+Synset('unite.v.06')	merge merged
+Synset('request.v.03')	request requesting
+Synset('fragment.n.01')	fragment fragments
+Synset('charge.v.23')	charge charging charged
+Synset('forgive.v.01')	forgiven forgive
+Synset('peer.n.01')	equal peer equals peers match matches
+Synset('sketch.v.02')	outlines outline outlined sketch
+Synset('seat.n.04')	seat seats
+Synset('bounce.v.06')	bounces bounced bouncing
+Synset('spill.v.03')	shed spill
+Synset('sacrifice.v.01')	sacrificed sacrificing
+Synset('include.v.01')	include including includes included
+Synset('ring.n.08')	rings ring band bands
+Synset('experience.n.02')	experience experiences
+Synset('yard.n.01')	yard pace yards
+Synset('vessel.n.03')	vessel vessels
+Synset('outweigh.v.01')	outweigh outweighs
+Synset('devil.v.02')	devils devil
+Synset('trade.v.04')	trading switching trade swapping swap traded switched
+Synset('version.n.02')	editions versions variations variant edition variants version variation
+Synset('atom.n.01')	atom atoms
+Synset('charge.v.24')	charges charge charging charged
+Synset('pray.v.01')	prays praying prayed pray
+Synset('skip.v.05')	skip skipped
+Synset('sect.n.01')	sects sect
+Synset('regulate.v.01')	modulated regulated regulate
+Synset('trade.v.03')	trading trade traded
+Synset('spectrum.n.02')	spectra spectrum
+Synset('iron.n.01')	iron fe
+Synset('condemn.v.02')	condemn condemning condemned
+Synset('join.v.02')	joined join
+Synset('size.v.03')	sizing size
+Synset('bomb.n.01')	bombs bomb
+Synset('expert.n.01')	expert experts
+Synset('encourage.v.02')	encouraging encourages encouraged encourage
+Synset('development.n.07')	development developments
+Synset('consideration.n.01')	consideration considerations
+Synset('jumper.n.05')	jumpers jumper
+Synset('pixel.n.01')	pixels pixel
+Synset('traffic_pattern.n.01')	patterns pattern
+Synset('stadium.n.01')	stadium arena
+Synset('bounce.v.07')	bounce bounces bounced bouncing
+Synset('spill.v.04')	shed spill spilled
+Synset('identity.n.02')	identities identity
+Synset('video.n.01')	picture pictures
+Synset('pound.v.08')	pound pounds pounding
+Synset('experience.n.01')	experience experiences
+Synset('save.v.09')	saves save
+Synset('request.n.01')	request petition requests
+Synset('regulate.v.02')	ordered governing regulated govern regulate ordering governed
+Synset('induce.v.04')	induce induced
+Synset('stay.n.05')	stays stay
+Synset('century.n.01')	centuries century
+Synset('stead.n.01')	places positions place
+Synset('try.v.08')	renders rendered rendering render
+Synset('teaching.n.01')	instructions instruction teaching
+Synset('scramble.v.01')	scrambling scrambles scramble
+Synset('cool.n.01')	cool cools
+Synset('editor_program.n.01')	editor editors
+Synset('user.n.01')	user users
+Synset('layer.n.02')	layers layer
+Synset('thinker.n.02')	thinkers thinker
+Synset('success.n.01')	successes success
+Synset('october.n.01')	oct october
+Synset('acid.n.01')	acid acids
+Synset('slot.n.06')	slots slot
+Synset('bulge.v.02')	bags bag bagged bulge
+Synset('percentage.n.01')	pct percentage percentages percent
+Synset('cart.v.02')	carts cart
+Synset('spot.n.13')	spot spots
+Synset('miscarriage.n.01')	abortion abortions
+Synset('adapt.v.01')	accommodate adapt
+Synset('servant.n.01')	servant servants
+Synset('scheme.v.02')	scheme schemes
+Synset('tear.v.02')	torn tears tear tearing tore
+Synset('valley.n.01')	valley valleys
+Synset('rider.n.02')	riders rider
+Synset('punch.v.03')	punched punches punching punch
+Synset('reputation.n.03')	reports reputations report reputation
+Synset('solution.n.01')	solution solutions
+Synset('winnings.n.01')	wins win
+Synset('output_signal.n.01')	output outputs
+Synset('traverse.v.03')	deny denying denied denies
+Synset('snog.v.01')	busses kissing kiss
+Synset('work.v.03')	worked works act acted working acts workings acting
+Synset('add.v.01')	add added adding adds
+Synset('protocol.n.01')	protocol protocols
+Synset('smuggle.v.01')	smuggled smuggle
+Synset('kilogram.n.01')	kilograms kg
+Synset('mirror.n.01')	mirror mirrors
+Synset('pole.n.10')	poles pole
+Synset('goal.n.01')	goal ends end goals
+Synset('truth.n.05')	truth truths
+Synset('couple.n.05')	couple couples
+Synset('spear.n.01')	lance shaft
+Synset('lane.n.02')	lanes lane
+Synset('war.n.02')	war wars
+Synset('place.v.12')	places localized place placing
+Synset('coin.v.01')	coins coin
+Synset('jean.n.01')	jean jeans
+Synset('uniform.n.01')	uniform uniforms
+Synset('field.v.01')	fielded fielding
+Synset('drive.v.17')	driving drives drove driven drive
+Synset('refining.n.01')	purification refinement
+Synset('rod.n.01')	rod rods
+Synset('selection.n.02')	selections selection
+Synset('transportation_system.n.01')	transit transportation
+Synset('folder.n.02')	folder folders
+Synset('student.n.01')	student students
+Synset('game.n.10')	game biz games
+Synset('range.v.03')	ranging ranges range
+Synset('take.v.06')	readings read reading taking
+Synset('tracing.n.02')	tracing trace traces
+Synset('set_about.v.01')	approached approach
+Synset('support.n.04')	supports support
+Synset('slave.n.01')	slave slaves
+Synset('success.n.02')	successes success
+Synset('answer.n.04')	answer answers
+Synset('yell.v.02')	yell screams yelled scream screamed screaming
+Synset('touch.n.06')	hints hint
+Synset('miracle.n.02')	miracle miracles
+Synset('farm.n.01')	farms farm
+Synset('trust.n.04')	trust cartel combine
+Synset('spread.n.05')	spreads paste spread
+Synset('lung.n.01')	lung lungs
+Synset('doubling.n.02')	doubles double doubling
+Synset('disorderliness.n.01')	disorders disorder
+Synset('native.n.01')	native natives
+Synset('tear.v.01')	snapped bust
+Synset('problem.n.02')	problem problems
+Synset('show.v.01')	exhibited demos demonstrates show demo shows shown presented showed presenting demonstrate demonstrated present showing demonstrating presents
+Synset('launching.n.03')	launch launching launches
+Synset('spear.n.02')	lance gigs
+Synset('compression.n.04')	compressing compression
+Synset('satellite.n.03')	satellites satellite
+Synset('censor.n.02')	censor censors
+Synset('host.v.01')	host hosted
+Synset('failure.n.07')	failures failure
+Synset('architecture.n.03')	architectures architecture
+Synset('make.v.03')	made created creating makes create creates
+Synset('decide.v.03')	decided decides decide
+Synset('citation.n.05')	citations citation
+Synset('rise.n.09')	boost hike
+Synset('mound.n.04')	hill hills
+Synset('inhabitant.n.01')	inhabitants denizens
+Synset('israeli.n.01')	israeli israelis
+Synset('concern.n.01')	concerns concern
+Synset('register.n.04')	registers register
+Synset('float.v.01')	blowing blew floating blows drifted floated blown blow drift
+Synset('hill.n.01')	hill hills
+Synset('substitute.n.02')	substitutes reserve reserves substitute
+Synset('official.n.01')	officials official
+Synset('fracture.n.03')	crack cracking
+Synset('author.v.01')	authored author authors
+Synset('theist.n.01')	theists theist
+Synset('flare.v.03')	flamed flames
+Synset('combination.n.05')	combinations combination
+Synset('franchise.n.03')	franchises franchise
+Synset('perpetuate.v.01')	perpetuating perpetuate
+Synset('technique.n.01')	techniques technique
+Synset('school.v.01')	school schools
+Synset('precede.v.04')	leading preceding preceded
+Synset('enjoy.v.02')	enjoy enjoying
+Synset('run.n.08')	run runs
+Synset('coward.n.01')	cowards coward
+Synset('importing.n.01')	importation importing
+Synset('erase.v.03')	erase deleted deleting erased delete
+Synset('turkey.n.05')	turkey bombs bomb
+Synset('virus.n.01')	viruses virus
+Synset('graph.v.01')	charts graphs graphing chart graph
+Synset('article.v.01')	articles article
+Synset('theme.n.03')	idea ideas
+Synset('lower.v.04')	lowered depress depressing
+Synset('commandment.n.01')	commandments commandment
+Synset('perpetrator.n.01')	culprit perpetrator perpetrators
+Synset('turtle.n.02')	turtles turtle
+Synset('node.n.08')	node nodes clients guests client guest
+Synset('raid.n.02')	raids raid
+Synset('pound.n.01')	lb lbs
+Synset('war.n.04')	war wars
+Synset('official.n.02')	officials official
+Synset('melted.a.01')	liquid melted
+Synset('fuel.v.03')	fuel fuels fueled
+Synset('define.v.02')	define defining defined defines
+Synset('goal.n.03')	goal goals
+Synset('relate.v.03')	relate related relating relates
+Synset('payment.n.02')	payments payment
+Synset('wrapping.n.01')	wrappers wraps wrapping wrap
+Synset('teach.v.01')	instructed instruct taught learn learned learning
+Synset('relate.v.04')	relate related relating relates
+Synset('assist.v.02')	assisted assist
+Synset('substitute.n.01')	substitutes replacements replacement substitute
+Synset('week.n.03')	weeks week
+Synset('teaching.n.02')	commandments teachings teaching commandment
+Synset('kilobyte.n.02')	kb ks
+Synset('hat.v.01')	hating hat hated
+Synset('muslim.n.01')	moslem muslim moslems muslims
+Synset('suck.v.01')	sucks sucked suck
+Synset('stock.n.02')	inventory stock
+Synset('inject.v.04')	injected injecting inject
+Synset('hang.n.03')	hang hangs
+Synset('compare.v.01')	compare comparing compares compared
+Synset('franchise.n.02')	franchises franchise dealership
+Synset('slave.n.03')	slave slaves
+Synset('determine.v.06')	determine determined determines determining
+Synset('die.n.01')	die dice
+Synset('patent.n.02')	patent patents
+Synset('trap.v.04')	pin trapped trap
+Synset('save.n.01')	saves save
+Synset('rewrite.v.02')	rewritten rewrite
+Synset('satellite.n.01')	satellites orbiter satellite orbiters
+Synset('deviation.n.02')	deviations deviation
+Synset('telescope.n.01')	telescopes telescope
+Synset('replay.n.02')	replays replay
+Synset('surpass.v.02')	outgoing exceeds exceeded exceeding exceed surpassed
+Synset('ship.n.01')	ships ship
+Synset('community.n.01')	community communities
+Synset('line.n.20')	line lines
+Synset('measuring_stick.n.01')	measures measure
+Synset('hack.v.02')	hack hacking cut hacked cuts
+Synset('sacrifice.v.04')	sacrificed sacrificing
+Synset('plain.n.01')	plain plains champaign
+Synset('tear.v.03')	tear charging shooting
+Synset('trigger.n.03')	induction initiation trigger
+Synset('rotate.v.04')	rotating rotate rotated
+Synset('turtleneck.n.01')	turtles turtle
+Synset('medicine.n.02')	medications medication
+Synset('spend.v.02')	spends expend spend spent
+Synset('lobby.v.01')	lobby lobbying
+Synset('november.n.01')	november nov
+Synset('apology.n.02')	apologies apology
+Synset('fascist.n.01')	fascists fascist
+Synset('period.n.03')	period periods
+Synset('thigh.n.01')	thighs thigh
+Synset('race.n.03')	race races
+Synset('priority.n.02')	priorities priority
+Synset('computer_architecture.n.02')	architectures architecture
+Synset('offer.v.06')	offer offers offered
+Synset('hat.v.02')	hating hat
+Synset('transportation.n.05')	shipping transport
+Synset('conjunction.n.05')	conjunction alignment
+Synset('steroid_hormone.n.01')	steroids steroid
+Synset('persecution.n.01')	persecution persecutions
+Synset('key.n.01')	keys key
+Synset('evolve.v.02')	evolve evolving evolved
+Synset('telecommunication.n.01')	telecom telecommunications
+Synset('leadership.n.02')	leadership leaders
+Synset('patriot.n.01')	patriot patriots
+Synset('scheduling.n.01')	scheduling programming
+Synset('september.n.01')	september sept sep
+Synset('card.v.02')	cards card
+Synset('solution.n.05')	solution solutions
+Synset('swindle.n.01')	rig rigs
+Synset('public_address_system.n.01')	pa pas
+Synset('magazine.n.01')	mag mags magazines magazine
+Synset('patent.v.03')	patented patent patents
+Synset('knife.n.01')	knife knives
+Synset('islander.n.01')	islanders islander
+Synset('balloon.n.01')	balloon balloons
+Synset('credence.n.01')	acceptance credence
+Synset('play.v.15')	play plays playing played
+Synset('cardinal_number.n.01')	cardinal cardinals
+Synset('think.v.01')	considered believed
+Synset('kibbutz.n.01')	kibbutz kibbutzim
+Synset('trouble.n.04')	difficulty difficulties trouble troubles
+Synset('oblige.v.02')	holding bind held bound obliged obligated
+Synset('publicize.v.01')	publicized bare
+Synset('forge.v.02')	forged faked counterfeit fake
+Synset('fix.v.07')	fix fixed fixes
+Synset('supplement.v.01')	supplements supplement
+Synset('effect.v.02')	effects effect
+Synset('debt.n.02')	debts debt
+Synset('treatment.n.01')	treatment treatments
+Synset('restraint.n.02')	control restraint
+Synset('utility.n.04')	utility utilities
+Synset('put.v.02')	puts putting put
+Synset('record.n.07')	records record
+Synset('guard.n.05')	guard guards
+Synset('originate.v.03')	originating originate originated
+Synset('apology.n.01')	apologies apology
+Synset('spot.v.06')	spot spots spotted
+Synset('angle.n.01')	angles angle
+Synset('wife.n.01')	wife wives
+Synset('puzzle.v.02')	puzzles puzzle puzzled
+Synset('death.n.02')	death deaths
+Synset('muscle.n.04')	muscles muscle
+Synset('attack.v.01')	attacks attack attacked attacking
+Synset('precipitate.v.03')	precipitate fall
+Synset('kid.v.02')	kidding kid josh kids
+Synset('bishop.n.01')	bishops bishop
+Synset('invention.n.01')	innovation design conception designs invention
+Synset('teacher.n.02')	teacher teachers
+Synset('parent.n.01')	parent parents
+Synset('placement.n.01')	arrangement placement arrangements
+Synset('remain.v.03')	remained remaining
+Synset('wheel.v.03')	wheels wheel
+Synset('cardinal.n.01')	cardinal cardinals
+Synset('duty.n.02')	duty duties
+Synset('specify.v.02')	fix fixed
+Synset('spend.v.03')	spends spend spent
+Synset('knife.n.02')	knife knives
+Synset('thessaloniki.n.01')	thessaloniki salonica
+Synset('thick.a.01')	thicker thick
+Synset('new.a.01')	newer newest
+Synset('surface.v.01')	risen surface surfaces rose
+Synset('victimize.v.03')	con scam cons
+Synset('influence.n.03')	influences influence
+Synset('touch.v.05')	contacted meet contacting contact meetings met meeting
+Synset('muslim.a.01')	moslem islamic muslim
+Synset('bring.v.02')	brings brought bringing bring
+Synset('position.n.01')	places place
+Synset('oblige.v.03')	accommodate obliged
+Synset('think.v.02')	imagine guess reckon suppose
+Synset('slide.n.01')	slides slide
+Synset('battery.n.01')	batteries battery
+Synset('hemipterous_insect.n.01')	bugs bug
+Synset('scare.n.02')	scares scare
+Synset('shock.v.06')	shocks shocking shocked
+Synset('kilohertz.n.01')	kc khz
+Synset('tell.v.03')	telling told
+Synset('president.n.04')	chair presidents chairs chairman president
+Synset('illustrate.v.02')	illustrates illustrated
+Synset('transaction.n.01')	dealing transactions transaction
+Synset('treatment.n.02')	treatment handling treatments
+Synset('label.v.05')	labeled label labelled labels
+Synset('return.n.12')	returns return
+Synset('pelvis.n.01')	hips hip
+Synset('consult.v.01')	consulting consult consulted
+Synset('chair.n.01')	chair chairs
+Synset('fire.v.03')	fired fires firing fire
+Synset('wage.n.01')	salaries pay salary wage
+Synset('stipulate.v.01')	qualified specifies condition conditioning qualifies qualify
+Synset('witness.v.01')	witnessed witness witnessing witnesses
+Synset('plan.v.01')	planning plans planes planned plan
+Synset('charge.n.03')	charges charge
+Synset('announcer.n.02')	announcer announcers
+Synset('well_up.v.01')	swollen swell
+Synset('resident.n.01')	residents occupier occupant occupants resident
+Synset('strive.v.02')	strive reaches striving reach reached reaching
+Synset('answer.v.03')	answered answer answering
+Synset('play.v.12')	play plays playing played
+Synset('busbar.n.01')	bus buses
+Synset('area.n.05')	area areas
+Synset('session.n.01')	sessions session
+Synset('specify.v.03')	specifies define defined defines
+Synset('rob.v.01')	rob robbing robbed
+Synset('yelling.n.01')	yelling shouting
+Synset('overture.n.03')	advances approaches approach advance
+Synset('psalm.n.01')	psalms psalm
+Synset('connect.v.06')	connected connects connecting connect
+Synset('sting.n.03')	stings bite sting bites
+Synset('slide.n.05')	coast slides slide glide
+Synset('rank_and_file.n.01')	ranks rank
+Synset('call.v.28')	call called calls
+Synset('post.v.12')	post posting posted
+Synset('voucher.n.01')	voucher vouchers
+Synset('tinge.v.01')	color colored distort
+Synset('shoulder.n.01')	shoulders shoulder
+Synset('lip.n.01')	lip lips
+Synset('sabre.v.01')	sabre sabres
+Synset('buy.v.03')	buys bought buy buying
+Synset('sky.n.01')	sky skies
+Synset('summons.n.03')	process processes summons
+Synset('herring.n.01')	herrings herring
+Synset('upset.n.02')	upset overthrow
+Synset('hybrid.n.03')	cross crosses
+Synset('think.v.03')	thought thinks thinking
+Synset('property.n.01')	holding property properties
+Synset('strong.a.01')	strong stronger strongest
+Synset('call.v.02')	call called calls calling
+Synset('straighten.v.03')	straighten straightened
+Synset('raid.v.01')	bust raids raid
+Synset('push_button.n.01')	button buttons
+Synset('tourist.n.01')	tourist tourists
+Synset('believe.v.04')	believes believed believing
+Synset('utility.n.06')	utility utilities
+Synset('return.n.11')	returns return
+Synset('spectacles.n.01')	glasses specs
+Synset('service.n.11')	service services
+Synset('decisiveness.n.01')	decision decisions
+Synset('titan.n.02')	titans titan
+Synset('spend.v.01')	spends spending spend spent passed
+Synset('shirt.n.01')	shirt shirts
+Synset('submission.n.07')	submissions submission
+Synset('twin.n.01')	twins twin
+Synset('fire.v.02')	discharged discharge
+Synset('rethink.v.01')	rethinking rethought
+Synset('kurd.n.01')	kurds kurd
+Synset('witness.v.02')	witnessed found witnessing
+Synset('city.n.02')	cities city
+Synset('trademark.n.02')	trademark trademarks
+Synset('town.n.01')	town towns
+Synset('cylinder.n.02')	cylinder cylinders
+Synset('struggle.n.01')	battle struggles struggle
+Synset('overtake.v.01')	caught catching catch
+Synset('remove.v.02')	removed remove removing
+Synset('inherit.v.01')	inherited inherit
+Synset('represent.v.09')	interpret interprets interpreted
+Synset('stem.v.03')	halt halted staunch
+Synset('herring.n.02')	herrings herring
+Synset('arm.n.01')	arms arm
+Synset('recuperate.v.04')	recovered recovering
+Synset('lift.v.02')	lifting lifted
+Synset('substitution.n.02')	substitution exchanges exchange
+Synset('monkey.n.01')	monkeys monkey
+Synset('workplace.n.01')	work workplace
+Synset('majority_rule.n.01')	democracy democracies
+Synset('guard.n.06')	guard guards
+Synset('replace.v.01')	replaces replace replaced replacing
+Synset('enable.v.01')	enabling enable enabled enables
+Synset('desire.v.03')	desire desired
+Synset('battery.n.03')	batteries battery
+Synset('forward.n.01')	forwards forward
+Synset('brick.n.01')	bricks brick
+Synset('liberty.n.03')	liberty liberties
+Synset('denote.v.01')	denote denotes
+Synset('stay.n.03')	stays stay
+Synset('react.v.02')	opposes reacts opposed opposing reacting oppose react reacted
+Synset('proof.n.02')	proofs proof
+Synset('libertarian.n.01')	libertarians libertarian
+Synset('temperature.n.02')	temperatures temperature
+Synset('bat.v.01')	bats bates batting bat batted
+Synset('month.n.02')	months month
+Synset('major.n.04')	majors major
+Synset('galaxy.n.03')	galaxies galaxy
+Synset('study.v.06')	study studying studied contemplate contemplating studies
+Synset('date.n.06')	date dates
+Synset('citizen.n.01')	citizen citizens
+Synset('appeal.v.01')	appealed appealing
+Synset('receipt.n.02')	receipts receipt
+Synset('diagram.n.01')	diagram diagrams
+Synset('venture.v.01')	venture ventures
+Synset('stab.v.02')	stab stabbed
+Synset('whirl.v.02')	spin spins spinning
+Synset('protest.v.01')	protesting protest protested
+Synset('cleanse.v.01')	cleaning cleaned cleanse clean cleansing
+Synset('conspiracy.n.02')	conspiracy cabal
+Synset('neck.n.01')	necks neck
+Synset('cruise.v.04')	cruise cruising
+Synset('convert.n.01')	convert converts
+Synset('raid.v.03')	raided raids raid
+Synset('eagle.n.01')	eagle eagles
+Synset('snap.v.04')	clicked clicking
+Synset('protein.n.01')	proteins protein
+Synset('love.v.02')	love enjoys loved enjoy enjoying enjoyed
+Synset('touch.v.08')	touches touched touching touch
+Synset('assist.n.02')	assists assist
+Synset('timer.n.01')	timer timers
+Synset('scale.n.06')	scales scale
+Synset('year.n.03')	year years
+Synset('qi.n.01')	chi qi ki
+Synset('leave.v.02')	leave leaving
+Synset('area.n.02')	area areas
+Synset('react.v.03')	reacts reacting react reacted
+Synset('love.v.01')	love loving loved loves
+Synset('religion.n.02')	faiths religions faith religion
+Synset('lode.n.01')	load loads
+Synset('limiter.n.01')	clippers clipper
+Synset('property.n.02')	property properties
+Synset('temperature.n.01')	temperatures temperature
+Synset('ray.n.07')	ray rays
+Synset('save.v.02')	saving saves saved preserved save preserves savings preserve preserving
+Synset('refrain.n.01')	refrain chorus
+Synset('set.n.01')	set sets
+Synset('density.n.01')	density densities
+Synset('print.n.01')	prints print
+Synset('intrigue.v.01')	intriguing fascinating
+Synset('beep.v.02')	beep beeps beeping
+Synset('sport.n.04')	sports sport
+Synset('scar.v.01')	mark scared
+Synset('tree.v.03')	tree trees
+Synset('european.n.01')	european europeans
+Synset('triple.n.01')	triples triple
+Synset('sedan.n.01')	sedan sedans
+Synset('hop.v.04')	hoping hoped hopes
+Synset('pad.n.07')	pad pads
+Synset('amplifier.n.01')	amplifiers amplifier
+Synset('print.n.02')	prints print
+Synset('mission.n.03')	charges mission charge missions
+Synset('mountain.n.01')	mountains mountain mount
+Synset('seat.n.05')	seat seats
+Synset('occupation.n.01')	occupation business line jobs job lines businesses
+Synset('wood.n.08')	woods wood
+Synset('death.n.06')	death deaths
+Synset('politics.n.02')	politics government governments
+Synset('precedent.n.01')	precedents precedent
+Synset('rest.v.08')	rest resting rests rested
+Synset('swing.v.01')	swing swung swinging swings
+Synset('associate.n.01')	associates associate
+Synset('property.n.05')	property properties props
+Synset('death.n.03')	death deaths
+Synset('major.n.02')	majors major
+Synset('teacher.n.01')	teacher instructor teachers instructors
+Synset('convert.v.11')	converted converting
+Synset('window.n.08')	window windows
+Synset('coin.n.01')	coins coin
+Synset('short-change.v.01')	shorting shorted
+Synset('strain.v.03')	strain extends extending extended
+Synset('rein.n.01')	rein reins
+Synset('firecracker.n.01')	cracker crackers
+Synset('thread.v.03')	threads thread threaded
+Synset('stature.n.02')	heights stature height
+Synset('standing.n.03')	standing standings
+Synset('roman.n.02')	romans roman
+Synset('freedom.n.01')	freedom freedoms
+Synset('benefit.n.01')	benefits benefit
+Synset('warn.v.02')	warn warnings warns warned discourage warning
+Synset('ground.n.09')	grounds earth ground
+Synset('protest.v.03')	protesting protested
+Synset('talk_through_one's_hat.v.01')	fake bullshit
+Synset('topic.n.02')	issue matters topics subject subjects topic matter issues
+Synset('pad.n.04')	pad pads
+Synset('unwrap.v.02')	broken discover discovered discovering disclosed broke reveal breaks break revealing reveals expose disclose exposing exposes revealed exposed breaking
+Synset('route.v.02')	routing route
+Synset('attack.v.05')	attacks attack attacked attacking
+Synset('undergraduate.n.01')	undergrad undergraduate
+Synset('tell.v.02')	telling told
+Synset('consequence.n.02')	consequence consequences
+Synset('delete.v.01')	canceled deleted deleting delete
+Synset('member.n.01')	members member
+Synset('automobile.v.01')	automobile automobiles
+Synset('belief.n.01')	belief beliefs
+Synset('yard.n.07')	yard yards
+Synset('property.n.04')	attributes attribute dimension dimensions
+Synset('menu.n.03')	menus menu
+Synset('chain.n.03')	chain chains
+Synset('lp.n.01')	lp lps
+Synset('egyptian.n.02')	egyptians egyptian
+Synset('attack.v.03')	attacks attack attacked attacking
+Synset('wording.n.01')	phrasing wording
+Synset('date.n.07')	date dates
+Synset('consultation.n.02')	consultation consultations
+Synset('semiconductor.n.01')	semiconductor semiconductors
+Synset('equivalent.n.01')	equivalent equivalents
+Synset('proportion.n.01')	proportion proportions
+Synset('sinner.n.01')	sinner sinners
+Synset('scan.v.05')	scans scanned scan
+Synset('transfer.v.01')	transferred transfer
+Synset('idol.n.01')	idol god idols
+Synset('icon.n.01')	icon icons
+Synset('study.v.03')	considers considered
+Synset('watch.n.02')	watches watch
+Synset('cartridge.n.01')	cartridge cartridges
+Synset('raven.v.02')	predates preying
+Synset('volume.n.06')	volume intensity volumes
+Synset('develop.v.19')	developing develop developed develops
+Synset('mind.n.06')	minds mind idea ideas
+Synset('snap.v.03')	snapped cracked
+Synset('restraint.n.01')	restraints restraint
+Synset('tapdance.v.01')	tapes tapped taped tap tapping taps
+Synset('poor.a.04')	poorer poor
+Synset('gene.n.01')	gene genes factor factors
+Synset('fire.v.06')	fired fires firing fire
+Synset('communicate.v.05')	communicate communicated communicating
+Synset('wind_instrument.n.01')	winds wind
+Synset('wonder.n.02')	marvel wonders
+Synset('raise.v.15')	prove proven
+Synset('risk.v.01')	risks risking risk risked
+Synset('antibody.n.01')	antibody antibodies
+Synset('pickup.n.08')	pickup pickups
+Synset('bigot.n.01')	bigot bigots
+Synset('back.v.10')	backing back
+Synset('find.v.05')	feels found finds find findings felt feel finding
+Synset('slope.v.01')	pitching slope
+Synset('guarantee.n.02')	guarantee guarantees
+Synset('station.v.01')	stationed station send
+Synset('suicide.n.01')	suicides suicide
+Synset('still.v.03')	ease relieve relieved
+Synset('man.n.03')	men man
+Synset('requital.n.02')	payments payment
+Synset('outline.n.01')	outlines outline
+Synset('presentation.n.07')	presentation presentations
+Synset('book.n.06')	books book
+Synset('submit.v.03')	submitting submitted submit
+Synset('inflate.v.03')	inflate inflated
+Synset('power.v.01')	powering powered power powers
+Synset('trailing.n.01')	trailing tracking
+Synset('county.n.01')	county counties
+Synset('obligation.n.05')	obligation obligations
+Synset('automatic_pistol.n.01')	automatic automatics
+Synset('study.v.02')	study studying studies
+Synset('paper.n.01')	paper papers
+Synset('resource.n.02')	resource resources
+Synset('trailer.n.04')	trailer trailers
+Synset('perspective.n.02')	perspectives perspective
+Synset('reckon.v.06')	count counted
+Synset('usher.v.01')	shows shown showed show showing
+Synset('combustion.n.01')	burning combustion
+Synset('shape.n.01')	configuration configurations contour
+Synset('discount.v.02')	discounts discount
+Synset('rouge.n.01')	paint rouge
+Synset('woman.n.02')	woman women
+Synset('significant.a.01')	important significant
+Synset('set.n.05')	lot lots set bands
+Synset('lord.v.01')	lord lords
+Synset('calculator.n.02')	calculator calculators
+Synset('organize.v.04')	coordinate organize organized coordinates organizing coordinated
+Synset('major.n.01')	majors major
+Synset('corps.n.01')	corpses corps
+Synset('integration.n.01')	integrating integration
+Synset('affiliate.v.02')	affiliated affiliate
+Synset('travel.v.06')	travelling travels traveling travel
+Synset('guidance.n.01')	counsel directions guidance direction
+Synset('principal.n.06')	principal dealer dealers
+Synset('document.v.02')	documenting documents document documented
+Synset('tie.v.02')	tied tying drawn
+Synset('leak.v.04')	leaks leak leaking
+Synset('list.v.02')	listed list
+Synset('opportunity.n.01')	opportunity opportunities
+Synset('submit.v.02')	stating stated
+Synset('inflate.v.04')	inflate inflated
+Synset('kale.n.02')	coles cole
+Synset('slice.v.02')	slices sliced slice
+Synset('respect.v.02')	honoured respecting respected respect honors
+Synset('lot.v.01')	lot lots
+Synset('ion.n.01')	ion ions
+Synset('visit.v.01')	visiting sees visited
+Synset('conversion.n.05')	conversions conversion
+Synset('interest.v.01')	interest interesting interested
+Synset('box.v.02')	boxes box
+Synset('rat.n.01')	rat rats
+Synset('spook.v.01')	spook spooks
+Synset('shape.n.02')	form shape shapes
+Synset('number.n.01')	figure figures
+Synset('snap_up.v.01')	grabbed grab
+Synset('representation.n.04')	agency agencies representation
+Synset('three-d.n.01')	3d 3ds 3-d
+Synset('text_file.n.01')	documents document
+Synset('scanner.n.02')	scanners scanner
+Synset('submission.n.01')	entry entries submissions submission
+Synset('reinstall.v.01')	reinstall reinstalling reinstalled
+Synset('question.v.03')	question query queries
+Synset('give.v.18')	devote give dedicated devoted committed committing commit commits
+Synset('provide.v.07')	providing provide provided
+Synset('run.v.19')	running run executed executing execute runs ran
+Synset('intimate.v.01')	intimate insinuating
+Synset('shoot.v.01')	hits hit shooting shoot hitting
+Synset('formula.n.04')	formulae formulas formula
+Synset('interval.n.02')	intervals interval
+Synset('trader.n.01')	traders dealer dealers
+Synset('relax.v.05')	relaxed relax
+Synset('season.n.01')	seasons season
+Synset('document.v.01')	documents document documented
+Synset('definition.n.01')	definition definitions
+Synset('vegetable_oil.n.01')	oil oils
+Synset('tap.n.04')	tap taps
+Synset('shanghai.v.01')	impress impressed
+Synset('worship.n.01')	worships worship
+Synset('pay.v.09')	paying paid pay pays
+Synset('evasion.n.03')	escapes evasion escape
+Synset('specification.n.01')	specs spec
+Synset('memorize.v.01')	learn learned learning
+Synset('wish.v.02')	liking caring cared wished wishes wishing likes care
+Synset('ask.v.05')	asked asks
+Synset('submit.v.06')	defer submit
+Synset('processor.n.01')	processors processor
+Synset('get.v.01')	acquire acquired
+Synset('grade.v.04')	grading grade graded grades
+Synset('skill.n.01')	skills skill accomplishments acquisition
+Synset('repeat.v.04')	repeats repeat echoed echo repeated echoing
+Synset('class.n.07')	classes class
+Synset('ritual.n.01')	rites rite
+Synset('comparison.n.01')	comparison comparisons comparing
+Synset('visit.n.01')	visits visit
+Synset('meeting.n.04')	meetings meeting
+Synset('expectation.n.03')	expectations expectation
+Synset('satellite.v.01')	satellites satellite
+Synset('matter.n.03')	matters matter
+Synset('conversion.n.02')	conversions conversion
+Synset('simple.a.01')	simplest simple simpler
+Synset('gloss.v.02')	comments commenting commented
+Synset('trial.n.04')	trials trial
+Synset('nurse.n.01')	nurse nurses
+Synset('nickel.n.01')	nis ni
+Synset('volunteer.n.01')	volunteer volunteers
+Synset('danger.n.01')	dangers danger
+Synset('harmony.n.03')	harmony concordance concord
+Synset('press_out.v.03')	expressing express expresses expressed extracted
+Synset('wave.n.06')	waves wave
+Synset('sport.n.02')	sports sport
+Synset('slap.v.01')	slapped slap
+Synset('reconciliation.n.02')	balancing reconciliation
+Synset('limit.n.01')	boundary bound bounds boundaries
+Synset('religious_doctrine.n.01')	gospels gospel creeds creed
+Synset('disturbance.n.05')	disturbance disturbances
+Synset('govern.v.04')	governing govern governed
+Synset('decoder.n.01')	decoders decoder
+Synset('roast.n.01')	joint joints
+Synset('residential_district.n.01')	community communities
+Synset('reach.v.04')	contacted contacting reach reached contact reaching contacts
+Synset('statement.n.03')	statement statements
+Synset('confuse.v.01')	confused confuses confuse confusing
+Synset('ball.n.01')	ball balls
+Synset('summation.n.04')	additions addition pluses
+Synset('operate.v.03')	operate operates operated control operating
+Synset('respect.n.01')	regard respect
+Synset('sermon.n.01')	preaching sermon discourse
+Synset('two.n.01')	ii 2s iis
+Synset('chamber.n.02')	chamber chambers
+Synset('resource.n.01')	resource resources
+Synset('hair.n.01')	hair hairs
+Synset('rib.n.02')	costa rib ribs costas
+Synset('stamp.v.02')	stamp stamped stamps
+Synset('tour.v.01')	touring tour
+Synset('significance.n.02')	significance implications imports import implication
+Synset('flower.n.02')	blooms flowers bloom
+Synset('article.n.01')	articles article
+Synset('transfer.v.06')	transferring transferred transfer change changing changed
+Synset('hood.n.02')	cap caps
+Synset('set.n.07')	set sets
+Synset('tube.v.04')	tube tubes
+Synset('item.n.03')	item items
+Synset('fail.v.08')	fail failing failed fails
+Synset('empower.v.01')	authorized authorize
+Synset('script.n.01')	books book scripts script
+Synset('read.v.03')	readings read reads reading
+Synset('body.n.02')	bodies body
+Synset('presentation.n.03')	presentation presentations
+Synset('call.v.22')	call called calls calling
+Synset('question.v.01')	question questioning questioned questions
+Synset('sieve.n.01')	screens screen
+Synset('writer.n.02')	writer writers
+Synset('profit.v.01')	gaining benefits gained gaines benefit gain
+Synset('conversion.n.09')	conversions conversion
+Synset('store.n.02')	fund stores funds store
+Synset('poise.v.04')	balancing balanced
+Synset('roof.n.01')	roof roofs
+Synset('violation.n.02')	violations violation infringement
+Synset('heading.n.01')	head headers heading headings header heads
+Synset('shotgun.n.01')	shotguns shotgun
+Synset('drive.n.09')	drives drive
+Synset('schedule.v.02')	schedule scheduled schedules scheduling
+Synset('subcontract.v.01')	jobs job
+Synset('pouch.n.03')	pockets pouch pocket
+Synset('regulator.n.01')	regulator regulators
+Synset('theology.n.01')	divinity theology
+Synset('happen.v.02')	happen happening happened
+Synset('playing_period.n.01')	play plays
+Synset('dissolve.v.10')	dissolve dissolved
+Synset('clitoris.n.01')	button buttons
+Synset('taste.n.06')	tastes taste
+Synset('reader.n.08')	readers reader
+Synset('visit.v.04')	visiting visited inspect visit inspected
+Synset('scandal.n.01')	scandal dirt
+Synset('phenomenon.n.01')	phenomenon phenomena
+Synset('identify.v.06')	identified identify
+Synset('comet.n.01')	comet comets
+Synset('explode.v.06')	exploding explodes explode
+Synset('window.n.01')	window windows
+Synset('move.v.02')	move moves moved displaced moving
+Synset('contentedness.n.01')	contents content
+Synset('violate.v.01')	violated broken broke violates breaks break violate violating breaking
+Synset('philosopher.n.02')	philosopher philosophers
+Synset('slave.v.01')	slave slaves
+Synset('narrow.v.01')	contracted narrow
+Synset('smash.v.02')	smashed smashing
+Synset('group.v.01')	groups group
+Synset('avoid.v.01')	avoided avoids avoid avoiding
+Synset('consort.v.01')	assorted associates affiliated
+Synset('falsification.n.03')	falsehoods falsehood
+Synset('asteroid.n.01')	asteroids asteroid
+Synset('speculate.v.02')	speculated speculate speculating
+Synset('statement.n.01')	statement statements
+Synset('regulator.n.02')	regulator regulators
+Synset('deal.n.07')	deal deals
+Synset('relation_back.n.01')	relations relation
+Synset('run_batted_in.n.01')	rbi rbis
+Synset('survey.v.05')	survey surveyed
+Synset('attraction.n.02')	attraction attractions
+Synset('mistake.n.01')	mistake mistakes error errors
+Synset('rescue.v.01')	rescued rescue
+Synset('branch.n.02')	branches branch
+Synset('mouth.v.02')	mouth mouths
+Synset('type.n.06')	types type
+Synset('issue.n.01')	issue issues
+Synset('outlaw.v.01')	outlaws outlaw outlawing outlawed
+Synset('confront.v.04')	confront confronted
+Synset('strike.v.14')	striking scratching scratched scratches struck scratch
+Synset('pain.n.01')	pain hurting pains
+Synset('view.n.03')	surveys sight survey views
+Synset('offer.v.01')	offer offers offered
+Synset('saying.n.01')	sayings expression expressions
+Synset('shark.n.01')	shark sharks
+Synset('ticket.n.01')	tickets ticket
+Synset('hate.v.01')	hating hate hated
+Synset('window.n.02')	window windows
+Synset('nature.n.04')	natures nature
+Synset('musical_instrument.n.01')	instruments instrument
+Synset('solder.v.01')	soldered soldering solder
+Synset('drive.n.07')	drives drive
+Synset('practice.n.05')	practice practices
+Synset('submit.v.01')	subjected subject
+Synset('stove.n.01')	stoves stove
+Synset('gain.n.04')	gains gain
+Synset('zone.v.01')	zone district districts
+Synset('reproduce.v.02')	reproduce reproduced multiply
+Synset('jew.n.01')	israelites jews hebrew jew israelite hebrews
+Synset('body.n.04')	bodies body
+Synset('stream.v.01')	stream streams
+Synset('wrench.v.01')	twisted twist twisting wrench
+Synset('customize.v.02')	customized customize
+Synset('smash.v.01')	nailed blast
+Synset('sitting.n.01')	posing sitting
+Synset('reach.v.07')	made reach reached
+Synset('motorcycle.n.01')	motorcycle bikes motorcycles bike
+Synset('savings_bank.n.02')	bank banks
+Synset('touch.v.01')	touched touch
+Synset('corporation.n.01')	corp corporation corps corporations
+Synset('tooth.n.01')	teeth tooth
+Synset('trust.v.01')	trust swore relies relied trusted rely relying trusting sworn swear
+Synset('hotel.n.01')	hotels hotel
+Synset('probe.v.02')	probes probe
+Synset('batter.n.02')	batter batters
+Synset('uncover.v.02')	uncovered exposed
+Synset('pawl.n.01')	dogs clicks dog click
+Synset('trick.n.03')	tricks trick
+Synset('tail.n.05')	shadow shadows
+Synset('technology.n.01')	technologies engineering technology
+Synset('soldier.v.01')	soldier soldiers
+Synset('jurisdiction.n.02')	jurisdiction jurisdictions
+Synset('speciate.v.01')	specialized differentiate specialize
+Synset('trip.n.01')	trip trips
+Synset('formulation.n.03')	expression formulation
+Synset('pretend.v.03')	pretending pretend
+Synset('represent.v.04')	represents representing represented represent
+Synset('survive.v.01')	survive living enduring surviving survives survived lived endure lasted lasting live
+Synset('simulate.v.03')	assuming assume simulate
+Synset('microbe.n.01')	bugs bug
+Synset('rendition.n.04')	interpretation rendering interpretations
+Synset('generation.n.02')	generation generations
+Synset('transportation.n.02')	transports transfer transfers transport transportation
+Synset('protective_covering.n.01')	protections protection
+Synset('cleansing_agent.n.01')	cleaners cleaner
+Synset('waste.n.05')	waste wastes
+Synset('walk.v.10')	walks walked walking walk
+Synset('substance.n.01')	substances substance
+Synset('challenge.n.02')	challenges challenge
+Synset('young.a.01')	younger young immature
+Synset('twilight.n.01')	falls fall
+Synset('casting.n.03')	cast casts casting
+Synset('type.n.03')	types type
+Synset('refutation.n.01')	defence defense refutation
+Synset('veteran.n.02')	veterans vet veteran
+Synset('writer.n.01')	author writers authors
+Synset('production_line.n.01')	line lines
+Synset('have.v.02')	features featured featuring
+Synset('pique.v.01')	offending offended offend
+Synset('formula.n.01')	formulae formulas formula
+Synset('tongue.n.01')	tongues tongue
+Synset('organize.v.02')	organize organized organizing
+Synset('presentation.n.06')	presentation intro presentations introduction
+Synset('cry.v.07')	cries cried crying cry
+Synset('diagnosis.n.01')	diagnosis diagnoses
+Synset('facility.n.04')	facilities facility
+Synset('lover.n.03')	lover lovers
+Synset('remedy.v.02')	remedies remedy
+Synset('topographic_point.n.01')	places spot spots place
+Synset('survive.v.02')	survive surviving survives survived
+Synset('ask.v.02')	asked asks
+Synset('company.n.02')	companies company
+Synset('network.n.05')	networks network
+Synset('unorthodoxy.n.01')	heresies heresy
+Synset('commander.n.02')	commander commanders
+Synset('marshall.n.02')	marshall marshalls
+Synset('believe.v.01')	believes believed believing
+Synset('resume.v.01')	resume restarting restart resumed resumes
+Synset('shine.v.02')	shines beams beam shining shine
+Synset('orientation.n.03')	orientation orientations
+Synset('probability.n.01')	chance chances probability probabilities
+Synset('machine.n.01')	machine machines
+Synset('declare.v.06')	declared declares declare declaring
+Synset('passage.n.03')	passage passages
+Synset('seed.v.05')	seed seeds
+Synset('hope.n.02')	hopes hope
+Synset('disciple.n.01')	disciple adherents disciples
+Synset('monitor.n.06')	monitor monitors
+Synset('shoe.n.01')	shoes shoe
+Synset('publisher.n.02')	publisher publishers
+Synset('think_of.v.04')	meant means
+Synset('want.v.04')	wanting wanted
+Synset('lawyer.n.01')	lawyers attorney attorneys lawyer
+Synset('increase.v.01')	increases increased increasing increase
+Synset('murderer.n.01')	murderers murderer
+Synset('review.n.04')	reviews review
+Synset('flush.v.07')	flush flushing
+Synset('reciprocal.a.01')	mutual reciprocal
+Synset('short_circuit.n.01')	short shorts
+Synset('warm.v.02')	warm warming
+Synset('suspect.v.01')	suspected suspect suspects
+Synset('investigate.v.02')	inquire investigate investigated
+Synset('microwave.n.01')	microwaves microwave
+Synset('procedure.n.04')	procedures procedure
+Synset('megabyte.n.01')	mb ms megabyte
+Synset('head.n.26')	head heads
+Synset('be.v.01')	beings bees
+Synset('check.v.05')	checking checks checked check
+Synset('hook.v.04')	hook hooked hooks hooking
+Synset('shock.n.04')	shock shocks
+Synset('constant.n.02')	constant constants
+Synset('link.n.06')	link links
+Synset('infection.n.03')	infection infections
+Synset('doorbell.n.01')	doorbell bell
+Synset('interview.n.01')	interview interviews
+Synset('sink.v.04')	settle sank
+Synset('ride.n.02')	rides ride
+Synset('encode.v.01')	encode encoded
+Synset('steroid.n.01')	steroids steroid
+Synset('stay.v.01')	rest stayed remain staying remained rests remains remaining rested stay
+Synset('cracker.n.01')	cracker crackers
+Synset('child.n.03')	children childs child
+Synset('policeman.n.01')	policemen policeman
+Synset('colon.n.01')	colon colons cola
+Synset('metric_function.n.01')	metric metrics
+Synset('cry.n.05')	cries cry
+Synset('panic.v.02')	panicking panic
+Synset('variation.n.03')	variations variation
+Synset('world.n.02')	world domain domains
+Synset('network.n.04')	networks network
+Synset('serve.v.07')	served serve serving
+Synset('tick.n.02')	ticks tick
+Synset('terrorist.n.01')	terrorists terrorist
+Synset('express.v.07')	expressing express expresses expressed
+Synset('messenger.n.01')	messengers courier messenger
+Synset('catholic.n.01')	catholics catholic
+Synset('whine.v.03')	whine whining
+Synset('publisher.n.03')	publisher publishers
+Synset('keyboard.n.01')	keyboard keyboards
+Synset('manipulate.v.02')	manipulating manipulated manipulate
+Synset('mosque.n.01')	mosque mosques
+Synset('symbol.n.01')	symbol symbols
+Synset('log.n.05')	log logs
+Synset('want.v.03')	wanting wanted
+Synset('switch.v.04')	switching shift shifted shifting
+Synset('supplier.n.01')	suppliers provider supplier providers
+Synset('utility_program.n.01')	utility utilities
+Synset('screw.v.03')	screwed screwing screw
+Synset('wink.v.04')	blinking blink
+Synset('rear.n.05')	rear back backs
+Synset('testis.n.01')	ball eggs egg nuts balls nut
+Synset('geld.v.01')	cut cutting
+Synset('turn.n.03')	play plays turn turns
+Synset('track.n.07')	track tracks
+Synset('tuberculosis.n.01')	tbs tuberculosis tb
+Synset('resistance.n.01')	opposition resistances resistance
+Synset('ideal.n.01')	ideals ideal
+Synset('organization.n.04')	organization organizations organisation
+Synset('stroke.n.01')	shots shot
+Synset('watch.v.03')	watch viewed views viewing
+Synset('president_of_the_united_states.n.02')	presidents president
+Synset('suffer.v.06')	suffer suffers hurts suffered suffering hurting hurt
+Synset('arrow.n.02')	arrow arrows
+Synset('sink.v.03')	pass passed
+Synset('plug.v.04')	plugs plug plugged plugging
+Synset('windsock.n.01')	sock socks
+Synset('recommendation.n.01')	recommendation recommendations
+Synset('plaintiff.n.01')	plaintiff plaintiffs
+Synset('wardrobe.n.01')	closet wardrobe press
+Synset('weigh.v.03')	weigh weighs weighing weighed
+Synset('head.n.01')	head heads capita
+Synset('diet.v.02')	diet diets
+Synset('tank.n.01')	tanks tank
+Synset('return.v.01')	returning returns returned return
+Synset('dish.n.01')	dish dishes
+Synset('saint.n.01')	saint saints
+Synset('rich.a.02')	richer rich
+Synset('landing.n.03')	landing landings
+Synset('parentage.n.02')	birth births
+Synset('blow.v.14')	blowing blew blows blown blow
+Synset('performance.n.03')	execution performance performances
+Synset('arsenal.n.02')	armory arsenal
+Synset('pervert.n.01')	deviant deviants degenerate
+Synset('name.v.02')	identifies named identifying identified names identify naming
+Synset('persona.n.02')	image images
+Synset('want.v.02')	wanting wanted needed requiring needing require required requires
+Synset('push.v.08')	pushed push pushing
+Synset('smooth.a.03')	smoother smooth
+Synset('victory.n.01')	triumph victories victory
+Synset('read.v.05')	read reads reading
+Synset('worry.v.03')	worry worries worrying worried
+Synset('talk.v.01')	talked speaking speaks speak talk talking
+Synset('situation.n.02')	position situation situations
+Synset('quiet.a.01')	quiet quieter
+Synset('hacker.n.02')	hacker hackers
+Synset('explore.v.02')	exploring explore explored
+Synset('denomination.n.01')	denominations denomination
+Synset('game.n.05')	game games
+Synset('readiness.n.01')	preparations readiness preparation
+Synset('retain.v.02')	keeping continue continues retain continued retaining continuing
+Synset('insight.n.03')	insight insights
+Synset('scorer.n.01')	scorer scorers
+Synset('iowa.n.02')	iowa ia
+Synset('convention.n.05')	convention conventions
+Synset('innocent.n.01')	innocent innocents
+Synset('pass.n.04')	passes pass notch
+Synset('tellurium.n.01')	te tes
+Synset('lamp.n.02')	lamps lamp
+Synset('suit.v.01')	suited accommodate fits fitted
+Synset('priest.n.01')	priest priests
+Synset('mislead.v.01')	misleading mislead misled misguided
+Synset('pill.n.05')	pills pill
+Synset('documentation.n.01')	documentation certification
+Synset('overwork.v.02')	overworked exploits
+Synset('directory.n.01')	directories directory
+Synset('saint.n.02')	saint angels angel
+Synset('emotion.n.01')	emotion emotions
+Synset('monster.n.01')	monsters monster
+Synset('symmetrical.a.01')	symmetrical symmetric
+Synset('shuffle.v.03')	mixing mixed shuffle mix
+Synset('vivification.n.02')	animations animation
+Synset('expect.v.01')	expecting expect anticipate expected expects
+Synset('depository_financial_institution.n.01')	bank banks
+Synset('landing.n.04')	landing landings
+Synset('notice.n.04')	notices notice
+Synset('nail.v.01')	nail nails nailed
+Synset('express.v.05')	expressing express expressed
+Synset('belt.n.02')	belt belts
+Synset('construction.n.01')	buildings building
+Synset('pry.v.01')	prized pry prizes lever jimmy prize
+Synset('winner.n.01')	winners winner victor
+Synset('promotion.n.03')	advancement promotion
+Synset('file.n.04')	file files
+Synset('track.n.09')	rail track tracks
+Synset('retain.v.03')	holding retained held retain retaining
+Synset('hide.v.01')	conceal concealed
+Synset('help.v.08')	helping helped helps
+Synset('promise.n.01')	promise promises
+Synset('run.v.23')	led lead
+Synset('copy.v.01')	copies copied copying copy
+Synset('fraction.n.03')	fractions fraction
+Synset('button.n.01')	button buttons
+Synset('segment.n.02')	segment segments
+Synset('purpose.n.01')	intents aims aim purpose purposes design intentions designs intent intention
+Synset('hacker.n.03')	hacker hackers
+Synset('collection.n.01')	collections collection
+Synset('gun.n.01')	gun guns
+Synset('prophet.n.02')	prophets prophet
+Synset('merging.n.01')	merging meetings meeting
+Synset('mean.v.01')	meant means intends intended intending intend meanings
+Synset('calcium.n.01')	calcium ca
+Synset('infantry.n.01')	feet infantry foot
+Synset('strip.v.11')	striped stripping strip
+Synset('employee.n.01')	employees employee
+Synset('subsidize.v.02')	subsidize subsidizing subsidized
+Synset('odometer.n.01')	odometer odometers
+Synset('charge.v.19')	charges charge charging charged
+Synset('stress.v.01')	stressed emphasizes emphasized emphasizing emphasize
+Synset('scorer.n.02')	scorer scorers
+Synset('integrate.v.01')	incorporates integrating incorporated incorporate integrate incorporating integrated
+Synset('stick.n.06')	sticks stick
+Synset('budget.n.02')	budgets budget
+Synset('pardon.n.02')	pardon amnesty
+Synset('sting.v.05')	stings sting
+Synset('rise.v.02')	climb risen rising rose climbed rise
+Synset('militia.n.02')	militia militias
+Synset('revolution.n.02')	revolutions revolution
+Synset('upgrade.v.02')	upgraded upgrading upgrade upgrades
+Synset('suffer.v.01')	suffer suffers suffering
+Synset('while.n.01')	patch pieces spell piece patches spells
+Synset('reach.v.01')	gaining gained gaines reach
+Synset('manual_of_arms.n.01')	manual manuals
+Synset('inheritance.n.02')	inheritance heritage
+Synset('elect.v.01')	elected elect
+Synset('penny.n.01')	pennies penny
+Synset('mine.n.01')	mine mines
+Synset('conventionality.n.03')	convention conventions
+Synset('matthew.n.02')	matthew matthews
+Synset('difficulty.n.03')	difficulty difficulties
+Synset('market.v.01')	market marketing markets marketed
+Synset('lead_up.v.01')	initiate initiated initiating
+Synset('stop.v.03')	halt halted stopped
+Synset('bury.v.03')	burying bury buried
+Synset('master.v.04')	controlled controls mastering masters control controlling master
+Synset('band.n.07')	band bands
+Synset('post.n.04')	post posts
+Synset('volcanic_crater.n.01')	craters crater
+Synset('hit.n.06')	hits hit
+Synset('creation.n.03')	conception creations creation
+Synset('organization.n.01')	organization organizations organisation
+Synset('attach.v.02')	attached attach attaching attaches
+Synset('pulse.v.02')	pulse pulses
+Synset('collection.n.04')	collections assembling collection collecting
+Synset('translator.n.01')	translators translator
+Synset('support.n.10')	supports support
+Synset('push.v.01')	pushed pushing
+Synset('park.n.02')	parks green common park
+Synset('eye.n.05')	eye eyes
+Synset('sell.v.01')	sold sell selling
+Synset('reach.v.02')	hits hit reach reached reaching attain attained hitting
+Synset('undergo.v.01')	undergone undergoing undergo
+Synset('summary.n.01')	summary summaries
+Synset('mass.n.01')	mass masses
+Synset('wrongdoer.n.01')	offender offenders
+Synset('mine.n.02')	mine mines
+Synset('society.n.01')	society societies
+Synset('hole.n.02')	hole holes
+Synset('help.v.06')	helping helped helps
+Synset('leap.v.02')	jumping jumped jumps leap jump
+Synset('risk.n.02')	dangers peril danger
+Synset('supporter.n.01')	champions friend friends booster champion
+Synset('serviceman.n.01')	servicemen men man
+Synset('protestant_church.n.01')	protestants protestant
+Synset('sealing_wax.n.01')	seals seal
+Synset('supplant.v.01')	replaces replace replaced replacing supersedes
+Synset('proposition.n.01')	propositions proposition
+Synset('creation.n.02')	creations creation
+Synset('follower.n.01')	follower followers
+Synset('detector.n.03')	detectors detector
+Synset('attach.v.01')	attached attach
+Synset('share.v.04')	shared deal dealing dealt share sharing
+Synset('recognize.v.02')	realised recognize realize
+Synset('close.v.09')	closed close
+Synset('qualify.v.06')	characterized characterize qualifies qualify
+Synset('spanish_american.n.01')	hispanics hispanic
+Synset('drill.n.04')	drills drill
+Synset('punishment.n.01')	punishment punishments penalty
+Synset('startle.v.02')	jumping startled start jumped jumps started starting starts jump
+Synset('restrain.v.03')	holding confined held restraining restrain confines hold
+Synset('promote.v.01')	promote encouraging encourages encouraged encourage advanced advances boost advancing promotes advance
+Synset('sell.v.02')	sold sells sell selling
+Synset('blow.v.18')	blown blow
+Synset('x-ray.v.02')	x-ray x-rays
+Synset('suspect.v.03')	suspected suspect
+Synset('conference.n.01')	conference conferences
+Synset('gun.n.07')	gun guns
+Synset('ability.n.01')	abilities ability
+Synset('muscle.v.01')	muscles muscle
+Synset('letter.v.02')	letter letters
+Synset('help.v.03')	facilitate helped
+Synset('infrastructure.n.02')	bases infrastructure base
+Synset('shock.n.02')	impact impacts
+Synset('reporter.n.01')	reporters reporter
+Synset('obligation.n.02')	obligation obligations
+Synset('defense.n.03')	defence defense defenses
+Synset('crash.v.02')	crashed crashes crashing crash
+Synset('text.n.02')	texts text
+Synset('world.n.08')	world humanities mankind humankind men man humans humanity
+Synset('stop.v.01')	stopped stop
+Synset('sector.n.02')	sectors sector
+Synset('shell.n.01')	shell shells
+Synset('hole.n.03')	hole holes
+Synset('back.n.09')	back backs
+Synset('nautical_mile.n.01')	mile miles
+Synset('schedule.n.02')	schedule schedules
+Synset('contract.n.01')	contract contracts
+Synset('mind.v.02')	minds mind minded
+Synset('claim.n.02')	claims claim
+Synset('follower.n.02')	follower followers
+Synset('therapy.n.01')	therapies therapy
+Synset('disclaimer.n.01')	disclaimers disclaimer
+Synset('cyclone.n.01')	cyclones cyclone
+Synset('heel.n.01')	heel heels
+Synset('bound.v.02')	border borders bound bounding
+Synset('wonder.v.03')	marvel wondering wondered
+Synset('eye.n.02')	eye eyes
+Synset('dial.v.02')	dialing dial
+Synset('drill.n.01')	drills drill
+Synset('overwhelm.v.02')	overwhelm overwhelming
+Synset('hit.v.16')	hits hit hitting
+Synset('drive.v.09')	drove drive
+Synset('purchase.n.01')	purchases purchase
+Synset('half.n.02')	halves half
+Synset('upgrade.v.05')	upgraded upgrading upgrade upgrades
+Synset('scenery.n.01')	scenes scenery scene
+Synset('rich.a.07')	richer rich
+Synset('immunization.n.01')	immunization immunizations
+Synset('step.v.07')	stepped stepping
+Synset('seduce.v.01')	score making scoring made scored makes
+Synset('count.v.04')	counting counts count counted
+Synset('slow.a.01')	slow slower
+Synset('rough.a.09')	jumpy bumpy rocky
+Synset('feature.n.06')	features feature
+Synset('throw.n.01')	throw throws
+Synset('crystal.n.01')	crystals crystal
+Synset('rule.v.04')	ruling found finds ruled find rulings rules finding
+Synset('wonder.v.01')	inquire wonders inquiring wondering wondered
+Synset('serve.v.05')	serves helping served helped helps serve serving
+Synset('listen_in.v.02')	eavesdrop eavesdropping
+Synset('want.v.05')	wanting wanted
+Synset('state_of_matter.n.01')	state states
+Synset('feel.v.01')	experiencing felt feel experience experiences experienced
+Synset('ally.v.01')	ally allied
+Synset('trouble.v.05')	pain trouble troubled pains troubles troubling
+Synset('museum.n.01')	museums museum
+Synset('increase.v.02')	increases increased increasing increase
+Synset('mouse.n.01')	mouse mice
+Synset('switch.v.06')	switches switched switch
+Synset('obtain.v.01')	obtain obtained obtaining
+Synset('nautical_mile.n.02')	mis mile knot mi miles
+Synset('ripple.v.02')	bubble babble
+Synset('shell.n.02')	shell shells
+Synset('knight.n.01')	knights knight
+Synset('support.n.11')	funding backing supports support
+Synset('sophisticate.v.03')	doctor sophisticated doctors
+Synset('share.v.02')	shared share sharing
+Synset('produce.v.06')	producing produce
+Synset('bit.n.11')	bits bit
+Synset('seizure.n.04')	seizure seizures
+Synset('understand.v.01')	understand understanding understood understands
+Synset('nurse.v.01')	nurse nursing nurses
+Synset('restaurant.n.01')	restaurant restaurants
+Synset('claim.n.01')	claims claim
+Synset('score.n.10')	score scores
+Synset('digitize.v.01')	digitize digitized digitizing
+Synset('push.v.02')	push pushing
+Synset('wonder.v.02')	question questioned questions wondering wondered
+Synset('provide.v.03')	providing provide provided
+Synset('recognize.v.04')	recognised recognise recognized recognize
+Synset('total.v.01')	number numbering total numbered totals coming
+Synset('gesture.n.01')	gestures gesture
+Synset('roar.v.01')	howling roaring roar howl
+Synset('vote.n.02')	votes vote
+Synset('quack.n.01')	quack quacks
+Synset('carom.n.02')	cannons cannon
+Synset('beat.v.16')	beaten beats
+Synset('step.v.08')	step stepping
+Synset('sink.v.01')	dropping dropped sunk sank
+Synset('execration.n.02')	condemnation curses curse
+Synset('parse.v.01')	parse parsing
+Synset('subjugate.v.02')	subjected subject
+Synset('help.v.01')	assisted aided assists helping assist helped helps aid
+Synset('upgrade.n.04')	upgrade rise rises
+Synset('alamo.n.01')	alamo alamos
+Synset('hamburger.n.01')	burger hamburgers
+Synset('drive.v.07')	driving drives drove driven drive
+Synset('caterpillar.n.02')	caterpillar cats cat
+Synset('consist.v.03')	consisted consists consist
+Synset('emission.n.03')	emission emissions
+Synset('tip.v.03')	feed fees fee tip tipped tips
+Synset('rebel.n.01')	rebel rebels johnny
+Synset('promoter.n.01')	boosters booster
+Synset('dialogue.n.02')	dialog dialogue
+Synset('trench.v.05')	trench ditch
+Synset('call.v.09')	call called calls calling
+Synset('thump.v.03')	pound pounds pounding poke
+Synset('create.v.03')	created creating create
+Synset('imagine.v.01')	imagine imagined
+Synset('subscriber.n.02')	readers reader subscribers
+Synset('striving.n.01')	striving pains
+Synset('printer.n.01')	printers printer
+Synset('recall.v.05')	recalled recall
+Synset('project.v.03')	projected projects project
+Synset('texture.n.05')	textures texture grain grains
+Synset('eliminate.v.07')	eliminated eliminates eliminating eliminate
+Synset('pair.v.04')	pair pairs
+Synset('beatnik.n.01')	beat beats
+Synset('web.v.01')	web net
+Synset('pink.v.02')	pink knock knocking ping knocked
+Synset('claim.v.01')	claiming claimed claims claim
+Synset('erbium.n.01')	ers er
+Synset('supply.n.01')	supplies supply
+Synset('write.v.08')	wrote save writes
+Synset('picture.n.01')	image images icon icons picture pictures
+Synset('transport.v.02')	carried carries transported carry carrying
+Synset('result.v.03')	resulted resulting
+Synset('blessing.n.01')	approval approving
+Synset('trench.n.03')	trench trenches
+Synset('bind.v.03')	bind bound
+Synset('speculation.n.02')	speculations speculation
+Synset('question.n.03')	question interrogation questions
+Synset('coat.n.01')	coat coats
+Synset('engineer.v.01')	engineered engineers engineer
+Synset('secrete.v.01')	releasing release released
+Synset('partner.n.03')	partner partners
+Synset('scout.v.01')	scouts scouting scout
+Synset('water.n.01')	waters water
+Synset('transform.v.06')	transform transforms transformed
+Synset('pair.n.01')	pair pairs
+Synset('construction.n.07')	buildings construction building
+Synset('vanish.v.04')	disappeared disappear disappears vanish
+Synset('mention.n.03')	mentions mention
+Synset('plead.v.04')	plead pleading
+Synset('homer.n.01')	homers homer
+Synset('zone.n.02')	zone zones
+Synset('tiger.n.02')	tiger tigers
+Synset('seaport.n.01')	haven harbor
+Synset('crash.n.05')	crashes crash
+Synset('cover.v.01')	covering covered
+Synset('bank.v.03')	bank banks
+Synset('substantial.a.03')	material real substantial
+Synset('propose.v.05')	proposing offer offers proposed offered proposes propose
+Synset('printer.n.02')	printers printer
+Synset('missionary.n.01')	missionaries missionary
+Synset('suspend.v.02')	suspend suspended
+Synset('sell.n.01')	sells sell
+Synset('write.v.07')	wrote writes
+Synset('symptom.n.01')	symptoms symptom
+Synset('subscriber.n.03')	contributor contributors
+Synset('preach.v.02')	advocating advocated advocates preach preached preaching advocate
+Synset('credible.a.01')	credible believable
+Synset('dare.v.02')	dared dare
+Synset('approach.v.05')	approaching approached approaches approach
+Synset('order.n.01')	orders order
+Synset('replicate.v.02')	copies copied copying copy
+Synset('rationale.n.01')	principle principles rationale
+Synset('crash.v.09')	crashed crashes crashing crash
+Synset('worldly.a.01')	secular worldly temporal
+Synset('soldier.n.01')	soldier soldiers
+Synset('sinus.n.02')	sinus sinuses
+Synset('shroud.v.01')	cover hiding
+Synset('idaho.n.01')	ids id idaho
+Synset('referee.n.01')	ref refs referee
+Synset('place.v.02')	places place
+Synset('tower.n.01')	towers tower
+Synset('poll.v.01')	polls poll
+Synset('reduce.v.04')	reduce reduced
+Synset('sell.v.05')	sold sells sell selling
+Synset('shell.n.08')	shell case
+Synset('dial.v.01')	dialing dial
+Synset('preponderate.v.01')	outweigh outweighs
+Synset('emerge.v.01')	emerge emerging
+Synset('bind.v.04')	bind bound
+Synset('make.v.38')	made makes
+Synset('april.n.01')	apr april
+Synset('rudiment.n.01')	abc alphabet
+Synset('zone.n.03')	zone zones
+Synset('supernumerary.n.02')	extra extras
+Synset('vitamin.n.01')	vitamins vitamin
+Synset('inning.n.01')	frames inning innings
+Synset('allergy.n.01')	allergies allergy
+Synset('glove.n.02')	gloves glove
+Synset('noise.n.03')	noise interference
+Synset('listen.v.01')	listening listened
+Synset('resistor.n.01')	resistors resistances resistor resistance
+Synset('obfuscate.v.01')	obfuscate obfuscated
+Synset('description.n.02')	description descriptions
+Synset('radiance.n.01')	glowing glow radiance
+Synset('natural_process.n.01')	activity activities action actions
+Synset('scientist.n.01')	scientists scientist
+Synset('slither.v.01')	sliding slid slide
+Synset('paragraph.n.01')	paragraph paragraphs
+Synset('entree.n.02')	access admissions admission
+Synset('drift.v.10')	drifted drift
+Synset('industry.n.01')	industries industry
+Synset('degrade.v.03')	cheapen degrade degrades
+Synset('plant.v.05')	planted plants plant planting
+Synset('structure.n.03')	structures structure
+Synset('incarnate.v.01')	incarnate incarnated
+Synset('volume.n.01')	volume volumes
+Synset('roll.v.15')	rolling rolled
+Synset('church.n.01')	church churches
+Synset('record.n.01')	records record
+Synset('detonator.n.01')	cap caps
+Synset('weave.v.02')	tissues tissue
+Synset('explanation.n.01')	explanations accounts explanation account
+Synset('winnow.v.01')	fan fans
+Synset('throw.v.08')	throwing threw throw thrown
+Synset('mailer.n.03')	mailers mailer
+Synset('policy.n.01')	policies policy
+Synset('recall.n.01')	recalls recall callback callbacks
+Synset('recognition.n.01')	acknowledgement recognition acknowledgment
+Synset('invest.v.03')	invest clothing invested clothes
+Synset('trench.n.01')	trench trenches
+Synset('shot.n.05')	shooter shots
+Synset('apostle.n.03')	apostle apostles
+Synset('yankee.n.01')	yankee yankees yanks
+Synset('reward.v.03')	reward repay rewarded
+Synset('impact.n.01')	impact impacts
+Synset('serve.v.02')	serves served serve
+Synset('washington.n.02')	wa washington
+Synset('suit.n.06')	suit suits
+Synset('jacket.v.02')	jacket jackets
+Synset('shade.v.02')	shading shade
+Synset('barn.n.02')	bs barn
+Synset('election.n.01')	election elections
+Synset('observe.v.06')	keeping celebrate celebrated observing celebrating observe observed
+Synset('compact_disk.n.01')	cd cds
+Synset('sleep.v.02')	sleep sleeping
+Synset('advantage.v.01')	advantages advantage
+Synset('crash.n.03')	crashes collapse crash
+Synset('scaling.n.01')	scaling grading
+Synset('summarize.v.02')	summarized summarize summarizes summarizing
+Synset('aspect.n.04')	aspect aspects
+Synset('error.n.06')	error errors
+Synset('sequence.n.03')	sequence episode sequences episodes
+Synset('cord.n.02')	cord cords
+Synset('sodium.n.01')	sodium na
+Synset('head.v.07')	head heading headings heads headed
+Synset('subject.v.01')	subjected subject
+Synset('tag.n.05')	tag tags
+Synset('apostle.n.02')	apostle apostles
+Synset('transport.v.04')	ships send
+Synset('structure.n.02')	structures structure
+Synset('vanish.v.02')	disappear vanish
+Synset('hut.n.01')	hut huts
+Synset('present.n.01')	nowadays present presents
+Synset('policy.n.02')	policies policy
+Synset('realize.v.05')	realised realise
+Synset('suction_stop.n.01')	clicks click
+Synset('control_condition.n.01')	controls control
+Synset('trench.n.02')	deep trench
+Synset('sea.n.01')	seas sea
+Synset('put_on.v.07')	applies applied apply
+Synset('tag.n.04')	tag tags
+Synset('utah.n.01')	utah ut
+Synset('socialist.n.01')	socialists socialist
+Synset('tin.n.01')	tin sn
+Synset('bill.n.07')	bill bills
+Synset('rival.n.01')	contenders competitors competitor challenger competition contender
+Synset('democracy.n.01')	democracy democracies
+Synset('recording.n.03')	recordings recording
+Synset('invite.v.04')	invited invite bid
+Synset('love.v.03')	love loving loved loves
+Synset('category.n.02')	categories category
+Synset('fund.v.02')	funding fund funded funds
+Synset('loan.n.01')	loan loans
+Synset('manipulate.v.05')	manipulating control manipulated manipulate
+Synset('limit.v.02')	confined limited limit limiting confines limits
+Synset('wait.v.01')	wait waiting waits waited
+Synset('refer.v.03')	referring refers refer referred
+Synset('tug.v.02')	driving drives drove tug driven pushed drive push labour
+Synset('hope.n.06')	hopes hope
+Synset('turn.n.09')	bout round turn turns
+Synset('produce.n.01')	produces produce
+Synset('imprint.v.01')	forming formed
+Synset('frighten.v.02')	frightening frightened
+Synset('set.v.04')	marked set mark
+Synset('wind.v.02')	curves curved curve
+Synset('wreath.n.01')	lei coronal
+Synset('system.n.01')	system systems
+Synset('access.v.01')	accessing access accessed accesses
+Synset('shake.v.01')	shake shook
+Synset('belt.n.03')	belt belts
+Synset('drive.v.03')	driving drives drove driven drive
+Synset('servicing.n.01')	services servicing
+Synset('man.v.01')	manning manes manned man
+Synset('opening.n.01')	gap gaps opening
+Synset('stamp.n.03')	impression impressions
+Synset('address.n.02')	addresses address
+Synset('agreement.n.06')	agreement agreements
+Synset('friend.n.01')	friend friends
+Synset('organism.n.01')	organism organisms beings
+Synset('shock.v.03')	shocking shocked
+Synset('squid.n.02')	squid squids
+Synset('attribute.n.02')	attributes attribute
+Synset('holiday.n.02')	holidays holiday
+Synset('free-base.v.01')	based basing
+Synset('man.v.02')	manning manned
+Synset('surgical.a.02')	surgical operative
+Synset('medication.n.02')	medications medication
+Synset('dissuade.v.01')	deter deterred
+Synset('production.n.07')	production productions
+Synset('explanation.n.03')	explanations explanation
+Synset('throw.v.06')	throwing switching flipped threw throw switches thrown switched flipping throws flip switch
+Synset('spy.v.04')	spied spy
+Synset('token.n.01')	item items token
+Synset('forecast.v.01')	calculating calculate
+Synset('absorb.v.05')	absorb absorbed
+Synset('mother.n.01')	mother mothers
+Synset('network.v.01')	networking networks networked network
+Synset('surf.n.01')	surf breaker
+Synset('tank.v.01')	tanks tank
+Synset('observe.v.08')	maintain observing maintaining observe
+Synset('review.n.09')	reviews review
+Synset('fund.v.03')	funding fund funded funds
+Synset('surprise.v.01')	surprise surprising surprises surprised
+Synset('command.v.01')	commanded command commands
+Synset('martyr.n.02')	martyr martyrs
+Synset('venous_sinus.n.01')	sinus sinuses
+Synset('vector.n.01')	vectors vector
+Synset('myth.n.01')	myth myths
+Synset('water.n.06')	waters water
+Synset('homosexual.n.01')	gays homo homosexual gay homosexuals
+Synset('set.v.05')	set setting
+Synset('proposal.n.01')	proposal proposals
+Synset('pay.v.10')	paying paid pay pays
+Synset('contact.n.03')	contact contacts
+Synset('minute.n.01')	mins min minutes minute
+Synset('exist.v.01')	exist existing exists existed bees
+Synset('section.n.10')	section sections
+Synset('steel.v.01')	nerves steel
+Synset('last.v.01')	enduring endure lasted lasting
+Synset('surrender.v.01')	surrendered surrender
+Synset('transformer.n.01')	transformers transformer
+Synset('silver.n.01')	ag silver
+Synset('squid.n.01')	squid squids
+Synset('minister.n.02')	minister ministers
+Synset('fire.n.04')	fires fire
+Synset('egg.n.01')	eggs egg
+Synset('roll.v.14')	rolling roll rolled rolls
+Synset('linear.a.01')	linear additive
+Synset('intellectual.n.01')	intellect intellectuals intellectual
+Synset('snap.v.10')	clicked clicking
+Synset('gate.v.03')	gates gate
+Synset('simplify.v.01')	simplified simplify
+Synset('videotape.v.01')	videotaped videotape
+Synset('fit.n.03')	fit fits
+Synset('surprise.v.02')	surprise surprising surprises surprised
+Synset('transmitter.n.03')	sender transmitter
+Synset('relieve.v.01')	relieve alleviate
+Synset('clinic.n.02')	clinics clinic
+Synset('gauge.n.01')	gauge gauges
+Synset('tent.n.01')	tent tents
+Synset('event.n.01')	event events
+Synset('pervert.v.03')	abuse misused abuses misuse abusing abused
+Synset('placard.v.02')	bill billing
+Synset('boil.v.01')	boiling boil
+Synset('credit.n.08')	credits credit
+Synset('engine.n.04')	engine engines
+Synset('escape.v.07')	escaped escaping
+Synset('sleeve.n.01')	sleeve arms arm sleeves
+Synset('possession.n.01')	possessions ownership possession
+Synset('manufacture.v.01')	manufacture constructing constructed manufacturing construct constructs manufactures manufactured
+Synset('wild.a.02')	wilder wild
+Synset('textbook.n.01')	textbook text textbooks
+Synset('gold.n.03')	gold au
+Synset('refugee.n.01')	refugees refugee
+Synset('sports_fan.n.01')	fan fans
+Synset('interrupt.v.03')	disrupt interrupted
+Synset('fund.v.05')	funding funded
+Synset('rate.v.01')	rated ordering rating ranked rank ranking
+Synset('fall.v.31')	falling falls
+Synset('chronicle.v.01')	chronicles chronicle
+Synset('aim.n.03')	aims aim
+Synset('claim.v.03')	claiming claimed claims claim
+Synset('philosophy.n.02')	philosophies philosophy
+Synset('server.n.03')	server servers hosts host
+Synset('pose.v.03')	pose poses posed posing
+Synset('miss.v.06')	lacking lacked
+Synset('information.n.01')	information info
+Synset('quote.v.04')	quoted quoting quote
+Synset('passport.n.02')	passport passports
+Synset('strait.n.01')	sounds sound strait
+Synset('reading.n.03')	indications readings reading indication
+Synset('question.n.01')	inquiries enquiries inquiry query queries
+Synset('magnetic_disk.n.01')	disk disks disc
+Synset('nail.n.02')	nail nails
+Synset('tap.v.06')	tapes tapped taped tap tapping taps
+Synset('device.n.01')	devices device
+Synset('matter_to.v.01')	interest interesting interested
+Synset('obey.v.01')	obey obeyed obeying
+Synset('wasp.n.02')	wasp wasps
+Synset('listening.n.01')	listening hearing
+Synset('quote.v.03')	quoted quoting quote cites cited citing cite quotes
+Synset('ride.v.02')	riding rode rides ride ridden
+Synset('refer.v.04')	referring refer referred
+Synset('sediment.n.01')	deposit deposits
+Synset('vector.n.03')	vectors vector transmitter
+Synset('nitrogen.n.01')	ns nitrogen
+Synset('radius.n.01')	rs radius
+Synset('slash.v.01')	slashing slashed
+Synset('drug.v.01')	drugs drug
+Synset('silicon.n.01')	silicon si
+Synset('treaty.n.01')	pact treaty accord treaties
+Synset('work.v.19')	worked working workings
+Synset('cross.n.03')	cross crosses
+Synset('temper.v.04')	temper season
+Synset('paint.v.04')	painted paint
+Synset('pop.v.12')	popping popped
+Synset('limitation.n.02')	limitation limitations
+Synset('point.v.09')	pointed pointing point points
+Synset('crew.n.01')	crews crew
+Synset('abstraction.n.01')	abstracts abstraction abstract
+Synset('psychoanalysis.n.01')	analyses analysis
+Synset('reform.v.05')	reform reforms
+Synset('prognosis.n.01')	forecast prognosis
+Synset('report.n.02')	reports report accounts
+Synset('spy.v.03')	spied spying sight sighted sightings sighting spy
+Synset('trouble.n.01')	problem problems
+Synset('penguin.n.01')	penguins penguin
+Synset('joint.n.01')	joint joints
+Synset('deep.a.03')	deep deepest deeper
+Synset('diet.n.03')	diet diets
+Synset('jewel.n.02')	gems gem
+Synset('seal.n.09')	seals seal
+Synset('question.n.02')	question questions
+Synset('tremble.n.01')	shake shiver
