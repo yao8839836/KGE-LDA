@@ -20,7 +20,7 @@ To reproduce the results in the paper:
 
 (1) Decompress /KGE-LDA/data.zip and /KGE-LDA/file.7z in the same fold.
 
-(2) Download the three Wikipedia index files 20ng_word_wiki_small_index.zip (https://yunpan.cn/ckY9CXMzLnTtQ  password: 4670), nips_word_wiki_index_small.rar and ohsumed_23_word_wiki_index.zip(), decompress them and put the decompressed folds to the GKLDA-master/Src/file/, /KGE-LDA/file/ and /LFTM/file/.
+(2) Download the three Wikipedia index files 20ng_word_wiki_small_index.zip (https://yunpan.cn/ckY9CXMzLnTtQ  password: 4670), nips_word_wiki_index_small.rar () and ohsumed_23_word_wiki_index.zip (http://pan.baidu.com/s/1miATVkO), decompress them and put the decompressed folds to the GKLDA-master/Src/file/, /KGE-LDA/file/ and /LFTM/file/.
 The 4,776,093 Wikipedia articles are at (https://yunpan.cn/ckR9G2aB8egz9  password: b61d), I extracted them from http://deepdive.stanford.edu/opendata/.
 
 (3) Run the main entries.
@@ -34,3 +34,5 @@ The 4,776,093 Wikipedia articles are at (https://yunpan.cn/ckR9G2aB8egz9  passwo
 (3) The linked entities in WordNet(via NLTK) are in /KGE-LDA/file/20ng_wordnet/, /KGE-LDA/file/nips_wordnet/ and /KGE-LDA/file/ohsumed_wordnet/. their ids are in /KGE-LDA/file/xxx_wordnet_id/.
 
 (4) To tokenize your own documents, you also need to download the model file of Stanford CoreNLP (https://yunpan.cn/ckRNFSvtsNY3w  password: dbfd) and add it to the class path.
+
+(5) The unique entities for 20NG are in /KGE-LDA/knowledge/WN18/entity_appear.txt, the unique entities for NIPS are in /KGE-LDA/knowledge/WN18/entity_appear_nips.txt,  the unique entities for Ohsumed are in /KGE-LDA/knowledge/WN18/entity_appear_ohsumed.txt
