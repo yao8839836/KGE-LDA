@@ -4,6 +4,12 @@ The implementation of Knowledge Graph Embedding LDA.
 
 Require Java 7+ and Eclipse.
 
+#Implementation
+
+KGE-LDA(a): KGE-LDA/src/topic/LinkLDA_KGE.java
+
+KGE-LDA(b): KGE-LDA/src/topic/CorrLDA_KGE.java
+
 # Main entries
 
 The main entries for KGE-LDA(a), KGE-LDA(b), Corr-LDA, CI-LDA (Link-LDA), CTM and LDA on the three datasets 20NG, NIPS and Ohsumed are in KGE-LDA/src/result20ng/, KGE-LDA/src/resultnips/ and KGE-LDA/src/resultohsumed/.
