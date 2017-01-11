@@ -1,6 +1,8 @@
 # KGE-LDA
 
-The implementation of Knowledge Graph Embedding LDA.
+The implementation of Knowledge Graph Embedding LDA in our paper:
+
+Liang Yao, Yin Zhang, Baogang Wei, Zhe Jin, Rui Zhang, Yangyang Zhang, Qinfei Chen. Incorporating Knowledge Graph Embeddings into Topic Modeling.  In 31st AAAI Conference on Artificial Intelligence (AAAI 2017). (accepted)
 
 Require Java 7+ and Eclipse.
 
