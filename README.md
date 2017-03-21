@@ -6,7 +6,7 @@ Liang Yao, Yin Zhang, Baogang Wei, Zhe Jin, Rui Zhang, Yangyang Zhang, Qinfei Ch
 
 Require Java 7+ and Eclipse.
 
-#Implementation
+# Implementation
 
 KGE-LDA(a): KGE-LDA/src/topic/LinkLDA_KGE.java
 
@@ -33,7 +33,7 @@ The 4,776,093 Wikipedia articles are at (http://pan.baidu.com/s/1slaTPoT), I ext
 
 (3) Run the main entries.
 
-#Others
+# Others
 
 (1) The raw text datasets are in three folds under /KGE-LDA/data/.
 
