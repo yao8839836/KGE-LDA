@@ -2,7 +2,7 @@
 
 The implementation of Knowledge Graph Embedding LDA in our paper:
 
-Liang Yao, Yin Zhang, Baogang Wei, Zhe Jin, Rui Zhang, Yangyang Zhang, Qinfei Chen. Incorporating Knowledge Graph Embeddings into Topic Modeling.  In 31st AAAI Conference on Artificial Intelligence (AAAI 2017). (accepted)
+Liang Yao, Yin Zhang, Baogang Wei, Zhe Jin, Rui Zhang, Yangyang Zhang, and Qinfei Chen. "Incorporating Knowledge Graph Embeddings into Topic Modeling." In Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17), pp. 3119-3126. AAAI Press, 2017.
 
 Require Java 7+ and Eclipse.
 
