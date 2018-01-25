@@ -47,4 +47,7 @@ The 4,776,093 Wikipedia articles are at (http://pan.baidu.com/s/1slaTPoT), I ext
 
 (6) The unique entities for 20NG are in /KGE-LDA/knowledge/WN18/entity_appear.txt, the unique entities for NIPS are in /KGE-LDA/knowledge/WN18/entity_appear_nips.txt,  the unique entities for Ohsumed are in /KGE-LDA/knowledge/WN18/entity_appear_ohsumed.txt
 
-(7) The 50 dimensional entity embeddings for 20NG are in /KGE-LDA/knowledge/WN18/entity2vec_appear.bern, the 50 dimensional entity embeddings for NIPS are in /KGE-LDA/knowledge/WN18/entity2vec_appear_nips.bern, the 50 dimensional entity embeddings for Ohsumed are in /KGE-LDA/knowledge/WN18/entity2vec_appear_ohsumed.bern. To get all 50 dimensional entity embeddings in WN18, see the three files: /KGE-LDA/knowledge/WN18/entity2vec.bern, /KGE-LDA/knowledge/WN18/entity2id.txt, /KGE-LDA/knowledge/WN18/num_synset.txt
+(7) I used this implementation of TransE to obtain entity embeddings:
+https://github.com/thunlp/KB2E
+
+(8) The 50 dimensional entity embeddings for 20NG are in /KGE-LDA/knowledge/WN18/entity2vec_appear.bern, the 50 dimensional entity embeddings for NIPS are in /KGE-LDA/knowledge/WN18/entity2vec_appear_nips.bern, the 50 dimensional entity embeddings for Ohsumed are in /KGE-LDA/knowledge/WN18/entity2vec_appear_ohsumed.bern. To get all 50 dimensional entity embeddings in WN18, see the three files: /KGE-LDA/knowledge/WN18/entity2vec.bern, /KGE-LDA/knowledge/WN18/entity2id.txt, /KGE-LDA/knowledge/WN18/num_synset.txt
