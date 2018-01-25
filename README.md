@@ -36,7 +36,7 @@ The 4,776,093 Wikipedia articles are at (http://pan.baidu.com/s/1slaTPoT), I ext
 
 (1) The raw text datasets are in three folds under /KGE-LDA/data/.
 
-(2) The tokenized documents are in /KGE-LDA/file/20ng/, /KGE-LDA/file/nips/ and /KGE-LDA/file/ohsumed/.
+(2) The tokenized documents are in /KGE-LDA/file/20ng/, /KGE-LDA/file/nips/ and /KGE-LDA/file/ohsumed/. Documents after stopwords removing are in /KGE-LDA/file/xxx_remove_stop. Documents after stopwords and rare words removing are in /KGE-LDA/file/xxx_remove_rare. 
 
 
 (3) The input text for the KGE-LDA model should be like (please decompress data.zip):
