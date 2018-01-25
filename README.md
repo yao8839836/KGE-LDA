@@ -39,15 +39,24 @@ The 4,776,093 Wikipedia articles are at (http://pan.baidu.com/s/1slaTPoT), I ext
 
 (2) The tokenized documents are in /KGE-LDA/file/20ng/, /KGE-LDA/file/nips/ and /KGE-LDA/file/ohsumed/.
 
-(3) The linked entities in WordNet(via NLTK) are in /KGE-LDA/file/20ng_wordnet/, /KGE-LDA/file/nips_wordnet/ and /KGE-LDA/file/ohsumed_wordnet/. their ids are in /KGE-LDA/file/xxx_wordnet_id/.
 
-(4) file/runnltk.py is an example of entity linking for Ohsumed dataset.
+(3) The input text for the KGE-LDA model should be like (please decompress data.zip):
+data//corpus_20ng.txt
+Each line represents a document. each number is an index of a word in the vocabulary.
 
-(5) To tokenize your own documents, you also need to download the model file of Stanford CoreNLP (http://pan.baidu.com/s/1bpDqa7d) and add it to the class path.
+(4) The vocabulary should be like (please decompress data.zip):
+data//vocab_20ng.txt
+Each line is a word, the first word is 0 in data//corpus_20ng.txt, the second word is 1 in data//corpus_20ng.txt, the third word is 2 in data//corpus_20ng.txt, ...
 
-(6) The unique entities for 20NG are in /KGE-LDA/knowledge/WN18/entity_appear.txt, the unique entities for NIPS are in /KGE-LDA/knowledge/WN18/entity_appear_nips.txt,  the unique entities for Ohsumed are in /KGE-LDA/knowledge/WN18/entity_appear_ohsumed.txt
+(5) The linked entities in WordNet(via NLTK) are in /KGE-LDA/file/20ng_wordnet/, /KGE-LDA/file/nips_wordnet/ and /KGE-LDA/file/ohsumed_wordnet/. their ids are in /KGE-LDA/file/xxx_wordnet_id/.
 
-(7) I used this implementation of TransE to obtain entity embeddings:
+(6) file/runnltk.py is an example of entity linking for Ohsumed dataset.
+
+(7) To tokenize your own documents, you also need to download the model file of Stanford CoreNLP (http://pan.baidu.com/s/1bpDqa7d) and add it to the class path.
+
+(8) The unique entities for 20NG are in /KGE-LDA/knowledge/WN18/entity_appear.txt, the unique entities for NIPS are in /KGE-LDA/knowledge/WN18/entity_appear_nips.txt,  the unique entities for Ohsumed are in /KGE-LDA/knowledge/WN18/entity_appear_ohsumed.txt
+
+(9) I used this implementation of TransE to obtain entity embeddings:
 https://github.com/thunlp/KB2E. See the Readme of the project for more details.
 
-(8) The 50 dimensional entity embeddings for 20NG are in /KGE-LDA/knowledge/WN18/entity2vec_appear.bern, the 50 dimensional entity embeddings for NIPS are in /KGE-LDA/knowledge/WN18/entity2vec_appear_nips.bern, the 50 dimensional entity embeddings for Ohsumed are in /KGE-LDA/knowledge/WN18/entity2vec_appear_ohsumed.bern. To get all 50 dimensional entity embeddings in WN18, see the three files: /KGE-LDA/knowledge/WN18/entity2vec.bern, /KGE-LDA/knowledge/WN18/entity2id.txt, /KGE-LDA/knowledge/WN18/num_synset.txt
+(10) The 50 dimensional entity embeddings for 20NG are in /KGE-LDA/knowledge/WN18/entity2vec_appear.bern, the 50 dimensional entity embeddings for NIPS are in /KGE-LDA/knowledge/WN18/entity2vec_appear_nips.bern, the 50 dimensional entity embeddings for Ohsumed are in /KGE-LDA/knowledge/WN18/entity2vec_appear_ohsumed.bern. To get all 50 dimensional entity embeddings in WN18, see the three files: /KGE-LDA/knowledge/WN18/entity2vec.bern, /KGE-LDA/knowledge/WN18/entity2id.txt, /KGE-LDA/knowledge/WN18/num_synset.txt
