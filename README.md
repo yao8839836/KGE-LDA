@@ -51,7 +51,7 @@ data//vocab_20ng.txt. Each line is a word, the first word is 0 in data//corpus_2
 
 (7) To tokenize your own documents, you also need to download the model file of Stanford CoreNLP (http://pan.baidu.com/s/1bpDqa7d) and add it to the class path.
 
-(8) The unique entities for 20NG are in /KGE-LDA/knowledge/WN18/entity_appear.txt, the unique entities for NIPS are in /KGE-LDA/knowledge/WN18/entity_appear_nips.txt,  the unique entities for Ohsumed are in /KGE-LDA/knowledge/WN18/entity_appear_ohsumed.txt
+(8) The unique entities ids for 20NG are in /KGE-LDA/knowledge/WN18/entity_appear.txt, the unique entities ids for NIPS are in /KGE-LDA/knowledge/WN18/entity_appear_nips.txt,  the unique entities ids for Ohsumed are in /KGE-LDA/knowledge/WN18/entity_appear_ohsumed.txt
 
 (9) I used this implementation of TransE to obtain entity embeddings:
 https://github.com/thunlp/KB2E. See the Readme of the project for more details about how to prepare knowledge graphs and obtain embeddings.
