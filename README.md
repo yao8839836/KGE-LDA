@@ -54,6 +54,6 @@ data//vocab_20ng.txt. Each line is a word, the first word is 0 in data//corpus_2
 (8) The unique entities for 20NG are in /KGE-LDA/knowledge/WN18/entity_appear.txt, the unique entities for NIPS are in /KGE-LDA/knowledge/WN18/entity_appear_nips.txt,  the unique entities for Ohsumed are in /KGE-LDA/knowledge/WN18/entity_appear_ohsumed.txt
 
 (9) I used this implementation of TransE to obtain entity embeddings:
-https://github.com/thunlp/KB2E. See the Readme of the project for more details.
+https://github.com/thunlp/KB2E. See the Readme of the project for more details about how to prepare knowledge graphs and obtain embeddings.
 
 (10) The 50 dimensional entity embeddings for 20NG are in /KGE-LDA/knowledge/WN18/entity2vec_appear.bern, the 50 dimensional entity embeddings for NIPS are in /KGE-LDA/knowledge/WN18/entity2vec_appear_nips.bern, the 50 dimensional entity embeddings for Ohsumed are in /KGE-LDA/knowledge/WN18/entity2vec_appear_ohsumed.bern. To get all 50 dimensional entity embeddings in WN18, see the three files: /KGE-LDA/knowledge/WN18/entity2vec.bern, /KGE-LDA/knowledge/WN18/entity2id.txt, /KGE-LDA/knowledge/WN18/num_synset.txt
