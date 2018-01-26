@@ -40,12 +40,12 @@ The 4,776,093 Wikipedia articles are at (http://pan.baidu.com/s/1slaTPoT), I ext
 
 
 (3) The input text for the KGE-LDA model should be like (please decompress data.zip):
-data//corpus_20ng.txt. Each line represents a document. each number is an index of a word in the vocabulary.
+data//corpus_20ng.txt. Each line represents a document. Each number is an index of a word in the vocabulary.
 
 (4) The vocabulary should be like (please decompress data.zip):
 data//vocab_20ng.txt. Each line is a word, the first word is 0 in data//corpus_20ng.txt, the second word is 1 in data//corpus_20ng.txt, the third word is 2 in data//corpus_20ng.txt...
 
-(5) The linked entities in WordNet(via NLTK) of each document are in /KGE-LDA/file/20ng_wordnet/, /KGE-LDA/file/nips_wordnet/ and /KGE-LDA/file/ohsumed_wordnet/. their ids are in /KGE-LDA/file/xxx_wordnet_id/. Each file name represents the index of the document.
+(5) The linked entities in WordNet(via NLTK) of each document are in /KGE-LDA/file/20ng_wordnet/, /KGE-LDA/file/nips_wordnet/ and /KGE-LDA/file/ohsumed_wordnet/. Their ids are in /KGE-LDA/file/xxx_wordnet_id/. Each file name represents the index of the document.
 
 (6) file/runnltk.py is an example of entity linking for Ohsumed dataset.
 
