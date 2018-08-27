@@ -27,7 +27,7 @@ To reproduce the results in the paper:
 
 (1) Decompress /KGE-LDA/data.zip and /KGE-LDA/file.7z in the same fold.
 
-(2) Download the three Wikipedia index files 20ng_word_wiki_small_index.zip (http://pan.baidu.com/s/1qXDVoVq and https://drive.google.com/open?id=1yA3tJNIFoZYQQCMMieQCzN0ABUscJNYB), nips_word_wiki_index_small.rar (http://pan.baidu.com/s/1hs9HZve and https://drive.google.com/file/d/1z7y003TsprENKJ3V92sG_SHwst5MFWBN/view?usp=sharing) and ohsumed_23_word_wiki_index.zip (http://pan.baidu.com/s/1miATVkO and https://drive.google.com/open?id=127zVR2GH7AXvIL1xRbXWWzQaSDwzxtLG), decompress them and put the decompressed folds to the GKLDA-master/Src/file/, /KGE-LDA/file/ and /LFTM/file/.
+(2) Download the three Wikipedia index files 20ng_word_wiki_small_index.zip (http://pan.baidu.com/s/1qXDVoVq and https://drive.google.com/open?id=1yA3tJNIFoZYQQCMMieQCzN0ABUscJNYB), nips_word_wiki_index_small.rar (http://pan.baidu.com/s/1hs9HZve and https://drive.google.com/file/d/1z7y003TsprENKJ3V92sG_SHwst5MFWBN/view?usp=sharing) and ohsumed_23_word_wiki_index.zip (http://pan.baidu.com/s/1miATVkO and https://drive.google.com/open?id=127zVR2GH7AXvIL1xRbXWWzQaSDwzxtLG), decompress them and put the decompressed folders to the GKLDA-master/Src/file/, /KGE-LDA/file/ and /LFTM/file/.
 The 4,776,093 Wikipedia articles are at (http://pan.baidu.com/s/1slaTPoT and https://drive.google.com/open?id=1JTLu-AqNhf7xUWTgKKm8360wT0OQve7O), I extracted them from http://deepdive.stanford.edu/opendata/.
 
 (3) Run the main entries.
